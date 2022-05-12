@@ -21,7 +21,7 @@ def parse(name):
 	else:
 		preposition = 0
 
-		for word in ['of', 'for', 'in']:
+		for word in ['of', 'for', 'in', 'or']:
 			if ' ' + word + ' ' in name:
 				preposition = name.split().index(word)
 
