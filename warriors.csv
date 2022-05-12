@@ -1,0 +1,999 @@
+# Traits in Affinity,weapon,# Traits,body,rune,% Traits in Affinity,Affinity,background,head,companion,shield,token_id,numTraits,image,name
+4,Meta Sword,6,Dominion Plate Armor,Rune of Omega,66 percent,Darkness,Black,Darkling,Black Goat,Illuminatus Shield,0,11,https://portal.forgottenrunes.com/api/warriors/img/0,The Emissary
+3,Sword of Babylon,3,Sovereign Epic Gear,,100 percent,Desert,Black,Akkadian,,,1,8,https://portal.forgottenrunes.com/api/warriors/img/1,Gligamesh
+3,Joyeuse,6,Amethyst Spike Armor,Rune of Venus,50 percent,Blackness,Black,Motor Assassin,Black Goat,Iron Buckler,2,11,https://portal.forgottenrunes.com/api/warriors/img/2,Drake Guillotiner of the Sun
+3,Battle Axe,6,Honor Guard of the North,Rune of Air,50 percent,Grey,Blue,Lady of the Mountain,Wild Eagle,White Holy Shield,3,11,https://portal.forgottenrunes.com/api/warriors/img/3,Velbi Axe of the Citadel
+4,Lightning Sword,6,Surd Armor,Rune of Protection,66 percent,Purple Haze,Purple,Peahen Warrior,Scarlet Macaw,Triple Triangle Shield,4,11,https://portal.forgottenrunes.com/api/warriors/img/4,Mirembe Dueler of the Tower
+4,Lazurite Dragon Sword,5,Street Hoodlum,Rune of Venus,80 percent,Blue Shift,Blue,Blue Dwarven Helm,Royal Razorback,,5,10,https://portal.forgottenrunes.com/api/warriors/img/5,Brumbum Slicer of the Alley
+5,Ishtar Sword,6,Surd Armor,Rune of Omega,83 percent,Crimson,Red,Flower of the Wheel,Crimson Jaguar,Yellow Buckler,6,11,https://portal.forgottenrunes.com/api/warriors/img/6,Chara Bifurcator of Nothing
+3,,3,Gladiator's Cloak with Olive Briefs,,100 percent,Grey,Blue,Elder,,White Holy Shield,7,8,https://portal.forgottenrunes.com/api/warriors/img/7,Raiden Scissor of the Arena
+3,Flame Thrower,4,Superalloy Bot,,75 percent,Blue Shift,Blue,Guardian Helm,Ultramarine Rhinoceros Beetle,,8,9,https://portal.forgottenrunes.com/api/warriors/img/8,Guy Burner of X
+5,Crystal Claymore,6,Yellow Road Spandex,Rune of Sun,83 percent,Purple Haze,Purple,Valkyrie,Sable Cobra,Yellow Kite,9,11,https://portal.forgottenrunes.com/api/warriors/img/9,Agnes Nullifier of the Back Alley
+4,Katana,6,Nord Armor,Rune of Neptune,66 percent,Armor,Green,Lady of the Mountain,Robo Dog,Wolf Shield,10,11,https://portal.forgottenrunes.com/api/warriors/img/10,Bellicina Chopper of the Mountain
+2,Partisan,5,Gallus Gear,Rune of Fire,40 percent,Spear,Blue,Foot Soldier Helm,,Magic Shield,11,10,https://portal.forgottenrunes.com/api/warriors/img/11,Clyde Paragon of the Duck Alliance
+4,Lazurite Dragon Sword,5,Sakura Dress,Rune of Earth,80 percent,Blue Shift,Blue,Hibernian,Royal Razorback,,12,10,https://portal.forgottenrunes.com/api/warriors/img/12,Riley Amputator of the Mountain
+3,Estoc,6,Brown Knight,Rune of Uranus,50 percent,Feminine,Black,Daughter of the Brine,Mutant Snapping Turtle,Tanker Heater Shield,13,11,https://portal.forgottenrunes.com/api/warriors/img/13,Molly Ruffian of Riffraff
+5,Bowl of Ramen,6,Omega Plate Armor,Rune of Protection,83 percent,Crimson,Red,Blue Knight Helm,Demon Hound,Red Kite,14,11,https://portal.forgottenrunes.com/api/warriors/img/14,Richard of the Flame
+5,Giant Cleaver,6,Yellow Road Spandex,Rune of Cinnabar,83 percent,Purple Haze,Purple,Red Horn Lady Buff,Null Goat,White Holy Shield,15,11,https://portal.forgottenrunes.com/api/warriors/img/15,Keren Eidolon of the Keep
+5,Battle Axe,5,Brown Tunic Armor,Rune of Steel,100 percent,Armor,Blue,Templar,,Gold Herald Shield,16,10,https://portal.forgottenrunes.com/api/warriors/img/16,Humphrey Slayer of Warlocks
+4,Shortbow,6,Guardian Zero,Rune of Saturn,66 percent,Verdant,Green,Summer Warrior,Gigas Hornet,Toxin Shield,17,11,https://portal.forgottenrunes.com/api/warriors/img/17,Cassia Mischief Maker of Robots
+3,Wooden Hammer,6,Nord Armor,Rune of Neptune,50 percent,Blue Shift,Blue,Winter Warrior,Wild Eagle,Gold Holy Shield,18,11,https://portal.forgottenrunes.com/api/warriors/img/18,Alesssandra Bludgeoner of Flowers
+3,Bo Staff,6,Green Amazonian Jumpsuit,Rune of Sun,50 percent,Wild,Black,Bonnie Lass,Northern Lynx,Air Elemental Shield,19,11,https://portal.forgottenrunes.com/api/warriors/img/19,Rachel Clobberer of all that is Holy
+4,Spetum,6,Blue Valkyrie Armor,Rune of Water,66 percent,Blue Shift,Blue,Corsair,Gigas Hornet,Water Elemental Shield,20,11,https://portal.forgottenrunes.com/api/warriors/img/20,Adele Champion of the Rock
+3,Silver Poleaxe,5,Street Hoodlum,Rune of Air,60 percent,Blue Shift,Blue,Jarl Raider,Mutant Snapping Turtle,,21,10,https://portal.forgottenrunes.com/api/warriors/img/21,Faris Guardian of the Alley
+5,Red Shortsword,6,Blue Hedge Knight Armor,Rune of Fire,83 percent,Medieval,Black,Horse Head,Wild Eagle,Might Shield,22,11,https://portal.forgottenrunes.com/api/warriors/img/22,Edmund Chisler of the Mountain
+3,Tuck,5,Argyropoeia Bot,Rune of Mars,60 percent,Armor,Black,Visor Knight,Hyena,,23,10,https://portal.forgottenrunes.com/api/warriors/img/23,Bardora Fencer of X
+4,Purple Longsword,6,West Woodland Cloak,Rune of Saturn,66 percent,Forest,Green,Summer Warrior,Dirt Pig,Magic Shield,24,11,https://portal.forgottenrunes.com/api/warriors/img/24,Luna Slayer of Furgnomes
+2,Bottle of Rune Beer,6,Blue Tunic Armor,Rune of Fire,33 percent,Fur,Blue,Polar Man,Northern Lynx,Gold Holy Shield,25,11,https://portal.forgottenrunes.com/api/warriors/img/25,Ward of the Moon
+5,Wooden Club,5,Green Tunic Armor,Rune of Jupiter,100 percent,Heavy,Black,Imp Warrior,,Tomb Shield,26,10,https://portal.forgottenrunes.com/api/warriors/img/26,Duzzle Eliminator of the East
+2,Rapier,4,Yellow Wrestling Singlet,Rune of Jupiter,50 percent,Heavy,Blue,Lycan Warrior,,,27,9,https://portal.forgottenrunes.com/api/warriors/img/27,Bruno Cad of Concrete
+3,Estoc,4,Woodland Armor,,75 percent,Feminine,Blue,Yellow Horn Lady Buff,,Tomb Shield,28,9,https://portal.forgottenrunes.com/api/warriors/img/28,Oula Marauder of the Wood
+3,Red Broadsword,6,Goblin Toga,Rune of Earth,50 percent,Wild,Green,Goblin,Woodland Wolverine,Triple Triangle Shield,29,11,https://portal.forgottenrunes.com/api/warriors/img/29,Oiq Vanquisher of Wizards
+3,Rogue Falchion,6,Sovereign Epic Gear,Rune of Sun,50 percent,Crimson,Black,Ether Horn Helm,Night Wolf,Shield of the Sun,30,11,https://portal.forgottenrunes.com/api/warriors/img/30,Abaddon Lopper of Atlantis
+2,Longbow,4,Gladiator's Cloak with Olive Briefs,,50 percent,Grey,Blue,Legionnaire Helmet,,Green Buckler,31,9,https://portal.forgottenrunes.com/api/warriors/img/31,Marcus Eradicator of the Cockatrice
+3,Estoc,4,Brown Hedge Knight Armor,,75 percent,Knight,Blue,Olive Mendicant,,Air Elemental Shield,32,9,https://portal.forgottenrunes.com/api/warriors/img/32,Zaire Fortune-Hunter of the Wild
+3,Malachite Dragon Pike,5,Street Punk with Green Camo,Rune of Air,60 percent,Verdant,Green,Green Knight Helm,Spectacled Falcon,,33,10,https://portal.forgottenrunes.com/api/warriors/img/33,Robert Eidolon of Kobolds
+4,Green Longsword,6,South Woodland Cloak,Rune of Saturn,66 percent,Verdant,Green,Marsh Girl,Night Wolf,Green Buckler,34,11,https://portal.forgottenrunes.com/api/warriors/img/34,Tracy Bifurcator of Flowers
+4,Green Longsword,6,South Woodland Cloak,Rune of Up,66 percent,Verdant,Green,Marsh Girl,Old World Mandrill,Green Kite,35,11,https://portal.forgottenrunes.com/api/warriors/img/35,Greta Dismantler of the Wood
+2,,3,Fur Barbarian,,66 percent,Wild,Black,Dune Man,,White Holy Shield,36,8,https://portal.forgottenrunes.com/api/warriors/img/36,Raymond Waster of the Arena
+5,Red Broadsword,6,Aura Knight with Blue Cloak,Rune of Brass,83 percent,Crimson,Red,Blue Dwarven Helm,Crimson Jaguar,Shield of Blood Skull,37,11,https://portal.forgottenrunes.com/api/warriors/img/37,Aldokeg Carver of Atlantis
+3,Chakram,4,White Hedge Knight Armor,,75 percent,Knight,Blue,Cool Guy,,Gold Herald Shield,38,9,https://portal.forgottenrunes.com/api/warriors/img/38,Mace Rapscallion of Cataclysm
+3,Sol Sword,6,Omega Plate Armor,Rune of Neptune,50 percent,Blue Shift,Blue,Blue Knight Helm,Golden Jaguar,Shield of the Moon,39,11,https://portal.forgottenrunes.com/api/warriors/img/39,Marmaduke Sword of the Range
+3,Nunchaku,5,Yellow Wrestling Singlet,Rune of Cinnabar,60 percent,Wild,Green,Mescaline Warrior,Buffkin,,40,10,https://portal.forgottenrunes.com/api/warriors/img/40,Donovan Clobberer of the Coliseum
+3,Malachite Dragon Pike,4,Gold Belt Ruffian,,75 percent,Crimson,Red,Blue Dwarven Helm,Hyena,,41,9,https://portal.forgottenrunes.com/api/warriors/img/41,Glorn Lacerator of Goblin Town
+4,Blue Broadsword,5,Street Hoodlum,Rune of Mars,80 percent,Heavy,Blue,Shutter Knight,Wild Eagle,,42,10,https://portal.forgottenrunes.com/api/warriors/img/42,Wuri Carver of the Road
+4,Spetum,6,Aura Knight with Blue Cloak,Rune of Brimstone,66 percent,Blue Shift,Blue,Blue Knight Helm,Field Hound,Blue Buckler,43,11,https://portal.forgottenrunes.com/api/warriors/img/43,Richard Paragon of the South
+3,Jungle Boomerang,6,Prism Armor,Rune of Brimstone,50 percent,Blackness,Black,Executioner,Onyx Panther,Guardian Shield,44,11,https://portal.forgottenrunes.com/api/warriors/img/44,Baal Champion of the Gate
+4,Tuck,6,Banded Armor of the Forest,Rune of Fire,66 percent,Knight,Green,Green Knight Helm,Spectacled Falcon,Yellow Buckler,45,11,https://portal.forgottenrunes.com/api/warriors/img/45,Drogo Ranger of Light
+3,Titan Cleaver,6,Red Knight,Rune of Water,50 percent,Guard,Red,She Wolf,Field Hound,Red Aspis,46,11,https://portal.forgottenrunes.com/api/warriors/img/46,Adele Wounder of Wizards
+3,Tuck,5,Argyropoeia Bot,Rune of Jupiter,60 percent,Cyber,Green,BucketHead: Atomic 79,Robo Dog,,47,10,https://portal.forgottenrunes.com/api/warriors/img/47,Metron Ruffian of Zero
+4,Night Razor,6,Purple Macho Pants,Rune of Saturn,66 percent,Blackness,Black,Wrestler Giant,Onyx Panther,Magic Shield,48,11,https://portal.forgottenrunes.com/api/warriors/img/48,Kojak Beheader of the Duck Alliance
+3,Blue Broadsword,6,Alchemist Armor,Rune of Earth,50 percent,Blue Shift,Blue,Corsair,Woodland Wolverine,Wooden Shield,49,11,https://portal.forgottenrunes.com/api/warriors/img/49,Gertrude Ravager of the Guild
+3,Rapier,5,Surd Armor,Rune of Earth,60 percent,Guard,Blue,Vedic Warrior,,Red Kite,50,10,https://portal.forgottenrunes.com/api/warriors/img/50,Navi Romantic of Light
+3,Gladiator Sword,5,Bone Warrior,Rune of Jupiter,60 percent,Feminine,Blue,Forgotten Lady,,Red Herald Shield,51,10,https://portal.forgottenrunes.com/api/warriors/img/51,Aida Ruin of the Coliseum
+4,Silver Poleaxe,6,Highlander's Tartan,Rune of Neptune,66 percent,Blue Shift,Blue,Guardian Helm,Royal Razorback,Water Elemental Shield,52,11,https://portal.forgottenrunes.com/api/warriors/img/52,James Vanquisher of the Lochs
+4,Goblin Sword,6,Aura Knight with Red Cloak,Rune of Brimstone,66 percent,Crimson,Red,Meriotic Warrior,Old World Mandrill,Yellow Buckler,53,11,https://portal.forgottenrunes.com/api/warriors/img/53,Adisa Paragon of the Wild
+3,Bush Spear,6,Xanthous Paladin Gear,Rune of Brass,50 percent,Medieval,Green,Akkadian,Wild Eagle,Yellow Kite,54,11,https://portal.forgottenrunes.com/api/warriors/img/54,Tamzi Protector of the Wild
+5,East Side Pipe Wrench,6,Gallus Gear,Rune of Sigma,83 percent,Crimson,Red,Blood Horn Helm,Scarlet Macaw,Eternal Love Shield,55,11,https://portal.forgottenrunes.com/api/warriors/img/55,Dain Breaker of the Arena
+4,Butcher Knife,5,Sakura Dress,Rune of Saturn,80 percent,Blue Shift,Blue,Hibernian,Ultramarine Rhinoceros Beetle,,56,10,https://portal.forgottenrunes.com/api/warriors/img/56,Tori Plunderer of the Shadows
+3,Chakram,5,Goblin Footsoldier,Rune of Uranus,60 percent,Gladiator,Blue,Capped Goblin,,Purple Kite,57,10,https://portal.forgottenrunes.com/api/warriors/img/57,Al Shark of Torment Manor
+3,Blue Shortsword,6,Gladiator's Cloak with Green Briefs,Rune of Earth,50 percent,Gladiator,Blue,Foot Soldier Helm,Field Hound,White Kite,58,11,https://portal.forgottenrunes.com/api/warriors/img/58,Bruce Mincer of the Pavillion
+5,Bush Spear,6,Red One Piece,Rune of Venus,83 percent,Crimson,Red,Spring Warrior,Scarlet Swine,Tanker Heater Shield,59,11,https://portal.forgottenrunes.com/api/warriors/img/59,Millicent Savior of the Mountain
+2,Brown Longsword,4,Argyropoeia Bot,Rune of Venus,50 percent,Cyber,Black,Visor Knight,,,60,9,https://portal.forgottenrunes.com/api/warriors/img/60,Hamma Antagonist of X
+3,,5,Nord Armor,Rune of Pluto,60 percent,Darkness,Blue,Lady of the Oasis,Wild Eagle,Iron Buckler,61,10,https://portal.forgottenrunes.com/api/warriors/img/61,Alicia Dicer of Knights
+3,Red Shortsword,5,Zuli Suit,Rune of Cinnabar,60 percent,Feminine,Blue,Abyssinian,,Shield of Balance,62,10,https://portal.forgottenrunes.com/api/warriors/img/62,Yejide Piercer of the Jungle
+2,Battle Axe,4,Purple Knight,,50 percent,Pantheon,Black,Kushite,,Gold Holy Shield,63,9,https://portal.forgottenrunes.com/api/warriors/img/63,Omolara Nullifier of Dragons
+3,Sabre,5,Murmillo Gear,Rune of Venus,60 percent,Armor,Blue,Mountain Warrior,,Iron Buckler,64,10,https://portal.forgottenrunes.com/api/warriors/img/64,Serge Amputator of the Ruins
+3,Stratiotai Spear,6,Yellow Provocator Garb,Rune of Water,50 percent,Sea,Blue,Lycan Warrior,Gigas Hornet,White Holy Shield,65,11,https://portal.forgottenrunes.com/api/warriors/img/65,Magnus Impaler of the Valley
+3,Blue Shortsword,4,Capital City Keikogi,,75 percent,Blue Shift,Blue,Thrall Ruffian,Ultramarine Rhinoceros Beetle,,66,9,https://portal.forgottenrunes.com/api/warriors/img/66,Dash Dissector of the Street
+4,Goblin Sword,6,Sovereign Epic Gear,Rune of Jupiter,66 percent,Crimson,Red,Stratiotai,Northern Lynx,Red Kite,67,11,https://portal.forgottenrunes.com/api/warriors/img/67,Rahid Assaulter of the Rock
+3,Partisan,6,Sapphire Paladin Gear,Rune of Water,50 percent,Rugged,Black,Polar Man,Spectacled Falcon,Wooden Buckler,68,11,https://portal.forgottenrunes.com/api/warriors/img/68,Andrei Poker of Titans
+3,Dane Axe,5,Street Punk with Rose Camo,Rune of Mercury,60 percent,Wild,Black,Corsair,Onyx Panther,,69,10,https://portal.forgottenrunes.com/api/warriors/img/69,Bambam Battler of the Docks
+5,Iron Hammer,6,Prism Armor,Rune of Neptune,83 percent,Brute,Black,Wrestler Giant,Night Wolf,Tomb Shield,70,11,https://portal.forgottenrunes.com/api/warriors/img/70,Keoni Obliterator of Crystals
+4,Lavender Double Blade,6,Gladiator's Cloak with Purple Briefs,Rune of Fire,66 percent,Purple Haze,Purple,Stunt Man,Null Goat,Mushroom Shield,71,11,https://portal.forgottenrunes.com/api/warriors/img/71,Umberto Dispatcher of the Valley
+3,Sabre,5,Red One Piece,Rune of Saturn,60 percent,Feminine,Blue,Lady of the Oasis,,Shield of the Sun,72,10,https://portal.forgottenrunes.com/api/warriors/img/72,Blake Ruin of the Sun
+5,Wooden Hammer,6,White One Piece,Rune of Cinnabar,83 percent,Gold,Blue,Forgotten Lady,Gigas Hornet,Gold Herald Shield,73,11,https://portal.forgottenrunes.com/api/warriors/img/73,Isane Mangler of the North
+3,Blue Longsword,5,Green Hedge Knight Armor,Rune of Mercury,60 percent,Verdant,Green,Zimbala,,Green Kite,74,10,https://portal.forgottenrunes.com/api/warriors/img/74,Atlas Hacker of Light
+2,Bo Staff,5,Blue Boxing Shorts,Rune of Sigma,40 percent,Flesh,Green,Jungle Commando,Dirt Pig,,75,10,https://portal.forgottenrunes.com/api/warriors/img/75,Hardwin Nailer of the Coliseum
+4,Red Shortsword,4,Brown Tunic Armor,,100 percent,Armor,Blue,Spiked Helm,,Frog Shield,76,9,https://portal.forgottenrunes.com/api/warriors/img/76,Dagon Armageddon of Brigands
+2,Stratiotai Spear,4,Bone Warrior,,50 percent,Grey,Black,Lady of the Oasis,,White Holy Shield,77,9,https://portal.forgottenrunes.com/api/warriors/img/77,Teny Savior of Mount Titan
+4,Rogue Falchion,5,Armor of Air,Rune of Saturn,80 percent,Crimson,Red,Loxodonta,,Yellow Buckler,78,10,https://portal.forgottenrunes.com/api/warriors/img/78,Luxor Dissector of the Tower
+3,Partisan,4,Brown Tunic Armor,,75 percent,Medieval,Black,Basic Bro,,Frog Shield,79,9,https://portal.forgottenrunes.com/api/warriors/img/79,Doyle Defeater of the Arena
+5,Bottle of Rune Beer,6,Traveller's Cloak Yellow,Rune of Brass,83 percent,Purple Haze,Purple,Meriotic Warrior,Null Goat,Peace Shield,80,11,https://portal.forgottenrunes.com/api/warriors/img/80,Lekan of the Dawn
+3,Bottle of Rune Beer,5,Commando Fatigues,Rune of Earth,60 percent,Rugged,Green,Highlander,Mutant Snapping Turtle,,81,10,https://portal.forgottenrunes.com/api/warriors/img/81,Dormok of the Ruins
+4,Blue Broadsword,6,Blue Knight,Rune of Mercury,66 percent,Blue Shift,Blue,Hibernian,Mutant Snapping Turtle,Blue Kite,82,11,https://portal.forgottenrunes.com/api/warriors/img/82,Juno Cleaver of the Range
+4,Purple Longsword,6,Iron Knight of the Hills,Rune of Water,66 percent,Heavy,Green,Brigand,Gigas Hornet,Mushroom Shield,83,11,https://portal.forgottenrunes.com/api/warriors/img/83,Brock Champion of Honor
+3,Goblin Axe,6,White Tunic Armor,Rune of Brimstone,50 percent,Darkness,Black,Grappler Giant,Night Wolf,Air Elemental Shield,84,11,https://portal.forgottenrunes.com/api/warriors/img/84,Dean Assailant of Scoundrels
+5,Pantheon Spear,6,Desert Wear,Rune of Sun,83 percent,Desert,Purple,Desert Warrior,Royal Razorback,Kraken Shield,85,11,https://portal.forgottenrunes.com/api/warriors/img/85,Tariq Guardian of the Ruins
+2,Butcher Knife,4,White Dominatrix Gear,,50 percent,Horror,Blue,Nubian,Nastyass Honey Badger,,86,9,https://portal.forgottenrunes.com/api/warriors/img/86,Rufaro Rapscallion of the Bloodfalls
+3,Chakram,4,Gladiator's Cloak with Purple Briefs,,75 percent,Crimson,Blue,Jungle Commando,,Shield of the Sun,87,9,https://portal.forgottenrunes.com/api/warriors/img/87,Chase Savior of the Sun
+3,Wratchet,6,Green Tunic Armor,Rune of Brass,50 percent,Verdant,Green,Zimbala,Mutant Snapping Turtle,Might Shield,88,11,https://portal.forgottenrunes.com/api/warriors/img/88,Hunter Nailer of the Villa
+3,Bo Staff,5,Gladiator's Cloak with Purple Briefs,Rune of Venus,60 percent,Muscle,Black,Foot Soldier Helm,,Shield of Up Only,89,10,https://portal.forgottenrunes.com/api/warriors/img/89,Farrell Crusher of the Obelisk
+3,Jungle Boomerang,6,Banded Armor of the Forest,Rune of Brimstone,50 percent,Verdant,Green,Fungus,Robo Dog,Wooden Buckler,90,11,https://portal.forgottenrunes.com/api/warriors/img/90,Foongie Thief of the Road
+3,Bush Spear,5,Red Boxing Shorts,Rune of Jupiter,60 percent,Crimson,Red,Praetorian,Royal Razorback,,91,10,https://portal.forgottenrunes.com/api/warriors/img/91,Numerius Protector of the Ring
+3,Katana,6,Purple Valkyrie Armor,Rune of Air,50 percent,Amber,Blue,Corsair,Spectacled Falcon,Mercenary Heater Shield,92,11,https://portal.forgottenrunes.com/api/warriors/img/92,Jules Ravager of the Elysian Fields
+4,Brown Longsword,5,Gold Lamellar,Rune of Water,80 percent,Gladiator,Blue,Praetorian,,Tanker Heater Shield,93,10,https://portal.forgottenrunes.com/api/warriors/img/93,Maximus Bifurcator of the Arena
+3,Wratchet,5,Street Punk with Teal Camo,Rune of Brimstone,60 percent,Darkness,Black,Moorish Girl,Onyx Panther,,94,10,https://portal.forgottenrunes.com/api/warriors/img/94,Sherry Pounder of the Underground
+5,Blue Shortsword,6,North Woodland Cloak,Rune of Mars,83 percent,Armor,Blue,Athenian,Onyx Panther,Fire Shield,95,11,https://portal.forgottenrunes.com/api/warriors/img/95,Aurelia Sorrow of the Wild
+4,Gladiator Sword,6,Kobold Captain Gear,Rune of Power,66 percent,Crimson,Red,Kobold Captain,Demon Hound,Red Herald Shield,96,11,https://portal.forgottenrunes.com/api/warriors/img/96,Skeet Wounder of the Road
+3,Tuck,4,Classic Leather Barbarian Briefs,,75 percent,Gold,Blue,Action Hero,,Shield of Up Only,97,9,https://portal.forgottenrunes.com/api/warriors/img/97,Draco Miscreant of the Cockatrice
+3,Goblin Axe,4,Brown Knight,,75 percent,Armor,Black,Xanthe,,Fire Shield,98,9,https://portal.forgottenrunes.com/api/warriors/img/98,Pari Vanquisher of the Mountain
+4,Red Broadsword,6,Green Road Spandex,Rune of Steel,66 percent,Verdant,Green,Kempo,Onyx Panther,Green Kite,99,11,https://portal.forgottenrunes.com/api/warriors/img/99,Xin-jin Contender of Wizards
+3,Yellow Chainsaw,6,Skylord Plate Armor,Rune of Fire,50 percent,Brute,Blue,Jarl Raider,Field Hound,Brown Kite,100,11,https://portal.forgottenrunes.com/api/warriors/img/100,Edge Truncator of Worlds
+4,Sol Sword,5,Street Hoodlum,Rune of Water,80 percent,Blue Shift,Blue,Guardian Helm,Ultramarine Rhinoceros Beetle,,101,10,https://portal.forgottenrunes.com/api/warriors/img/101,Lance Shaver of the Duck Alliance
+4,Blue Longsword,6,Dominion Plate Armor,Rune of Saturn,66 percent,Knight,Black,Executioner,Onyx Panther,Water Elemental Shield,102,11,https://portal.forgottenrunes.com/api/warriors/img/102,Auberon Striker of Destiny
+4,Gladiator Sword,6,Goblin Footsoldier,Rune of Jupiter,66 percent,Brute,Black,Goblin,Onyx Panther,Wooden Buckler,103,11,https://portal.forgottenrunes.com/api/warriors/img/103,Al Cleaver of Wizards
+3,Battle Axe,5,Bone Warrior,Rune of Mercury,60 percent,Grey,Blue,Bambam,,Green Buckler,104,10,https://portal.forgottenrunes.com/api/warriors/img/104,Zasha Death of the Tundra
+3,Skull Sword,5,Black Dominatrix Gear,Rune of Steel,60 percent,Blackness,Black,Action Man,Grey Wolf,,105,10,https://portal.forgottenrunes.com/api/warriors/img/105,Rocco Dicer of Joy
+3,Malachite Cleaver,6,Banded Armor of the Forest,Rune of Mercury,50 percent,Verdant,Green,Jungle Commando,Night Wolf,Wooden Buckler,106,11,https://portal.forgottenrunes.com/api/warriors/img/106,Spike Mercenary of Kobolds
+4,Mug of Ale,6,Green Road Spandex,Rune of Brimstone,66 percent,Rugged,Green,Forgotten Lady,Rattlesnake,Yellow Kite,107,11,https://portal.forgottenrunes.com/api/warriors/img/107,Valentina of Wizards
+4,Guardian Sword,6,Green Tunic Armor,Rune of Air,66 percent,Armor,Green,Fungus,Gigas Hornet,Mercenary Heater Shield,108,11,https://portal.forgottenrunes.com/api/warriors/img/108,Pooroo Hacker of Monsters
+4,Wooden Hammer,6,Purple Tunic Armor,Rune of Uranus,66 percent,Knight,Red,Motor Assassin,Night Wolf,Fire Shield,109,11,https://portal.forgottenrunes.com/api/warriors/img/109,Draco Basher of Runes
+3,Nunchaku,6,Xanthous Paladin Gear,Rune of Saturn,50 percent,Medieval,Black,Dune Man,Wild Eagle,Yellow Kite,110,11,https://portal.forgottenrunes.com/api/warriors/img/110,Griffin Blaster of the Dawn
+4,Gladius,4,Green Medieval Livery,,100 percent,Heavy,Black,Barbarian,,Tomb Shield,111,9,https://portal.forgottenrunes.com/api/warriors/img/111,Stone Executor of Brigands
+3,Scimitar,4,Green Medieval Livery,,75 percent,Medieval,Black,Action Hero,,Red Herald Shield,112,9,https://portal.forgottenrunes.com/api/warriors/img/112,Alexander Danger of Wizards
+2,Stratiotai Spear,4,Yellow Wrestling Singlet,Rune of Steel,50 percent,Desert,Blue,Stunt Man,,,113,9,https://portal.forgottenrunes.com/api/warriors/img/113,Emerson Paragon of the Arena
+5,Shortbow,6,Yellow Hedge Knight Armor,Rune of Brass,83 percent,Rugged,Red,Forgotten Man,Spectacled Falcon,Red Kite,114,11,https://portal.forgottenrunes.com/api/warriors/img/114,Zane Swindler or Scalawags
+4,Longbow,6,Purple Valkyrie Armor,Rune of Cinnabar,66 percent,Purple Haze,Purple,Corsair,Null Goat,Purple Kite,115,11,https://portal.forgottenrunes.com/api/warriors/img/115,Alex Dispatcher of Shadows
+3,Katana,6,Red Amazonian Jumpsuit,Rune of Water,50 percent,Forest,Black,Archipelagian,Rattlesnake,Butterfly Shield,116,11,https://portal.forgottenrunes.com/api/warriors/img/116,Dayo Nullifier of the Ridge
+3,Chakram,4,Alabaster Paladin Gear,,75 percent,Gladiator,Black,Forgotten Man,,Yellow Buckler,117,9,https://portal.forgottenrunes.com/api/warriors/img/117,Vincent Vindicator of Titans
+2,Silver Poleaxe,5,Gold Belt Ruffian,Rune of Neptune,40 percent,Grey,Black,Wrestler Giant,Mutant Snapping Turtle,,118,10,https://portal.forgottenrunes.com/api/warriors/img/118,Kaz Eidolon of Goblins
+2,Stratiotai Spear,4,Commando Fatigues,Rune of Saturn,50 percent,Verdant,Green,Green Knight Helm,,,119,9,https://portal.forgottenrunes.com/api/warriors/img/119,Henry Eidolon of the Ditch
+4,Bo Staff,6,Northern Barbarian,Rune of Brimstone,66 percent,Wild,Green,Lady of the Oasis,Hamadryas Baboon,Wolf Shield,120,11,https://portal.forgottenrunes.com/api/warriors/img/120,Margaret Breaker of Titans
+3,Partisan,6,Fur Barbarian,Rune of Mercury,50 percent,Gladiator,Black,Gladiator Helmet,Golden Jaguar,Gold Herald Shield,121,11,https://portal.forgottenrunes.com/api/warriors/img/121,Marcellus Eidolon of the Rock
+3,Bone Club,6,Aura Knight with Red Cloak,Rune of Uranus,50 percent,Amber,Black,South Sider,Golden Jaguar,Yellow Buckler,122,11,https://portal.forgottenrunes.com/api/warriors/img/122,Crash Knockout of the Wild
+4,Blue Broadsword,6,Prism Armor,Rune of Uranus,66 percent,Heavy,Black,Blue Knight Helm,Night Wolf,Tomb Shield,123,11,https://portal.forgottenrunes.com/api/warriors/img/123,Lance Dicer of Birds
+3,Red Shortsword,6,Blue Hedge Knight Armor,Rune of Air,50 percent,Knight,Blue,Prisma Helm,Northern Lynx,Bolt Shield,124,11,https://portal.forgottenrunes.com/api/warriors/img/124,Auberon Eradicator of the Mountain
+2,,3,Classic Gold Barbarian Briefs,,66 percent,Amber,Black,Dune Man,,Yellow Buckler,125,8,https://portal.forgottenrunes.com/api/warriors/img/125,Atlas Attacker of the Rock
+3,Wooden Hammer,5,White One Piece,Rune of Venus,60 percent,Flesh,Black,Forgotten Lady,,Purple Kite,126,10,https://portal.forgottenrunes.com/api/warriors/img/126,Molly Neutralizer of Thieves
+4,Scimitar,4,Surd Armor,,100 percent,Armor,Blue,Lady of the Mountain,,Iron Buckler,127,9,https://portal.forgottenrunes.com/api/warriors/img/127,Agnes Cutter of the North
+2,,3,Murmillo Gear,,66 percent,Brownish,Black,Templar,,Purple Kite,128,8,https://portal.forgottenrunes.com/api/warriors/img/128,Romney Cutter of the Obelisk
+3,Malachite Cleaver,6,Green Amazonian Jumpsuit,Rune of Neptune,50 percent,Verdant,Green,Kempo,Dirt Pig,Snake Shield,129,11,https://portal.forgottenrunes.com/api/warriors/img/129,Tai Mercenary of Muscle Mountain
+2,Brown Longsword,4,Surd Armor,,50 percent,Guard,Black,Yellow Horn Lady Buff,,White Holy Shield,130,9,https://portal.forgottenrunes.com/api/warriors/img/130,Juno Protector of the Trail
+2,,3,Brown Tunic Armor,,66 percent,Heavy,Black,Mandinka,,Butterfly Shield,131,8,https://portal.forgottenrunes.com/api/warriors/img/131,Barad Render of Nothing
+4,Jade Sword,6,Green Amazonian Jumpsuit,Rune of Fire,66 percent,Verdant,Green,Onna-Musha,Grey Wolf,Lotus Shield,132,11,https://portal.forgottenrunes.com/api/warriors/img/132,Hitomi Raider of the Jungle
+3,Rapier,6,Alabaster Paladin Gear,Rune of Mars,50 percent,Guard,Black,Warrior Monk,Spectacled Falcon,Mercenary Heater Shield,133,11,https://portal.forgottenrunes.com/api/warriors/img/133,Zenon Fencer of the Tower
+4,Rogue Falchion,6,Dark Assassin Tunic,Rune of Earth,66 percent,Crimson,Red,Rocket Helm,Hamadryas Baboon,Yellow Buckler,134,11,https://portal.forgottenrunes.com/api/warriors/img/134,Hamlin Bifurcator of the Capital
+3,Shortbow,5,Chelonian Armor,,60 percent,Armor,Green,Dune Man,Mutant Snapping Turtle,Tate Shield,135,10,https://portal.forgottenrunes.com/api/warriors/img/135,Owen Vengeance of Turtles
+3,Pantheon Spear,6,Exalted Epic Gear,Rune of Mercury,50 percent,Desert,Blue,Ether Horn Helm,Rattlesnake,Butterfly Shield,136,11,https://portal.forgottenrunes.com/api/warriors/img/136,Chernobog Eidolon of the Arena
+5,Amber Dragon Sword,6,Blue Medieval Livery,Rune of Sun,83 percent,Blue Shift,Blue,Shutter Knight,Magpie,Blue Buckler,137,11,https://portal.forgottenrunes.com/api/warriors/img/137,Rungle Slasher of the Citadel
+4,Malachite Cleaver,6,Green Amazonian Jumpsuit,Rune of Steel,66 percent,Armor,Green,Marsh Girl,Spectacled Falcon,Yellow Buckler,138,11,https://portal.forgottenrunes.com/api/warriors/img/138,Sal Armageddon of the Wild
+3,Wooden Hammer,4,Red Provocator Garb,,75 percent,Brownish,Blue,Foot Soldier Helm,,White Kite,139,9,https://portal.forgottenrunes.com/api/warriors/img/139,Charlie Blaster of the Baobabs
+4,Agapanthus Fey Sword,4,Blue Boxing Shorts,,100 percent,Blue Shift,Blue,Guardian Helm,Ultramarine Rhinoceros Beetle,,140,9,https://portal.forgottenrunes.com/api/warriors/img/140,Edwin Assaulter for Freedom
+3,Scimitar,5,Red Provocator Garb,Rune of Water,60 percent,Medieval,Blue,Imperial Helmet,,Frog Shield,141,10,https://portal.forgottenrunes.com/api/warriors/img/141,Aurelius Dicer of the Ruins
+5,Purple Longsword,6,Purple Provocator Garb,Rune of Up,83 percent,Purple Haze,Purple,Ether Horn Helm,Styxian Boar,Shield of the Moon,142,11,https://portal.forgottenrunes.com/api/warriors/img/142,Cerb Armageddon of the Valley
+3,Sword of Babylon,6,Gladiator's Cloak with Leather Briefs,Rune of Earth,50 percent,Rugged,Black,Indigo Mendicant,Hyena,Fire Shield,143,11,https://portal.forgottenrunes.com/api/warriors/img/143, Sorrow of the Arena
+4,Blue Longsword,6,Blue Tunic Armor,Rune of Saturn,66 percent,Blue Shift,Blue,Blue Dwarven Helm,Null Goat,Water Elemental Shield,144,11,https://portal.forgottenrunes.com/api/warriors/img/144,Rungle Calamity of Monsters
+3,Tuck,5,Street Punk with Teal Camo,Rune of Brimstone,60 percent,Feminine,Black,Vedic Warrior,Onyx Panther,,145,10,https://portal.forgottenrunes.com/api/warriors/img/145,Kimaya Cad of Goblins
+4,Malachite Cleaver,6,Goblin Toga,Rune of Water,66 percent,Brute,Green,Goblin,Rattlesnake,Tomb Shield,146,11,https://portal.forgottenrunes.com/api/warriors/img/146,Frakk Executor of the Chasm
+3,Longbow,5,White Tunic Armor,Rune of Pluto,60 percent,Armor,Blue,Olympian,,Red Kite,147,10,https://portal.forgottenrunes.com/api/warriors/img/147,Yasin Cutter of Glory
+4,Bottle of Rune Beer,6,Surd Armor,Rune of Brimstone,66 percent,Purple Haze,Purple,Lady of the Oasis,Null Goat,Triple Triangle Shield,148,11,https://portal.forgottenrunes.com/api/warriors/img/148,Bellatrix of Goblins
+4,Sol Sword,6,Prism Armor,Rune of Jupiter,66 percent,Knight,Black,Medieval Skull,Night Wolf,Butterfly Shield,149,11,https://portal.forgottenrunes.com/api/warriors/img/149,Soran Armageddon of the Gate
+3,Bottle of Goblin Beer,6,Goblin Footsoldier,Rune of Steel,50 percent,Olive,Black,Capped Goblin,Buffkin,Mercenary Heater Shield,150,11,https://portal.forgottenrunes.com/api/warriors/img/150,Gruttle of the Slime Pits
+4,Battle Axe,4,Armor of Air,,100 percent,Armor,Blue,Forgotten Man,,Fire Shield,151,9,https://portal.forgottenrunes.com/api/warriors/img/151,Corbin Punisher of the Dawn
+2,Nunchaku,5,Superalloy Bot,Rune of Saturn,40 percent,Cyber,Blue,BucketHead: Atomic 26,Gigas Hornet,,152,10,https://portal.forgottenrunes.com/api/warriors/img/152,Alpha Mauler of the Glitch
+3,Red Broadsword,6,Yellow One Piece,Rune of Pluto,50 percent,Verdant,Green,Marsh Girl,Hamadryas Baboon,Yellow Kite,153,11,https://portal.forgottenrunes.com/api/warriors/img/153,Sharon Death of Mount Titan
+3,Chakram,5,Brown Hedge Knight Armor,Rune of Sun,60 percent,Armor,Black,Imp Warrior,,Shield of Up Only,154,10,https://portal.forgottenrunes.com/api/warriors/img/154,Crud Champion of Kobolds
+2,Goblin Axe,3,South Island MMA Pants,,66 percent,Crimson,Black,Templar,,,155,8,https://portal.forgottenrunes.com/api/warriors/img/155,Marlan Assaulter of Mount Titan
+2,Bottle of Goblin Beer,4,South Island MMA Pants,Rune of Pluto,50 percent,Brute,Black,Legionnaire Helmet,,,156,9,https://portal.forgottenrunes.com/api/warriors/img/156,Cornelius of the Cage
+3,Wooden Hammer,5,Street Punk with Violet Camo,Rune of Up,60 percent,Purple Haze,Purple,Psyche Warrior,Null Goat,,157,10,https://portal.forgottenrunes.com/api/warriors/img/157,Isane Hammer of Thieves
+3,Battle Axe,4,Classic Leather Barbarian Briefs,,75 percent,Brownish,Blue,Brigand,,Wooden Buckler,158,9,https://portal.forgottenrunes.com/api/warriors/img/158,Harland Axe of Mount Titan
+5,Brown Longsword,6,South Woodland Cloak,Rune of Down,83 percent,Forest,Red,Archipelagian,Ultramarine Rhinoceros Beetle,Wooden Shield,159,11,https://portal.forgottenrunes.com/api/warriors/img/159,Neema Sword of the Forest
+4,Sol Sword,6,Sapphire Paladin Gear,Rune of Pluto,66 percent,Blue Shift,Blue,Shutter Knight,Northern Lynx,Blue Buckler,160,11,https://portal.forgottenrunes.com/api/warriors/img/160,Boldrum Calamity of the Dawn
+3,Wooden Club,5,Street Punk with Teal Camo,Rune of Brass,60 percent,Wild,Black,Lady of the Oasis,Onyx Panther,,161,10,https://portal.forgottenrunes.com/api/warriors/img/161,Joan Chaos Agent of the Citadel
+3,Blue Shortsword,5,Alabaster Paladin Gear,Rune of Jupiter,60 percent,Grey,Black,Elder,,Iron Buckler,162,10,https://portal.forgottenrunes.com/api/warriors/img/162,Urmgurn Belligerent of Flowers
+4,Ishtar Sword,5,Capital City Keikogi,Rune of Mars,80 percent,Crimson,Red,Praetorian,Scarlet Swine,,163,10,https://portal.forgottenrunes.com/api/warriors/img/163,Octavius Combatant of the Arena
+3,Stratiotai Spear,4,Red Provocator Garb,,75 percent,Medieval,Blue,Purple Viking Helm,,White Kite,164,9,https://portal.forgottenrunes.com/api/warriors/img/164,Therman Eidolon of the Valley
+4,Goblin Sword,5,Aura Knight with Red Cloak,Rune of Pluto,80 percent,Crimson,Red,Red Ronin,,Tate Shield,165,10,https://portal.forgottenrunes.com/api/warriors/img/165,Harland Dicer of the Mountain
+3,Longbow,6,Majestic Epic Gear,Rune of Mercury,50 percent,Gold,Green,Green Knight Helm,Hamadryas Baboon,Horseshoe Shield,166,11,https://portal.forgottenrunes.com/api/warriors/img/166,Edward Rapscallion of the Lost City
+3,Tuck,5,Bone Warrior,Rune of Lime,60 percent,Feminine,Black,Lady of the Oasis,,Tanker Heater Shield,167,10,https://portal.forgottenrunes.com/api/warriors/img/167,Charlie Fencer of the Sun
+3,Skull Spear,6,Majestic Epic Gear,Rune of Brass,50 percent,Verdant,Green,Zimbala,Mutant Snapping Turtle,Iron Buckler,168,11,https://portal.forgottenrunes.com/api/warriors/img/168,Chike Guardian of the Desert
+4,Malachite Cleaver,6,Terrapin Armor,Rune of Uranus,66 percent,Medieval,Green,Strongman,Dirt Pig,Fire Shield,169,11,https://portal.forgottenrunes.com/api/warriors/img/169,Javier Dissector of the Marsh
+3,Flame Thrower,5,Street Hoodlum,Rune of Air,60 percent,Machine,Black,Visor Knight,Rattlesnake,,170,10,https://portal.forgottenrunes.com/api/warriors/img/170,Major Razer of the Road
+2,Rapier,5,Murmillo Gear,Rune of Sun,40 percent,Viking,Black,Foot Soldier Helm,,Red Herald Shield,171,10,https://portal.forgottenrunes.com/api/warriors/img/171,Nigel Rogue of the Pavillion
+5,Lavender Double Blade,6,Glory Knight,Rune of Saturn,83 percent,Rugged,Blue,Forgotten Man,Gigas Hornet,Kraken Shield,172,11,https://portal.forgottenrunes.com/api/warriors/img/172,Murdock Mincer of the Forest
+3,Partisan,6,Desert Wear,Rune of Mars,50 percent,Medieval,Black,Blonde Bearded Berserker,Woodland Wolverine,Wolf Shield,173,11,https://portal.forgottenrunes.com/api/warriors/img/173,Benedict Impaler of the Sun
+2,Mace,5,Red Suit,Rune of Brimstone,40 percent,Amber,Black,Imperial Helmet,Golden Jaguar,,174,10,https://portal.forgottenrunes.com/api/warriors/img/174,Flamma Demolisher of the Berg
+4,Stratiotai Spear,4,West Woodland Cloak,,100 percent,Gold,Blue,Lady of the Oasis,,Air Elemental Shield,175,9,https://portal.forgottenrunes.com/api/warriors/img/175,Sandy Defeater of Leaves
+3,Gilded Dragon Pike,6,Goblin Raider,Rune of Water,50 percent,Wild,Black,Goblin,Woodland Wolverine,Mushroom Shield,176,11,https://portal.forgottenrunes.com/api/warriors/img/176,Nick Guardian of the Pile
+4,Rogue Falchion,5,Street Punk with Red Camo,Rune of Water,80 percent,Crimson,Red,Stratiotai,Crimson Jaguar,,177,10,https://portal.forgottenrunes.com/api/warriors/img/177,Kalim Battler of Goblin Town
+4,Brown Longsword,5,Glory Knight,Rune of Venus,80 percent,Forest,Red,Forgotten Man,,Butterfly Shield,178,10,https://portal.forgottenrunes.com/api/warriors/img/178,Marcus Lacerator of the Forest
+3,Gladius,5,Armor of Fire,Rune of Steel,60 percent,Armor,Black,Cat Girl,,Shield of the Moon,179,10,https://portal.forgottenrunes.com/api/warriors/img/179,Asuka Belligerent of Scoundrels
+2,,3,Fur Barbarian,,66 percent,Viking,Blue,Red Bearded Berserker,,Red Herald Shield,180,8,https://portal.forgottenrunes.com/api/warriors/img/180,Sam Hero of the Desert
+5,Lavender Double Blade,6,Amethyst Spike Armor,Rune of Pluto,83 percent,Purple Haze,Purple,Bruiser,Null Goat,Triple Triangle Shield,181,11,https://portal.forgottenrunes.com/api/warriors/img/181,Charles Fiend of the Sun
+4,Red Longsword,6,Armor of Water,Rune of Earth,66 percent,Blue Shift,Blue,Bruiser,Hyena,Blue Buckler,182,11,https://portal.forgottenrunes.com/api/warriors/img/182,Bruce Assaulter of the West
+2,Blue Shortsword,5,Classic Gold Barbarian Briefs,Rune of Lime,40 percent,Flesh,Blue,Macho Man,,Butterfly Shield,183,10,https://portal.forgottenrunes.com/api/warriors/img/183,Chevy Despoiler of the Rock
+5,Malachite Dragon Pike,6,Red Amazonian Jumpsuit,Rune of Up,83 percent,Crimson,Red,Peacock Warrior,Scarlet Macaw,Pony Shield,184,11,https://portal.forgottenrunes.com/api/warriors/img/184,Zula Contaminator of Thieves
+3,Lavender Double Blade,6,Desert Wear,Rune of Pluto,50 percent,Darkness,Black,Forgotten Man,Buffkin,Shield of Balance,185,11,https://portal.forgottenrunes.com/api/warriors/img/185,Dozer Divider of Mount Titan
+4,Brown Longsword,6,Blue Medieval Livery,Rune of Sun,66 percent,Blue Shift,Blue,Jarl Raider,Northern Lynx,Blue Buckler,186,11,https://portal.forgottenrunes.com/api/warriors/img/186,Finn Eliminator of the Riverlands
+4,Master Claymore,6,Bone Warrior,Rune of Pluto,66 percent,Gold,Blue,Lady Barbarian,Wild Eagle,Wolf Shield,187,11,https://portal.forgottenrunes.com/api/warriors/img/187,Sandy Sword of the Tundra
+5,Lazurite Dragon Sword,6,Desert Wear,Rune of Mars,83 percent,Blue Shift,Blue,Blue Knight Helm,Royal Razorback,Blue Kite,188,11,https://portal.forgottenrunes.com/api/warriors/img/188,Rudolph Exterminator of the Obelisk
+4,Agapanthus Fey Sword,6,Amethyst Spike Armor,Rune of Brass,66 percent,Armor,Black,Executioner,Night Wolf,Red Herald Shield,189,11,https://portal.forgottenrunes.com/api/warriors/img/189,Sedal Slicer of the Rock
+3,Silver Poleaxe,5,White Dominatrix Gear,Rune of Uranus,60 percent,Darkness,Black,Marsh Girl,Onyx Panther,,190,10,https://portal.forgottenrunes.com/api/warriors/img/190,Althia Savior of Kink
+2,Brown Longsword,5,Street Punk with Teal Camo,Rune of Omega,40 percent,Teal,Black,Lady of the Oasis,Attack Drone,,191,10,https://portal.forgottenrunes.com/api/warriors/img/191,Marci Executor of Thieves
+3,Sabre,4,Green Medieval Livery,,75 percent,Medieval,Blue,Lycan Warrior,,Air Elemental Shield,192,9,https://portal.forgottenrunes.com/api/warriors/img/192,Jarek Chisler of the Grass
+4,Blue Broadsword,5,Skylord Plate Armor,,80 percent,Blue Shift,Blue,Shutter Knight,Field Hound,Blue Buckler,193,10,https://portal.forgottenrunes.com/api/warriors/img/193,Glargum Trimmer of Wizards
+4,Aurelian Double Blade,6,Sovereign Epic Gear,Rune of Venus,66 percent,Muscle,Green,Mescaline Warrior,Golden Jaguar,White Kite,194,11,https://portal.forgottenrunes.com/api/warriors/img/194,Sylvester Dissector of Atlantis
+3,Guardian Sword,6,Blue Tunic Armor,Rune of Fire,50 percent,Machine,Black,Action Hero,Robo Dog,Snake Shield,195,11,https://portal.forgottenrunes.com/api/warriors/img/195,Callahan Ravager of Shadows
+4,Red Longsword,5,Iron Knight of the Heath,Rune of Pluto,80 percent,Blue Shift,Blue,Bruiser,,Water Elemental Shield,196,10,https://portal.forgottenrunes.com/api/warriors/img/196,Faust Wounder of the Ridge
+3,Morningstar,5,Street Punk with Teal Camo,Rune of Up,60 percent,Gladiator,Black,Lady of the Oasis,Onyx Panther,,197,10,https://portal.forgottenrunes.com/api/warriors/img/197,Blake Crumbler of the Underground
+3,Silver Poleaxe,6,Blue Knight,Rune of Earth,50 percent,Grey,Blue,Bambam,Northern Lynx,Bolt Shield,198,11,https://portal.forgottenrunes.com/api/warriors/img/198,Bellatrix Guardian of the Arena
+3,Blue Chainsaw,5,South Island MMA Pants,Rune of Down,60 percent,Crimson,Red,Blue Dwarven Helm,Mutant Snapping Turtle,,199,10,https://portal.forgottenrunes.com/api/warriors/img/199,Wulfrum Chopper of the Fist
+3,Scimitar,5,Northern Barbarian,Rune of Uranus,60 percent,Feminine,Blue,Vedic Warrior,,Yellow Buckler,200,10,https://portal.forgottenrunes.com/api/warriors/img/200,Sita Raider of Atlantis
+3,Wooden Club,6,Aura Knight with Yellow Cloak,Rune of Saturn,50 percent,Wild,Green,Zimbala,Woodland Wolverine,Bolt Shield,201,11,https://portal.forgottenrunes.com/api/warriors/img/201,Jack Masher of Dragons
+3,Spiked Ball bat,6,Glory Knight,Rune of Steel,50 percent,Rugged,Blue,Cool Guy,Northern Lynx,Shield of Down Only,202,11,https://portal.forgottenrunes.com/api/warriors/img/202,Knox Punisher of all that is Evil
+3,,3,Yellow Tunic Armor,,100 percent,Armor,Black,Brownlander,,Iron Buckler,203,8,https://portal.forgottenrunes.com/api/warriors/img/203,Leonard Sorrow of Devils
+2,Goblin Axe,5,Argyropoeia Bot,Rune of Lime,40 percent,Cyber,Black,Metabot,Spectacled Falcon,,204,10,https://portal.forgottenrunes.com/api/warriors/img/204,Cy Protector of Machines
+4,Spetum,6,Yellow Hedge Knight Armor,Rune of Steel,66 percent,Gold,Black,Frankish Helm,Golden Jaguar,Gold Holy Shield,205,11,https://portal.forgottenrunes.com/api/warriors/img/205,Edmund Impaler of the Tower
+4,Blue Chainsaw,6,Amethyst Spike Armor,Rune of Mercury,66 percent,Muscle,Black,Action Man,Night Wolf,Butterfly Shield,206,11,https://portal.forgottenrunes.com/api/warriors/img/206,Brion Lacerator of the Sun
+2,Bone Club,5,White Tunic Armor,Rune of Saturn,40 percent,White Magic,Blue,Basic Bro,,Green Buckler,207,10,https://portal.forgottenrunes.com/api/warriors/img/207,Nyx Cruncher of Ruffians
+5,Blue Longsword,6,Nord Armor,Rune of Mars,83 percent,Armor,Blue,Hibernian,Buffkin,Blue Buckler,208,11,https://portal.forgottenrunes.com/api/warriors/img/208,Adira Armageddon of Monsters
+4,Titan Cleaver,6,Red Ronin Armor,Rune of Venus,66 percent,Crimson,Red,Praetorian,Hamadryas Baboon,Red Kite,209,11,https://portal.forgottenrunes.com/api/warriors/img/209,Verus Shaver of Oni
+3,Sword of Rainbows,6,Pirate Garb,Rune of Mars,50 percent,Holy,Purple,Red Bearded Berserker,Quantum Peacock,Gold Holy Shield,210,11,https://portal.forgottenrunes.com/api/warriors/img/210,Orion Marauder of the Bay
+3,Blue Broadsword,5,Capital City Keikogi,Rune of Lime,60 percent,Blue Shift,Blue,Blue Knight Helm,Sand Cobra,,211,10,https://portal.forgottenrunes.com/api/warriors/img/211,Matthew Sword of the Ring
+4,Rogue Falchion,6,Gladiator's Cloak with Green Briefs,Rune of Air,66 percent,Crimson,Red,Stratiotai,Northern Lynx,Yellow Buckler,212,11,https://portal.forgottenrunes.com/api/warriors/img/212,Azim Bifurcator of the Obelisk
+5,Silver Poleaxe,6,Skylord Plate Armor,Rune of Brass,83 percent,Armor,Blue,Jarl Raider,Hyena,Tate Shield,213,11,https://portal.forgottenrunes.com/api/warriors/img/213,Fenjeon Protector of the Ridge
+5,Masamune,6,Yellow Road Spandex,Rune of Mars,83 percent,Purple Haze,Purple,Divanae,Man o' War,Dotta Shield,214,11,https://portal.forgottenrunes.com/api/warriors/img/214,Nyarai Stabber of the Docks
+2,Estoc,3,South Island MMA Pants,,66 percent,Formal,Black,Forgotten Man,,,215,8,https://portal.forgottenrunes.com/api/warriors/img/215,Buck Swashbuckler for Freedom
+3,Rapier,5,Auric Spike Armor,Rune of Fire,60 percent,Armor,Blue,Polar Man,,Air Elemental Shield,216,10,https://portal.forgottenrunes.com/api/warriors/img/216,Jax Swashbuckler of the Arena
+2,Tuck,5,Classic Leather Barbarian Briefs,Rune of Pluto,40 percent,Brownish,Black,Action Hero,,White Kite,217,10,https://portal.forgottenrunes.com/api/warriors/img/217,Edge Charlatan of the Ruins
+4,Rogue Falchion,6,Blue Medieval Livery,Rune of Saturn,66 percent,Crimson,Red,Praetorian,Northern Lynx,Brown Kite,218,11,https://portal.forgottenrunes.com/api/warriors/img/218,Numerius Nullifier or Scalawags
+3,Chakram,5,Equatorial Keikogi,Rune of Brimstone,60 percent,Verdant,Green,Green Knight Helm,Mutant Snapping Turtle,,219,10,https://portal.forgottenrunes.com/api/warriors/img/219,Gilbert Shark of the Ring
+3,Katana,6,Yellow Provocator Garb,Rune of Air,50 percent,Armor,Blue,Dune Man,Woodland Wolverine,Green Buckler,220,11,https://portal.forgottenrunes.com/api/warriors/img/220,Pierce Antagonist of the Valley
+3,Mace,6,Blue Hedge Knight Armor,Rune of Pluto,50 percent,Knight,Blue,Foot Soldier Helm,Dirt Pig,Bolt Shield,221,11,https://portal.forgottenrunes.com/api/warriors/img/221,Fang Basher of the Realm
+4,Red Longsword,6,Blue Hedge Knight Armor,Rune of Sun,66 percent,Armor,Blue,Weirdling,Nastyass Honey Badger,Blue Kite,222,11,https://portal.forgottenrunes.com/api/warriors/img/222,Bralin Assailant of Honor
+3,Cyber Axe,4,Superalloy Bot,Rune of Brass,75 percent,Cyber,Blue,BucketHead: Atomic 26,,,223,9,https://portal.forgottenrunes.com/api/warriors/img/223,Ash Danger of Area 71
+3,Estoc,5,North Island MMA Pants,Rune of Water,60 percent,Darkness,Black,Olive Mendicant,Spectacled Falcon,,224,10,https://portal.forgottenrunes.com/api/warriors/img/224,Armak Mischief Maker of Concrete
+2,Partisan,6,Nord Armor,Rune of Neptune,33 percent,Amber,Blue,Archipelagian,Buffkin,Shield of the Sun,225,11,https://portal.forgottenrunes.com/api/warriors/img/225,Sauda Defeater of the Duck Alliance
+5,Trident,6,Red Tunic Armor,Rune of Uranus,83 percent,Crimson,Red,Praetorian,Crimson Jaguar,Eternal Love Shield,226,11,https://portal.forgottenrunes.com/api/warriors/img/226,Octavius Defeater of Wizards
+3,Blue Broadsword,6,Aura Knight with Blue Cloak,Rune of Mercury,50 percent,Blue Shift,Blue,Jarl Raider,Field Hound,Toxin Shield,227,11,https://portal.forgottenrunes.com/api/warriors/img/227,Zocklan Trimmer of the Mountain
+4,Stratiotai Spear,6,Red Amazonian Jumpsuit,Rune of Earth,66 percent,Crimson,Black,Nubian,Northern Lynx,Shield of the Sun,228,11,https://portal.forgottenrunes.com/api/warriors/img/228,Zula Defeater of all that is Evil
+3,Malachite Cleaver,6,Green Knight,Rune of Sigma,50 percent,Verdant,Green,Kempo,Silver Goat,Wolf Shield,229,11,https://portal.forgottenrunes.com/api/warriors/img/229,Li Nullifier of the Dawn
+4,Jungle Boomerang,6,Green Hedge Knight Armor,Rune of Pluto,66 percent,Verdant,Green,Mescaline Warrior,Mutant Snapping Turtle,Wooden Shield,230,11,https://portal.forgottenrunes.com/api/warriors/img/230,Kaz Vanquisher of the Rune Raiders
+3,Red Shortsword,4,Street Hoodlum,Rune of Mars,75 percent,Heavy,Blue,Gladiator Helmet,,,231,9,https://portal.forgottenrunes.com/api/warriors/img/231,Bellicus Punisher of Kobolds
+5,Titan Cleaver,6,Glory Knight,Rune of Omega,83 percent,Rugged,Green,Jungle Commando,Gigas Hornet,Magic Shield,232,11,https://portal.forgottenrunes.com/api/warriors/img/232,Edge Striker of the Wood
+4,Giant Cleaver,5,Red Tunic Armor,Rune of Jupiter,80 percent,Heavy,Black,Praetorian,,Might Shield,233,10,https://portal.forgottenrunes.com/api/warriors/img/233,Volantius Chopper of Flowers
+2,Sai,5,Green One Piece,Rune of Pluto,40 percent,Verdant,Green,Summer Warrior,,Triple Triangle Shield,234,10,https://portal.forgottenrunes.com/api/warriors/img/234,Isane Champion of the Coliseum
+4,Agapanthus Fey Sword,5,Street Hoodlum,Rune of Omega,80 percent,Blue Shift,Blue,Guardian Helm,Ultramarine Rhinoceros Beetle,,235,10,https://portal.forgottenrunes.com/api/warriors/img/235,Walter Guillotiner of the Street
+2,Katana,4,Street Punk with Brown Camo,Rune of Neptune,50 percent,Machine,Black,Visor Knight,,,236,9,https://portal.forgottenrunes.com/api/warriors/img/236,Grogan Amputator of the Back Alley
+3,Scimitar,5,Bone Warrior,Rune of Steel,60 percent,Feminine,Blue,Kelt,,Shield of the Moon,237,10,https://portal.forgottenrunes.com/api/warriors/img/237,Adira Obliterator of the Lost City
+3,Journeyman Falchion,4,Brown Knight,,75 percent,Armor,Black,Corsair,,Triple Triangle Shield,238,9,https://portal.forgottenrunes.com/api/warriors/img/238,Nia Contender of the Range
+4,Red Longsword,5,Sakura Dress,Rune of Pluto,80 percent,Blue Shift,Blue,Corsair,Ultramarine Rhinoceros Beetle,,239,10,https://portal.forgottenrunes.com/api/warriors/img/239,Eon Dissector of the Forest
+4,Goblin Axe,4,Dark Ronin Armor,,100 percent,Crimson,Blue,Action Hero,,Yellow Buckler,240,9,https://portal.forgottenrunes.com/api/warriors/img/240,Sweeny Trimmer of the Shadows
+4,Sol Sword,6,Gladiator's Cloak with Leather Briefs,Rune of Air,66 percent,Muscle,Green,Brigand,Hamadryas Baboon,Bolt Shield,241,11,https://portal.forgottenrunes.com/api/warriors/img/241,Crom Attacker of the Baobabs
+3,Sai,5,Street Hoodlum,Rune of Pluto,60 percent,Darkness,Blue,Jarl Raider,Field Hound,,242,10,https://portal.forgottenrunes.com/api/warriors/img/242,Wylan Shark of the Back Alley
+3,Blue Broadsword,6,Woodland Armor,Rune of Pluto,50 percent,Wild,Black,Lady of the Oasis,Dirt Pig,Bolt Shield,243,11,https://portal.forgottenrunes.com/api/warriors/img/243,Andrea Savior of the Forest
+3,Red Longsword,6,Omega Plate Armor,Rune of Fire,50 percent,Blue Shift,Blue,South Sider,Mutant Snapping Turtle,Blue Kite,244,11,https://portal.forgottenrunes.com/api/warriors/img/244,Luther Eradicator of Glory
+2,Mace,4,Classic Gold Barbarian Bikini,,50 percent,Amber,Blue,Kushite,,Triple Triangle Shield,245,9,https://portal.forgottenrunes.com/api/warriors/img/245,Masika Lumper of the Coliseum
+2,Partisan,4,Zuli Suit,,50 percent,Feminine,Blue,Styxian,,Magic Shield,246,9,https://portal.forgottenrunes.com/api/warriors/img/246,Ayo Eidolon of the Rock
+4,Master Claymore,6,Murmillo Gear,Rune of Venus,66 percent,Muscle,Black,Basic Bro,Rattlesnake,Red Aspis,247,11,https://portal.forgottenrunes.com/api/warriors/img/247,Alonso Contaminator of the Lost City
+2,Spetum,5,Blue Boxing Shorts,Rune of Water,40 percent,Sea,Blue,Scout,Gigas Hornet,,248,10,https://portal.forgottenrunes.com/api/warriors/img/248,Rudolph Guardian of the Back Alley
+4,Spiked Ball and Chain,6,Blue Valkyrie Armor,Rune of Steel,66 percent,Armor,Blue,Ishkuzai,Field Hound,Bolt Shield,249,11,https://portal.forgottenrunes.com/api/warriors/img/249,Bernadette Leveler of the Rune Raiders
+4,Wooden Hammer,6,Iron Knight of the Heath,Rune of Mars,66 percent,Brute,Blue,Red Bearded Berserker,Wild Eagle,Tate Shield,250,11,https://portal.forgottenrunes.com/api/warriors/img/250,Jordan Dismantler of Snakes
+4,Titan Cleaver,6,Armor of Fire,Rune of Water,66 percent,Crimson,Red,Blonde Bearded Berserker,Old World Mandrill,Tate Shield,251,11,https://portal.forgottenrunes.com/api/warriors/img/251,Quinton Paragon of the Flame
+3,Malachite Dragon Pike,6,Banded Armor of the Forest,Rune of Sun,50 percent,Verdant,Green,Mescaline Warrior,Robo Dog,Shield of Up Only,252,11,https://portal.forgottenrunes.com/api/warriors/img/252,Nova Apocalypse of Thunder Mountain
+3,Bone Club,6,Honor Guard of the North,Rune of Earth,50 percent,Armor,Black,Lady of the Mountain,Woodland Wolverine,Shield of Up Only,253,11,https://portal.forgottenrunes.com/api/warriors/img/253,Drusilla Vanquisher of the Road
+4,Malachite Cleaver,6,Red Ronin Armor,Rune of Jupiter,66 percent,Gold,Green,Gold Dwarven Helm,Wild Eagle,Butterfly Shield,254,11,https://portal.forgottenrunes.com/api/warriors/img/254,Nuranil Champion of the Forest
+5,Wooden Club,6,Surd Armor,Rune of Steel,83 percent,Armor,Red,Forgotten Lady,Woodland Wolverine,Iron Buckler,255,11,https://portal.forgottenrunes.com/api/warriors/img/255,Judy Killer of Goblins
+5,Lavender Double Blade,5,Green Hedge Knight Armor,Rune of Brass,100 percent,Armor,Green,Green Knight Helm,,Magic Shield,256,10,https://portal.forgottenrunes.com/api/warriors/img/256,William Attacker of Scoundrels
+2,,3,Zuli Suit,,66 percent,Grey,Black,Lady of the Mountain,,Wooden Buckler,257,8,https://portal.forgottenrunes.com/api/warriors/img/257,Aurelia Carver of the Ruins
+3,Spiked Ball bat,6,Exalted Epic Gear,Rune of Earth,50 percent,Crimson,Blue,Gladiator Helmet,Robo Dog,Red Aspis,258,11,https://portal.forgottenrunes.com/api/warriors/img/258,Rapidus Jackhammer of the Valley
+3,Amaryllis Fey Sword,5,Commando Fatigues,Rune of Steel,60 percent,Verdant,Green,Strongman,Attack Drone,,259,10,https://portal.forgottenrunes.com/api/warriors/img/259,Chevy Cutter of Snakes
+4,Agapanthus Fey Sword,6,Nord Armor,Rune of Fire,66 percent,Blue Shift,Blue,Lady Barbarian,Ultramarine Rhinoceros Beetle,Water Elemental Shield,260,11,https://portal.forgottenrunes.com/api/warriors/img/260,Rachel Conqueror of the Riverlands
+5,Bottle of Rune Beer,6,Banded Armor of the Forest,Rune of Mercury,83 percent,Brute,Black,Cool Guy,Night Wolf,Tomb Shield,261,11,https://portal.forgottenrunes.com/api/warriors/img/261,Romney of the Wild
+3,Estoc,6,Xanthous Paladin Gear,Rune of Jupiter,50 percent,Knight,Green,Mescaline Warrior,Wild Eagle,Blue Buckler,262,11,https://portal.forgottenrunes.com/api/warriors/img/262,Garrison Impaler of Dragons
+3,Longbow,6,Xanthous Paladin Gear,Rune of Venus,50 percent,Medieval,Green,Green Knight Helm,Northern Lynx,Gold Herald Shield,263,11,https://portal.forgottenrunes.com/api/warriors/img/263,Edwin Ass Kicker of the West
+2,Purple Longsword,5,Pirate Garb,Rune of Cinnabar,40 percent,Forest,Black,Woodlander,,Red Kite,264,10,https://portal.forgottenrunes.com/api/warriors/img/264,Adira Lacerator of the Salt
+3,Spiked Ball and Chain,6,Green Provocator Garb,Rune of Air,50 percent,Heavy,Green,Visor Knight,Rattlesnake,Bolt Shield,265,11,https://portal.forgottenrunes.com/api/warriors/img/265,Falcon Striker of the Valley
+3,Tuck,5,Street Punk with Brown Camo,Rune of Mars,60 percent,Gold,Green,Spiked Helm,Dirt Pig,,266,10,https://portal.forgottenrunes.com/api/warriors/img/266,Diabolos Dodger of Wizards
+2,Firebrand,5,Street Punk with Brown Camo,Rune of Sigma,40 percent,Verdant,Green,Gold Dwarven Helm,Onyx Panther,,267,10,https://portal.forgottenrunes.com/api/warriors/img/267,Boarhead Ruin of Goblin Town
+5,Sol Sword,6,Traveller's Cloak Blue,Rune of Steel,83 percent,Blue Shift,Blue,Shutter Knight,Attack Drone,Blue Kite,268,11,https://portal.forgottenrunes.com/api/warriors/img/268,Aldokeg Hacker of the Rock
+3,West Side Pipe Wrench,6,Purple Macho Pants,Rune of Water,50 percent,Blackness,Black,Action Man,Night Wolf,Wolf Shield,269,11,https://portal.forgottenrunes.com/api/warriors/img/269,Sid Vanquisher of the Ruins
+3,Bottle of Rune Beer,6,Red Amazonian Jumpsuit,Rune of Air,50 percent,Gold,Black,Abyssinian,Golden Jaguar,Infinity Shield,270,11,https://portal.forgottenrunes.com/api/warriors/img/270,Zalika of Kobolds
+4,Pantheon Spear,6,Athenian Robe,Rune of Steel,66 percent,Pantheon,Black,Valkyrie,Old World Mandrill,Eternal Love Shield,271,11,https://portal.forgottenrunes.com/api/warriors/img/271,Leila Defeater of Glory
+4,Stratiotai Spear,4,Gallus Gear,,100 percent,Gladiator,Black,Forgotten Man,,Brown Kite,272,9,https://portal.forgottenrunes.com/api/warriors/img/272,Arnie Savior of the Pavillion
+3,Jungle Boomerang,5,Red Boxing Shorts,Rune of Saturn,60 percent,Verdant,Green,Zimbala,Mutant Snapping Turtle,,273,10,https://portal.forgottenrunes.com/api/warriors/img/273,Blaze Hero of the Ring
+3,Battle Axe,5,Zuli Suit,Rune of Jupiter,60 percent,Gladiator,Black,Corsair,,Frog Shield,274,10,https://portal.forgottenrunes.com/api/warriors/img/274,Zoe Cataclysm of the Cockatrice
+3,Longbow,5,Bone Warrior,Rune of Earth,60 percent,Rugged,Blue,Psyche Warrior,,Red Aspis,275,10,https://portal.forgottenrunes.com/api/warriors/img/275,Marie Dispatcher of the Ruins
+3,Bo Staff,6,Green Provocator Garb,Rune of Jupiter,50 percent,Brute,Green,Blonde Bearded Berserker,Robo Dog,Shield of the Sun,276,11,https://portal.forgottenrunes.com/api/warriors/img/276,Manuel Blaster of the Ruins
+3,Sword of Babylon,6,Nord Armor,Rune of Air,50 percent,Knight,Blue,Hibernian,Rattlesnake,Green Buckler,277,11,https://portal.forgottenrunes.com/api/warriors/img/277,Sandra Cataclysm of the Dawn
+3,Malachite Cleaver,6,Green Amazonian Jumpsuit,Rune of Brimstone,50 percent,Rugged,Green,Forgotten Lady,Rattlesnake,Horseshoe Shield,278,11,https://portal.forgottenrunes.com/api/warriors/img/278,Wilda Guillotiner of the Cockatrice
+3,Gladiator Sword,6,Blue Knight,Rune of Sun,50 percent,Desert,Blue,Ishkuzai,Ultramarine Rhinoceros Beetle,Water Elemental Shield,279,11,https://portal.forgottenrunes.com/api/warriors/img/279,Marcheline Attacker of Shadows
+3,Rapier,5,White Dominatrix Gear,Rune of Water,60 percent,Feminine,Black,Styxian,Gigas Hornet,,280,10,https://portal.forgottenrunes.com/api/warriors/img/280,Tisa Marauder of Rainbows
+5,Tyrfing,6,Red Macho Pants,Rune of Sun,83 percent,Purple Haze,Purple,Jungle Commando,Orchid Rhinoceros Beetle,Triple Triangle Shield,281,11,https://portal.forgottenrunes.com/api/warriors/img/281,Maddox Antagonist of the Savannah
+5,Brown Longsword,6,Armor of Earth,Rune of Neptune,83 percent,Brownish,Green,Thrall Ruffian,Buffkin,Brown Kite,282,11,https://portal.forgottenrunes.com/api/warriors/img/282,Bruiser Disintegrator of Devils
+3,Wooden Hammer,5,Street Hoodlum,Rune of Sun,60 percent,Blue Shift,Blue,Visor Knight,Wild Eagle,,283,10,https://portal.forgottenrunes.com/api/warriors/img/283,Arnie Smasher of Goblin Town
+3,Malachite Dragon Pike,6,Green Provocator Garb,Rune of Water,50 percent,Verdant,Green,Strongman,Dirt Pig,Triple Triangle Shield,284,11,https://portal.forgottenrunes.com/api/warriors/img/284,Barad Paragon of the Baobabs
+4,Morningstar,6,Blue Hedge Knight Armor,Rune of Brimstone,66 percent,Armor,Blue,Jarl Raider,Gigas Hornet,Shield of Up Only,285,11,https://portal.forgottenrunes.com/api/warriors/img/285,Valentino Slaughterer of Honor
+3,Blue Longsword,6,Purple Tunic Armor,Rune of Sun,50 percent,Blue Shift,Blue,Bruiser,Nastyass Honey Badger,Water Elemental Shield,286,11,https://portal.forgottenrunes.com/api/warriors/img/286,Brock Dispatcher of Brigands
+4,Gladiator Sword,6,Blue Hedge Knight Armor,Rune of Brass,66 percent,Armor,Blue,Brownlander,Robo Dog,Triple Triangle Shield,287,11,https://portal.forgottenrunes.com/api/warriors/img/287,Titus Chopper of the Realm
+5,Golden Sword,6,Sovereign Epic Gear,Rune of Cinnabar,83 percent,Gold,Black,Akkadian,Golden Jaguar,Snake Shield,288,11,https://portal.forgottenrunes.com/api/warriors/img/288,Urhamsi Antagonist of Bugbears
+5,Jungle Boomerang,6,Red Ronin Armor,Rune of Up,83 percent,Blue Shift,Blue,Bruiser,Royal Razorback,Blue Kite,289,11,https://portal.forgottenrunes.com/api/warriors/img/289,Rockefeller Lightbearer of Dragons
+4,Spiked Ball and Chain,6,Goblin Raider,Rune of Jupiter,66 percent,Brute,Blue,Capped Goblin,Gigas Hornet,Green Aspis,290,11,https://portal.forgottenrunes.com/api/warriors/img/290,Orga Hammer of the Caves
+4,Lavender Double Blade,6,Xanthous Paladin Gear,Rune of Air,66 percent,Knight,Black,Wrestler Giant,Onyx Panther,Wooden Buckler,291,11,https://portal.forgottenrunes.com/api/warriors/img/291,Rockefeller Slaughterer of Nothing
+4,Blue Broadsword,5,Yellow Provocator Garb,Rune of Saturn,80 percent,Blue Shift,Blue,Jarl Raider,,Blue Kite,292,10,https://portal.forgottenrunes.com/api/warriors/img/292,Dash Savior of the Arena
+2,Estoc,4,Argyropoeia Bot,Rune of Venus,50 percent,Cyber,Blue,Metabot,,,293,9,https://portal.forgottenrunes.com/api/warriors/img/293,U.V. Guardian of Magic
+4,Dane Axe,5,Street Punk Kobold,Rune of Air,80 percent,Wild,Black,Wild Kobold,Woodland Wolverine,,294,10,https://portal.forgottenrunes.com/api/warriors/img/294,Toka Stabber of the Crossroad
+4,Lazurite Dragon Sword,5,Business Suit,Rune of Jupiter,80 percent,Crimson,Red,Blue Knight Helm,Demon Hound,,295,10,https://portal.forgottenrunes.com/api/warriors/img/295,Guy Conqueror of the Citadel
+2,Goblin Axe,4,Murmillo Gear,,50 percent,Axe,Blue,Jungle Commando,,Frog Shield,296,9,https://portal.forgottenrunes.com/api/warriors/img/296,Homer Assailant of the Desert
+3,Journeyman Falchion,5,Purple Hedge Knight Armor,Rune of Pluto,60 percent,Medieval,Blue,Foot Soldier Helm,,Snake Shield,297,10,https://portal.forgottenrunes.com/api/warriors/img/297,Quinton Champion of the Mountain
+5,Estoc,6,Purple Hedge Knight Armor,Rune of Steel,83 percent,Armor,Black,Forgotten Man,Northern Lynx,Magic Shield,298,11,https://portal.forgottenrunes.com/api/warriors/img/298,Ulysses Swashbuckler of Destiny
+4,Red Shortsword,4,Glory Knight,,100 percent,Knight,Black,Forgotten Man,,Might Shield,299,9,https://portal.forgottenrunes.com/api/warriors/img/299,Scott Dispatcher of Giants
+4,Blue Longsword,5,Street Punk with Teal Camo,Rune of Mercury,80 percent,Muscle,Black,Forgotten Lady,Onyx Panther,,300,10,https://portal.forgottenrunes.com/api/warriors/img/300,Omolara Scissor of the Road
+2,Blue Shortsword,3,North Island MMA Pants,,66 percent,Medieval,Black,Templar,,,301,8,https://portal.forgottenrunes.com/api/warriors/img/301,Roger Calamity of the Good Luck Squad
+3,Purple Longsword,6,Iron Knight of the Heath,Rune of Earth,50 percent,Amber,Blue,Meriotic Warrior,Dirt Pig,Triple Triangle Shield,302,11,https://portal.forgottenrunes.com/api/warriors/img/302,Adisa Striker of the Wood
+2,Goblin Axe,4,Glory Knight,,50 percent,Darkness,Blue,Dune Man,,Iron Buckler,303,9,https://portal.forgottenrunes.com/api/warriors/img/303,Matteo Rival of the Trail
+3,Goblin Axe,4,Battle Sari,,75 percent,Crimson,Blue,Moorish Girl,,Red Aspis,304,9,https://portal.forgottenrunes.com/api/warriors/img/304,Jules Eliminator of the Lost City
+4,Blue Longsword,6,Yellow Amazonian Jumpsuit,Rune of Steel,66 percent,Blue Shift,Blue,Corsair,Gigas Hornet,Blue Buckler,305,11,https://portal.forgottenrunes.com/api/warriors/img/305,Pari Guardian of Rogues
+3,Mace,4,Fur Barbarian,,75 percent,Heavy,Blue,East Sider,,Green Aspis,306,9,https://portal.forgottenrunes.com/api/warriors/img/306,Luther Clobberer of the Lost City
+3,Rapier,5,Gladiator's Cloak with Leather Briefs,Rune of Sun,60 percent,Armor,Blue,Metabot,,Tate Shield,307,10,https://portal.forgottenrunes.com/api/warriors/img/307,Jupiter Guardian of the Desert
+4,Iron Hammer,4,Purple Provocator Garb,,100 percent,Gladiator,Blue,Akkadian,,Snake Shield,308,9,https://portal.forgottenrunes.com/api/warriors/img/308,Uri Lumper of the Pavillion
+5,Red Longsword,6,Divine Battle Garment,Rune of Lime,83 percent,Crimson,Red,Flower of the Wheel,Gigas Hornet,Tate Shield,309,11,https://portal.forgottenrunes.com/api/warriors/img/309,Alani Sword of the Temple
+3,Partisan,6,White Tunic Armor,Rune of Brass,50 percent,Armor,Black,Stunt Man,Dirt Pig,Iron Buckler,310,11,https://portal.forgottenrunes.com/api/warriors/img/310,Draxon Protector of the South
+2,Sai,6,Goblin Toga,Rune of Brass,33 percent,Goblin,Green,Goblin,Spectacled Falcon,Shield of the Sun,311,11,https://portal.forgottenrunes.com/api/warriors/img/311,Glubb Peacemaker of the Worms
+5,Master Claymore,5,Gold Lamellar,Rune of Brass,100 percent,Armor,Blue,Horse Head,,Green Aspis,312,10,https://portal.forgottenrunes.com/api/warriors/img/312,Milo Piercer of the Jungle
+3,Journeyman Falchion,4,Divine Battle Garment,,75 percent,Knight,Blue,Moorish Girl,,Gold Herald Shield,313,9,https://portal.forgottenrunes.com/api/warriors/img/313,Gabriela Slayer of the Sun
+2,Red Shortsword,4,Argyropoeia Bot,Rune of Earth,50 percent,Cyber,Blue,BucketHead: Atomic 79,,,314,9,https://portal.forgottenrunes.com/api/warriors/img/314,Omega Hero of the Quantum Downs
+4,Blue Chainsaw,6,Kobold Grunt Gear,Rune of Omega,66 percent,Brute,Black,Kobold Captain,Black Goat,Green Kite,315,11,https://portal.forgottenrunes.com/api/warriors/img/315,Skeet Hacker of the Road
+3,Wratchet,6,Traveller's Cloak Yellow,Rune of Fire,50 percent,Crimson,Black,Weirdling,Gigas Hornet,Tate Shield,316,11,https://portal.forgottenrunes.com/api/warriors/img/316,Wolfgang Smasher of Mount Titan
+5,Plains Boomerang,5,Purple Valkyrie Armor,,100 percent,Purple Haze,Purple,Corsair,Orchid Rhinoceros Beetle,White Holy Shield,317,10,https://portal.forgottenrunes.com/api/warriors/img/317,Frida Traveler of the Clouds
+3,Shortbow,6,Green One Piece,Rune of Steel,50 percent,Verdant,Green,Summer Warrior,Northern Lynx,Gold Herald Shield,318,11,https://portal.forgottenrunes.com/api/warriors/img/318,Arlene Vagabond of the Guild
+4,Wooden Hammer,6,Aura Knight with Blue Cloak,Rune of Steel,66 percent,Knight,Black,Green Knight Helm,Field Hound,Shield of Up Only,319,11,https://portal.forgottenrunes.com/api/warriors/img/319,Edmund Hammer of the East
+4,Malachite Cleaver,6,Green Amazonian Jumpsuit,Rune of Mercury,66 percent,Verdant,Green,Kempo,Null Goat,Green Kite,320,11,https://portal.forgottenrunes.com/api/warriors/img/320,Hua Apocalypse of Shadows
+2,Partisan,3,Purple Road Warrior,,66 percent,Spike,Black,Purple Viking Helm,,,321,8,https://portal.forgottenrunes.com/api/warriors/img/321,Gruzzon Guardian of Goblin Town
+2,Skull Sword,6,Aura Knight with Yellow Cloak,Rune of Lime,33 percent,Grey,Black,Scout,Robo Dog,Wolf Shield,322,11,https://portal.forgottenrunes.com/api/warriors/img/322,John Wounder of Monsters
+4,Katana,5,Classic Leather Barbarian Briefs,Rune of Uranus,80 percent,Gold,Blue,Akkadian,,Red Aspis,323,10,https://portal.forgottenrunes.com/api/warriors/img/323,Alam Sword of the Cockatrice
+3,Lavender Double Blade,5,Street Punk with Red Camo,Rune of Brimstone,60 percent,Darkness,Black,Cyber Marauder,Dirt Pig,,324,10,https://portal.forgottenrunes.com/api/warriors/img/324,Krull Contender of the Alley
+3,Wratchet,6,White One Piece,Rune of Venus,50 percent,Grey,Blue,Moorish Girl,Hamadryas Baboon,Tomb Shield,325,11,https://portal.forgottenrunes.com/api/warriors/img/325,Adele Annihilator of the Mountain
+3,Amaryllis Fey Sword,5,Purple Wrestling Singlet,Rune of Up,60 percent,MMMA,Purple,Shaolin,Field Hound,,326,10,https://portal.forgottenrunes.com/api/warriors/img/326,Hades Combatant the Rune Raiders
+3,Brown Longsword,4,White One Piece,,75 percent,Guard,Black,Moorish Girl,,Green Aspis,327,9,https://portal.forgottenrunes.com/api/warriors/img/327,Bernadette Cleaver of Destiny
+3,,3,Tower Plate Armor,,100 percent,White Magic,Black,Polar Man,,White Kite,328,8,https://portal.forgottenrunes.com/api/warriors/img/328,Lex Wounder of Snakes
+3,Mug of Ale,6,Gallus Gear,Rune of Saturn,50 percent,Heavy,Black,Praetorian,Golden Jaguar,Shield of Up Only,329,11,https://portal.forgottenrunes.com/api/warriors/img/329,Acidus of the Duck Alliance
+3,Mug of Ale,6,Banded Armor of the Forest,Rune of Venus,50 percent,Rugged,Green,Earth Guard,Spectacled Falcon,Frog Shield,330,11,https://portal.forgottenrunes.com/api/warriors/img/330,Titan of the Guild
+4,Ranseur,6,Murmillo Gear,Rune of Brimstone,66 percent,Darkness,Black,Grappler Giant,Onyx Panther,Wolf Shield,331,11,https://portal.forgottenrunes.com/api/warriors/img/331,Jimbo Guardian of the Lost City
+3,Giant Cleaver,5,Majestic Epic Gear,,60 percent,Medieval,Green,Green Knight Helm,Northern Lynx,Snake Shield,332,10,https://portal.forgottenrunes.com/api/warriors/img/332,Edward Chopper of the Ruins
+2,Apollo's Bow,3,Athenian Robe,,66 percent,Forest,Green,Woodlander,,,333,8,https://portal.forgottenrunes.com/api/warriors/img/333,Atalanta
+5,Malachite Cleaver,6,Traveller's Cloak Red,Rune of Omega,83 percent,Verdant,Green,Gold Dwarven Helm,Grassland Ceratopsian,Lotus Shield,334,11,https://portal.forgottenrunes.com/api/warriors/img/334,Wuri Trimmer of the Coliseum
+2,Longbow,5,Gallus Gear,Rune of Saturn,40 percent,Viking,Black,Purple Viking Helm,,Tomb Shield,335,10,https://portal.forgottenrunes.com/api/warriors/img/335,Vommbar Deadeye of the Rune Raiders
+4,Red Shortsword,5,Gladiator's Cloak with Olive Briefs,Rune of Brass,80 percent,Armor,Blue,Legionnaire Helmet,,Iron Buckler,336,10,https://portal.forgottenrunes.com/api/warriors/img/336,Atrox Ravager of the Valley
+2,White Longsword,4,Red Suit,Rune of Brimstone,50 percent,Heavy,Black,Wrestler Giant,,,337,9,https://portal.forgottenrunes.com/api/warriors/img/337,Mitch Assailant of Titans
+4,Jungle Boomerang,6,Iron Knight of the Heath,Rune of Mars,66 percent,Blue Shift,Blue,Shutter Knight,Field Hound,Blue Kite,338,11,https://portal.forgottenrunes.com/api/warriors/img/338,Rudolph Monk of all that is Evil
+3,Lazurite Dragon Sword,6,Surd Armor,Rune of Cinnabar,50 percent,Guard,Green,Kempo,Aurelian Rhinoceros Beetle,Green Kite,339,11,https://portal.forgottenrunes.com/api/warriors/img/339,Wu Assaulter of Snakes
+3,Iron Hammer,5,Gladiator's Cloak with Olive Briefs,Rune of Pluto,60 percent,Heavy,Black,Highlander,,Shield of the Moon,340,10,https://portal.forgottenrunes.com/api/warriors/img/340,Bronn Jackhammer of Bugbears
+3,Malachite Cleaver,5,Nord Armor,Rune of Venus,60 percent,Amber,Green,Onna-Musha,,Green Aspis,341,10,https://portal.forgottenrunes.com/api/warriors/img/341,Lin Mercenary of Warlocks
+3,Red Bomb,5,Street Punk with Green Camo,Rune of Mars,60 percent,Darkness,Green,Green Knight Helm,Golden Jaguar,,342,10,https://portal.forgottenrunes.com/api/warriors/img/342,Henry Leveler of the Street
+4,Red Broadsword,6,Green Amazonian Jumpsuit,Rune of Mars,66 percent,Verdant,Green,Kempo,Golden Jaguar,Green Kite,343,11,https://portal.forgottenrunes.com/api/warriors/img/343,Tai Slicer of the Wild
+3,Journeyman Falchion,6,Amethyst Spike Armor,Rune of Mercury,50 percent,Spike,Black,Purple Dwarven Helm,Silver Goat,Gold Herald Shield,344,11,https://portal.forgottenrunes.com/api/warriors/img/344,Wuri Wounder of the Sun
+3,Malachite Cleaver,6,Gladiator's Cloak with Green Briefs,Rune of Uranus,50 percent,Verdant,Green,Mescaline Warrior,Hyena,Kraken Shield,345,11,https://portal.forgottenrunes.com/api/warriors/img/345,Donley Hellraiser of the Ruins
+4,Cyber Axe,6,Auric Spike Armor,Rune of Pluto,66 percent,Darkness,Black,Chad Bro,Golden Jaguar,Shield of the Skull,346,11,https://portal.forgottenrunes.com/api/warriors/img/346,Nitro Doom of the Sun
+4,Giant Cleaver,6,Majestic Epic Gear,Rune of Steel,66 percent,Armor,Green,Green Knight Helm,Spectacled Falcon,Brown Kite,347,11,https://portal.forgottenrunes.com/api/warriors/img/347,Edwin Exterminator of the Obelisk
+4,Spiked Ball and Chain,5,Purple Road Warrior,Rune of Steel,80 percent,Spike,Green,Ether Horn Helm,Mutant Snapping Turtle,,348,10,https://portal.forgottenrunes.com/api/warriors/img/348,Forneus Masher of Goblin Town
+2,Bush Spear,4,Equatorial Keikogi,Rune of Uranus,50 percent,Verdant,Green,Templar,,,349,9,https://portal.forgottenrunes.com/api/warriors/img/349,Philip Champion of Power
+3,Amaryllis Fey Sword,6,Banded Armor of the Forest,Rune of Cinnabar,50 percent,Verdant,Green,Furgnome Marauder,Black Goat,Shield of Blood Skull,350,11,https://portal.forgottenrunes.com/api/warriors/img/350,Enki Carver of Monsters
+3,Aurelian Double Blade,5,Commando Fatigues,Rune of Fire,60 percent,Verdant,Green,Earth Guard,Mutant Snapping Turtle,,351,10,https://portal.forgottenrunes.com/api/warriors/img/351,Chuck Guardian of the Duck Alliance
+2,Bottle of Rune Beer,4,Street Hoodlum,Rune of Water,50 percent,Purple Haze,Black,Ether Horn Helm,,,352,9,https://portal.forgottenrunes.com/api/warriors/img/352,Orion of the Road
+4,Amber Dragon Sword,6,Nord Armor,Rune of Uranus,66 percent,Blue Shift,Blue,Kelt,Magpie,Blue Kite,353,11,https://portal.forgottenrunes.com/api/warriors/img/353,Sherry Attacker of Honor
+2,Bo Staff,4,Argyropoeia Bot,Rune of Fire,50 percent,Cyber,Black,Metabot,,,354,9,https://portal.forgottenrunes.com/api/warriors/img/354,Waldo Opponent of Runes
+4,Red Broadsword,6,Exalted Epic Gear,Rune of Pluto,66 percent,Crimson,Red,Praetorian,Old World Mandrill,Yellow Buckler,355,11,https://portal.forgottenrunes.com/api/warriors/img/355,Ajax Combatant of the Duck Alliance
+4,Red Bomb,5,Street Hoodlum,Rune of Neptune,80 percent,Machine,Black,Forgotten Man,Robo Dog,,356,10,https://portal.forgottenrunes.com/api/warriors/img/356,Bronco Razer of Kobolds
+4,Red Longsword,6,Kobold Road Warrior,Rune of Jupiter,66 percent,Crimson,Black,Kobold Captain,Onyx Panther,Tate Shield,357,11,https://portal.forgottenrunes.com/api/warriors/img/357,Knutz Sorrow of Rogues
+4,Titan Cleaver,6,Armor of Water,Rune of Earth,66 percent,Crimson,Red,Oni Girl,Field Hound,Shield of the Sun,358,11,https://portal.forgottenrunes.com/api/warriors/img/358,Shizu Executor of the Road
+3,Skull Spear,6,Blue Tunic Armor,Rune of Saturn,50 percent,Gladiator,Blue,Jarl Raider,Gigas Hornet,Iron Buckler,359,11,https://portal.forgottenrunes.com/api/warriors/img/359,Javier Vanquisher of the Guild
+4,Flame Thrower,6,Gladiator's Cloak with Green Briefs,Rune of Sun,66 percent,Crimson,Green,Stratiotai,Spectacled Falcon,Brown Kite,360,11,https://portal.forgottenrunes.com/api/warriors/img/360,Sami Cauterizer of the Desert
+3,Plains Boomerang,5,White Dominatrix Gear,Rune of Sun,60 percent,Purple Haze,Purple,Valkyrie,Null Goat,,361,10,https://portal.forgottenrunes.com/api/warriors/img/361,Antonia Champion of the Bloodfalls
+3,Chakram,4,Green Medieval Livery,,75 percent,Medieval,Blue,Elder,,Shield of Up Only,362,9,https://portal.forgottenrunes.com/api/warriors/img/362,Nolan Champion of Runes
+3,Bottle of Goblin Beer,6,Skylord Plate Armor,Rune of Mercury,50 percent,Brute,Blue,Brigand,Woodland Wolverine,Shield of Up Only,363,11,https://portal.forgottenrunes.com/api/warriors/img/363,Jeremy of the Tower
+3,Silver Poleaxe,5,Blue Boxing Shorts,Rune of Brimstone,60 percent,Blue Shift,Blue,Blue Knight Helm,Mutant Snapping Turtle,,364,10,https://portal.forgottenrunes.com/api/warriors/img/364,Matthew Guardian of Mount Titan
+4,Sol Sword,6,Omega Plate Armor,Rune of Neptune,66 percent,Blue Shift,Blue,Guardian Helm,Ultramarine Rhinoceros Beetle,Might Shield,365,11,https://portal.forgottenrunes.com/api/warriors/img/365,Richard Danger of the Range
+4,Green Longsword,6,Green Tunic Armor,Rune of Sigma,66 percent,Verdant,Green,Zimbala,Night Wolf,Green Kite,366,11,https://portal.forgottenrunes.com/api/warriors/img/366,Bongani Executor of Cataclysm
+3,Golden Sword,6,Brown Hedge Knight Armor,Rune of Fire,50 percent,Medieval,Black,Purple Viking Helm,Wild Eagle,White Holy Shield,367,11,https://portal.forgottenrunes.com/api/warriors/img/367,Gaelin Wounder of Nothing
+2,Pantheon Spear,6,Green Amazonian Jumpsuit,Rune of Brimstone,33 percent,Brownish,Green,Woodlander,Woodland Wolverine,Wolf Shield,368,11,https://portal.forgottenrunes.com/api/warriors/img/368,Adira Impaler of Cataclysm
+3,Yellow Chainsaw,6,Gladiator's Cloak with Purple Briefs,Rune of Venus,50 percent,Gladiator,Green,Green Knight Helm,Robo Dog,Horseshoe Shield,369,11,https://portal.forgottenrunes.com/api/warriors/img/369,Allan Horror of the Obelisk
+3,Battle Axe,6,Green One Piece,Rune of Cinnabar,50 percent,Brownish,Green,Lady of the Oasis,Wild Eagle,Shield of the Moon,370,11,https://portal.forgottenrunes.com/api/warriors/img/370,Sandy Guillotiner of the Tower
+2,Crowbar,6,Nord Armor,Rune of Sun,33 percent,Fur,Blue,Hibernian,Mutant Snapping Turtle,White Holy Shield,371,11,https://portal.forgottenrunes.com/api/warriors/img/371,Bambam Mauler of Nothing
+4,Master Claymore,4,Dark Ronin Armor,,100 percent,Armor,Blue,Elder,,Green Buckler,372,9,https://portal.forgottenrunes.com/api/warriors/img/372,Barad Hero of the Forest
+3,Scimitar,5,North Woodland Cloak,Rune of Brimstone,60 percent,Feminine,Blue,Archipelagian,,Snake Shield,373,10,https://portal.forgottenrunes.com/api/warriors/img/373,Ekene Slicer of Furgnomes
+4,Blue Longsword,5,Street Hoodlum,Rune of Mars,80 percent,Blue Shift,Blue,Shutter Knight,Harpy Eagle,,374,10,https://portal.forgottenrunes.com/api/warriors/img/374,Richard Obliterator of the Back Alley
+5,Scimitar,6,White One Piece,Rune of Sun,83 percent,Desert,Green,Forgotten Lady,Rattlesnake,Green Buckler,375,11,https://portal.forgottenrunes.com/api/warriors/img/375,Judy Fiend of Glory
+3,Hambone,5,Woodland Armor,Rune of Brass,60 percent,Armor,Blue,Bambam,,Tate Shield,376,10,https://portal.forgottenrunes.com/api/warriors/img/376,Isabella of the Fey
+4,Blue Broadsword,6,Yellow Provocator Garb,Rune of Venus,66 percent,Gladiator,Blue,Jarl Raider,Gigas Hornet,Frog Shield,377,11,https://portal.forgottenrunes.com/api/warriors/img/377,Holt Dismantler of the Sun
+3,Giant Cleaver,5,South Island MMA Pants,Rune of Uranus,60 percent,Blackness,Black,Motor Assassin,Black Goat,,378,10,https://portal.forgottenrunes.com/api/warriors/img/378,Charlie Death of the Good Luck Squad
+3,Tuck,6,Green Hedge Knight Armor,Rune of Jupiter,50 percent,Heavy,Black,Metabot,Mutant Snapping Turtle,Mushroom Shield,379,11,https://portal.forgottenrunes.com/api/warriors/img/379,Angel Crook of Flowers
+3,Spiked Ball and Chain,5,Green Medieval Livery,Rune of Uranus,60 percent,Heavy,Black,Contender Helm,,Wooden Buckler,380,10,https://portal.forgottenrunes.com/api/warriors/img/380,Mrfran Belligerent of the Wild
+3,Spiked Ball and Chain,5,Desert Wear,Rune of Cinnabar,60 percent,Gold,Green,Meriotic Warrior,,Shield of the Moon,381,10,https://portal.forgottenrunes.com/api/warriors/img/381,Kofi Defeater of the Jungle
+4,Mace,6,Armor of Fire,Rune of Mercury,66 percent,Purple Haze,Purple,Purple Dwarven Helm,Null Goat,White Holy Shield,382,11,https://portal.forgottenrunes.com/api/warriors/img/382,Lorthar Debilitator of the Arena
+3,Blue Broadsword,5,Sakura Dress,Rune of Jupiter,60 percent,Blue Shift,Blue,Corsair,Hyena,,383,10,https://portal.forgottenrunes.com/api/warriors/img/383,Hilda Marauder of Dragons
+3,Blue Shortsword,6,Red Macho Pants,Rune of Air,50 percent,Armor,Black,Lycan Warrior,Hyena,White Kite,384,11,https://portal.forgottenrunes.com/api/warriors/img/384,Justice Vanquisher of the Ruins
+2,Longbow,4,Orange Road Warrior,,50 percent,Horror,Black,Olive Mendicant,Woodland Wolverine,,385,9,https://portal.forgottenrunes.com/api/warriors/img/385,Hakim Rapscallion of the Citadel
+5,Silver Poleaxe,6,Blue Valkyrie Armor,Rune of Sun,83 percent,Blue Shift,Blue,Hibernian,Cerulean Ceratopsian,Water Elemental Shield,386,11,https://portal.forgottenrunes.com/api/warriors/img/386,Maya Savior of the Mountain
+4,Blue Broadsword,6,Nord Armor,Rune of Earth,66 percent,Blue Shift,Blue,Hibernian,Nastyass Honey Badger,Blue Kite,387,11,https://portal.forgottenrunes.com/api/warriors/img/387,Fia Dicer of Knights
+4,Malachite Dragon Pike,6,Dark Ronin Armor,Rune of Sigma,66 percent,Purple Haze,Purple,Wrestler Giant,Null Goat,Triple Triangle Shield,388,11,https://portal.forgottenrunes.com/api/warriors/img/388,Nolan Hacker of Dragons
+3,Stratiotai Spear,4,Armor of Air,,75 percent,Knight,Blue,East Sider,,Bolt Shield,389,9,https://portal.forgottenrunes.com/api/warriors/img/389,Jerry Savior of Monsters
+2,Partisan,4,Classic Gold Barbarian Briefs,,50 percent,Amber,Black,Mountain Warrior,,Triple Triangle Shield,390,9,https://portal.forgottenrunes.com/api/warriors/img/390,Dolgarn Impaler of the Pavillion
+4,Blood Sword,6,Prism Armor,Rune of Venus,66 percent,Blackness,Black,Motor Assassin,Onyx Panther,Might Shield,391,11,https://portal.forgottenrunes.com/api/warriors/img/391,Howard Defeater of the Gate
+5,Green Longsword,6,Sovereign Epic Gear,Rune of Saturn,83 percent,Gladiator,Green,Gladiator Helmet,Gigas Hornet,Wolf Shield,392,11,https://portal.forgottenrunes.com/api/warriors/img/392,Aurelius Dicer of the Baobabs
+4,Death Bomb,6,Blue Tunic Armor,Rune of Earth,66 percent,Blue Shift,Blue,Dream Knight,Ultramarine Rhinoceros Beetle,Blue Kite,393,11,https://portal.forgottenrunes.com/api/warriors/img/393,Cadogan Exploder of the Rune Raiders
+4,Green Longsword,5,Green Hedge Knight Armor,Rune of Sun,80 percent,Armor,Green,Earth Guard,,Gold Herald Shield,394,10,https://portal.forgottenrunes.com/api/warriors/img/394,Dean Contender of Wizards
+3,Partisan,6,Prism Armor,Rune of Fire,50 percent,Blackness,Black,Wrestler Giant,Night Wolf,Red Herald Shield,395,11,https://portal.forgottenrunes.com/api/warriors/img/395,Xander Champion of Doomsday
+3,Stratiotai Spear,5,Commando Fatigues,Rune of Jupiter,60 percent,Medieval,Black,Templar,Wild Eagle,,396,10,https://portal.forgottenrunes.com/api/warriors/img/396,Lance Protector of Monsters
+3,Giant Cleaver,4,Gladiator's Cloak with Purple Briefs,,75 percent,Purple Haze,Blue,Mandinka,,Yellow Kite,397,9,https://portal.forgottenrunes.com/api/warriors/img/397,Everett Cleaver of the Lost City
+5,Tyrfing,6,Surd Armor,Rune of Air,83 percent,Purple Haze,Purple,Spring Warrior,Man o' War,Shield of the Moon,398,11,https://portal.forgottenrunes.com/api/warriors/img/398,Velbi Cleaver of Glory
+3,Estoc,3,South Island MMA Pants,,100 percent,Blackness,Black,Kempo,,,399,8,https://portal.forgottenrunes.com/api/warriors/img/399,Ari Eidolon of the Duck Alliance
+4,Sol Sword,5,Blue Tunic Armor,,80 percent,Blue Shift,Blue,Shutter Knight,Sand Cobra,Water Elemental Shield,400,10,https://portal.forgottenrunes.com/api/warriors/img/400,Brumbum Divider of the Mountain
+5,Goblin Sword,6,Black One Piece,Rune of Pluto,83 percent,Darkness,Red,Hibernian,Onyx Panther,Eternal Love Shield,401,11,https://portal.forgottenrunes.com/api/warriors/img/401,Marci Hero of Beasts
+3,Bo Staff,5,Street Punk with Teal Camo,Rune of Fire,60 percent,Blackness,Black,Flower of the Wheel,Onyx Panther,,402,10,https://portal.forgottenrunes.com/api/warriors/img/402,Misha Crasher of the Keep
+3,Dane Axe,6,Amethyst Spike Armor,Rune of Fire,50 percent,Axe,Black,Executioner,Silver Goat,Red Kite,403,11,https://portal.forgottenrunes.com/api/warriors/img/403,Narfi Rival of the Rock
+4,Gladius,4,Surd Armor,,100 percent,Guard,Blue,Ishkuzai,,Magic Shield,404,9,https://portal.forgottenrunes.com/api/warriors/img/404,Leah Eidolon of the Sunset
+3,Malachite Dragon Pike,6,Sovereign Epic Gear,Rune of Pluto,50 percent,Verdant,Green,Foot Soldier Helm,Mutant Snapping Turtle,Wooden Shield,405,11,https://portal.forgottenrunes.com/api/warriors/img/405,Jarek Killer of Atlantis
+3,Partisan,4,Surd Armor,,75 percent,Knight,Black,Moorish Girl,,Butterfly Shield,406,9,https://portal.forgottenrunes.com/api/warriors/img/406,Tera Poker of the Villa
+3,Goblin Axe,5,Purple Knight,Rune of Cinnabar,60 percent,Purple Haze,Blue,Xanthe,,Shield of Balance,407,10,https://portal.forgottenrunes.com/api/warriors/img/407,Devon Hero of Nothing
+3,Tuck,6,Red Macho Pants,Rune of Fire,50 percent,Crimson,Black,Weirdling,Spectacled Falcon,Brown Kite,409,11,https://portal.forgottenrunes.com/api/warriors/img/409,Scott Madcap of the Sun
+5,Gilded Dragon Pike,6,Blue Valkyrie Armor,Rune of Venus,83 percent,Pantheon,Purple,Valkyrie,Garuda's Griffin,Aegis,410,11,https://portal.forgottenrunes.com/api/warriors/img/410,Agnes Cleaver of the Storm
+5,Longbow,6,Traveller's Cloak Blue,Rune of Brass,83 percent,Forest,Red,Cool Guy,Dirt Pig,Butterfly Shield,411,11,https://portal.forgottenrunes.com/api/warriors/img/411,Cornelius Protector of the Mountain
+4,Spetum,5,Guardian Zero,Rune of Sun,80 percent,Blue Shift,Blue,Hibernian,,Blue Buckler,412,10,https://portal.forgottenrunes.com/api/warriors/img/412,Tracy Defeater of X
+2,,3,Megasuit,Rune of Jupiter,66 percent,Amber,Black,Yellow Viking Helm,,,413,8,https://portal.forgottenrunes.com/api/warriors/img/413,Dando Waster of the Glitch
+4,Iron Hammer,6,Brown Knight,Rune of Neptune,66 percent,Armor,Black,Xanthe,Spectacled Falcon,Mercenary Heater Shield,414,11,https://portal.forgottenrunes.com/api/warriors/img/414,Leena Hammer of Runes
+4,Hambone,6,Blue Medieval Livery,Rune of Mars,66 percent,Gladiator,Blue,Jarl Raider,Buffkin,Horseshoe Shield,415,11,https://portal.forgottenrunes.com/api/warriors/img/415,Nicolas of Glory
+3,Gladius,4,Northern Barbarian,,75 percent,Guard,Blue,Moorish Girl,,Green Aspis,416,9,https://portal.forgottenrunes.com/api/warriors/img/416,Hilda Annihilator of the Rock
+4,Malachite Cleaver,5,Banded Armor of the Forest,Rune of Lime,80 percent,Armor,Green,Fungus,,Wooden Shield,417,10,https://portal.forgottenrunes.com/api/warriors/img/417,Stewie Menace of Monsters
+3,Blood Sword,5,Street Punk with Rose Camo,Rune of Earth,60 percent,Wild,Black,Lady of the Oasis,Royal Razorback,,418,10,https://portal.forgottenrunes.com/api/warriors/img/418,Keren Protector of the Disco
+3,Bamboo Pole,6,Terrapin Armor,Rune of Water,50 percent,Verdant,Green,Earth Guard,Royal Razorback,Blue Kite,419,11,https://portal.forgottenrunes.com/api/warriors/img/419,Butch Shadow of Goblin Town
+5,Lavender Double Blade,6,Red Macho Pants,Rune of Neptune,83 percent,Purple Haze,Purple,Yellow Viking Helm,Orchid Rhinoceros Beetle,Purple Kite,420,11,https://portal.forgottenrunes.com/api/warriors/img/420,Rumbar Battler of the Desert
+3,Green Longsword,6,Goblin Toga,Rune of Air,50 percent,Wild,Green,Goblin Chieftain,Golden Jaguar,Shield of the Skull,421,11,https://portal.forgottenrunes.com/api/warriors/img/421,Zit Slasher of the Hell Chamber
+4,Red Bomb,5,Commando Fatigues,Rune of Mars,80 percent,Machine,Black,Forgotten Man,Robo Dog,,422,10,https://portal.forgottenrunes.com/api/warriors/img/422,Luis Atomizer of Lizards
+3,Wooden Hammer,6,Traveller's Cloak Red,Rune of Sun,50 percent,Desert,Green,Zimbala,Dirt Pig,Tomb Shield,423,11,https://portal.forgottenrunes.com/api/warriors/img/423,Werner Slaughterer of the Coliseum
+4,Spetum,6,Yellow Hedge Knight Armor,Rune of Mercury,66 percent,Desert,Green,Forgotten Man,Dirt Pig,Frog Shield,424,11,https://portal.forgottenrunes.com/api/warriors/img/424,Zod Protector of the Arena
+3,Estoc,5,Gallus Gear,Rune of Water,60 percent,Darkness,Black,Foot Soldier Helm,,Red Kite,425,10,https://portal.forgottenrunes.com/api/warriors/img/425,Nix Menace of the Ruins
+3,Master Claymore,5,Classic Gold Barbarian Briefs,Rune of Uranus,60 percent,Darkness,Blue,Meriotic Warrior,,Red Kite,426,10,https://portal.forgottenrunes.com/api/warriors/img/426,Ekene Belligerent of the Ruins
+4,Blue Broadsword,6,Blue Hedge Knight Armor,Rune of Air,66 percent,Blue Shift,Blue,Blue Knight Helm,Buffkin,Blue Kite,427,11,https://portal.forgottenrunes.com/api/warriors/img/427,Lance Contaminator of the Road
+4,Ishtar Sword,6,Exalted Epic Gear,Rune of Uranus,66 percent,Crimson,Red,Red Ronin,Buffkin,Red Kite,428,11,https://portal.forgottenrunes.com/api/warriors/img/428,Harland Dismantler of the Baobabs
+4,Ishtar Sword,6,Aura Knight with Red Cloak,Rune of Steel,66 percent,Crimson,Red,Rocket Helm,Hamadryas Baboon,Red Kite,429,11,https://portal.forgottenrunes.com/api/warriors/img/429,Bruce Hero of the Ridge
+2,Bo Staff,5,Black Dominatrix Gear,Rune of Mercury,40 percent,Blackness,Black,Hibernian,Demon Hound,,430,10,https://portal.forgottenrunes.com/api/warriors/img/430,Leila Breaker of the Capital
+4,Aurelian Double Blade,6,Black One Piece,Rune of Brimstone,66 percent,Gold,Black,Psyche Warrior,Wild Eagle,Gold Holy Shield,431,11,https://portal.forgottenrunes.com/api/warriors/img/431,Tora Obliterator of the Sun
+4,Sabre,5,Red Hedge Knight Armor,,80 percent,Knight,Black,Action Man,Night Wolf,Tanker Heater Shield,432,10,https://portal.forgottenrunes.com/api/warriors/img/432,Henry Conqueror of Glory
+3,Goblin Sword,5,Green Road Spandex,Rune of Water,60 percent,Wild,Red,She Wolf,Rattlesnake,,433,10,https://portal.forgottenrunes.com/api/warriors/img/433,Sharon Lopper of Imps
+4,Rogue Falchion,6,Red Hedge Knight Armor,Rune of Fire,66 percent,Crimson,Red,Red Ronin,Dirt Pig,Tate Shield,434,11,https://portal.forgottenrunes.com/api/warriors/img/434,Lorcan Executor of the Road
+3,Spetum,5,Blue Boxing Shorts,Rune of Brass,60 percent,Blue Shift,Blue,Spiked Helm,Royal Razorback,,435,10,https://portal.forgottenrunes.com/api/warriors/img/435,Asmodeus Champion of Mount Titan
+4,Cyber Axe,6,Amethyst Spike Armor,Rune of Sigma,66 percent,Purple Haze,Purple,Happy Viking,Null Goat,Gold Holy Shield,436,11,https://portal.forgottenrunes.com/api/warriors/img/436,Tyson Paragon of the Arena
+3,Purple Longsword,5,Purple Road Warrior,Rune of Saturn,60 percent,Purple Haze,Purple,Wrestler Giant,Scarlet Macaw,,437,10,https://portal.forgottenrunes.com/api/warriors/img/437,Werner Disintegrator of the Road
+5,Master Claymore,6,Glory Knight,Rune of Saturn,83 percent,Rugged,Black,Forgotten Man,Gigas Hornet,Shield of Up Only,438,11,https://portal.forgottenrunes.com/api/warriors/img/438,Zod Cleaver of the Wood
+3,Silver Dragon Pike,5,Gallus Gear,Rune of Jupiter,60 percent,Purple Haze,Purple,Executioner,,Triple Triangle Shield,439,10,https://portal.forgottenrunes.com/api/warriors/img/439,Victor Protector of the Ruins
+3,Journeyman Falchion,5,Honor Guard of the North,Rune of Venus,60 percent,Feminine,Blue,Cat Girl,,Gold Holy Shield,440,10,https://portal.forgottenrunes.com/api/warriors/img/440,Hana Belligerent of the Ridge
+3,Longbow,4,Murmillo Gear,,75 percent,Brownish,Black,Spiked Helm,,Magic Shield,441,9,https://portal.forgottenrunes.com/api/warriors/img/441,Aamon Swindler of the Lost City
+3,Chakram,5,Skylord Plate Armor,,60 percent,Medieval,Black,Mountain Warrior,Woodland Wolverine,Red Kite,442,10,https://portal.forgottenrunes.com/api/warriors/img/442,Faust Guardian of the Mountain
+3,Spetum,5,Capital City Keikogi,Rune of Venus,60 percent,Blue Shift,Blue,Blue Dwarven Helm,Rattlesnake,,443,10,https://portal.forgottenrunes.com/api/warriors/img/443,Brokk Impaler of the Fist
+4,Red Bomb,5,Street Hoodlum,Rune of Brimstone,80 percent,Machine,Green,Metabot,Robo Dog,,444,10,https://portal.forgottenrunes.com/api/warriors/img/444,Dot Demolisher of the Keep
+4,Spiked Ball and Chain,5,Purple Provocator Garb,Rune of Venus,80 percent,Heavy,Blue,Mountain Warrior,,Tomb Shield,445,10,https://portal.forgottenrunes.com/api/warriors/img/445,Orgdego Breaker of Bugbears
+2,,3,Pirate Garb,,66 percent,Sea,Black,Kelt,,Gold Holy Shield,446,8,https://portal.forgottenrunes.com/api/warriors/img/446,Adele Ruin of the Sea
+4,Partisan,5,Majestic Epic Gear,Rune of Mars,80 percent,Gladiator,Black,Dune Man,,Red Aspis,447,10,https://portal.forgottenrunes.com/api/warriors/img/447,Einer Defeater of the Cockatrice
+5,Trident,6,Battle Sari,Rune of Cinnabar,83 percent,Crimson,Red,Flower of the Wheel,Crimson Jaguar,Red Aspis,448,11,https://portal.forgottenrunes.com/api/warriors/img/448,Misha Paragon of the Sun
+4,Battle Axe,5,Surd Armor,Rune of Steel,80 percent,Armor,Blue,Lady of the Oasis,,Shield of the Sun,449,10,https://portal.forgottenrunes.com/api/warriors/img/449,Teny Conqueror of the Citadel
+5,Blue Longsword,6,Blue Medieval Livery,Rune of Power,83 percent,Blue Shift,Blue,Jarl Raider,Harpy Eagle,Blue Kite,450,11,https://portal.forgottenrunes.com/api/warriors/img/450,Relic Wounder of the Wood
+3,Katana,5,Gallus Gear,Rune of Cinnabar,60 percent,Sword,Blue,Barbarian,,Magic Shield,451,10,https://portal.forgottenrunes.com/api/warriors/img/451,Groundle Striker of the Duck Alliance
+4,Ranseur,6,Brown Hedge Knight Armor,Rune of Mars,66 percent,Knight,Black,Scout,Onyx Panther,Bolt Shield,452,11,https://portal.forgottenrunes.com/api/warriors/img/452,Lance Defeater of the Hall
+2,Giant Cleaver,4,South Island MMA Pants,Rune of Fire,50 percent,White Magic,Blue,Imperial Helmet,,,453,9,https://portal.forgottenrunes.com/api/warriors/img/453,Marcus Dicer for Freedom
+4,Brown Longsword,6,Red Amazonian Jumpsuit,Rune of Sun,66 percent,Crimson,Red,Peacock Warrior,Attack Drone,Red Aspis,454,11,https://portal.forgottenrunes.com/api/warriors/img/454,Nala Assailant of Worlds
+4,Battle Axe,5,Surd Armor,Rune of Pluto,80 percent,Armor,Black,Lady of the Oasis,,Tate Shield,455,10,https://portal.forgottenrunes.com/api/warriors/img/455,Meredith Axe of Light
+5,Rogue Falchion,6,Blue Valkyrie Armor,Rune of Steel,83 percent,Armor,Red,Autumn Warrior,Buffkin,Tate Shield,456,11,https://portal.forgottenrunes.com/api/warriors/img/456,Florentina Attacker of Muscle Mountain
+2,Bone Club,6,Yellow Road Spandex,Rune of Lime,33 percent,Grey,Blue,Winter Warrior,Spectacled Falcon,Wooden Buckler,457,11,https://portal.forgottenrunes.com/api/warriors/img/457,Juno Bludgeoner of the Road
+2,Iron Hammer,5,Desert Wear,Rune of Jupiter,40 percent,Blue Shift,Black,Kempo,,Triple Triangle Shield,458,10,https://portal.forgottenrunes.com/api/warriors/img/458,Faris Lumper of Bugbears
+2,Katana,5,Commando Fatigues,Rune of Venus,40 percent,Machine,Black,Spiked Helm,Robo Dog,,459,10,https://portal.forgottenrunes.com/api/warriors/img/459,Cerb Piercer of the Jungle
+2,,5,Traveller's Cloak Yellow,Rune of Saturn,40 percent,Brownish,Black,Meriotic Warrior,Field Hound,Air Elemental Shield,460,10,https://portal.forgottenrunes.com/api/warriors/img/460,Olufemi Annihilator of the Sun
+3,Sword of Babylon,6,Tower Plate Armor,Rune of Venus,50 percent,Rugged,Black,Brownlander,Hyena,Shield of Down Only,461,11,https://portal.forgottenrunes.com/api/warriors/img/461,Dusty Assailant of Titans
+3,Gladiator Sword,6,Green Knight,Rune of Jupiter,50 percent,Brownish,Green,Lady Barbarian,Wild Eagle,Tate Shield,462,11,https://portal.forgottenrunes.com/api/warriors/img/462,Inanna Contender of Wizards
+3,Spiked Ball and Chain,5,White Tunic Armor,Rune of Jupiter,60 percent,Heavy,Blue,Olive Mendicant,,Shield of Down Only,463,10,https://portal.forgottenrunes.com/api/warriors/img/463,Mahmud Flattener of the Citadel
+3,Sabre,4,Red Provocator Garb,,75 percent,Brownish,Black,Spiked Helm,,Wooden Buckler,464,9,https://portal.forgottenrunes.com/api/warriors/img/464,Samael Attacker of the Valley
+2,Longbow,6,White Knight,Rune of Mercury,33 percent,Cape,Black,Kushite,Spectacled Falcon,Red Herald Shield,465,11,https://portal.forgottenrunes.com/api/warriors/img/465,Tisa Terror of Runes
+5,Cyber Axe,6,Glory Knight,Rune of Brass,83 percent,Purple Haze,Purple,Bruiser,Null Goat,Peace Shield,466,11,https://portal.forgottenrunes.com/api/warriors/img/466,Nix Armageddon of the Wild
+4,Estoc,6,Banded Armor of Earth,Rune of Pluto,66 percent,Armor,Blue,Earth Guard,Hyena,Wolf Shield,467,11,https://portal.forgottenrunes.com/api/warriors/img/467,Crash Marauder of the Forest
+4,Blue Chainsaw,6,Skylord Plate Armor,Rune of Water,66 percent,Blue Shift,Blue,Bruiser,Gigas Hornet,Blue Kite,468,11,https://portal.forgottenrunes.com/api/warriors/img/468,Justice Hacker of the Dawn
+4,Dane Axe,6,White One Piece,Rune of Cinnabar,66 percent,Wild,Blue,She Wolf,Hamadryas Baboon,Gold Holy Shield,469,11,https://portal.forgottenrunes.com/api/warriors/img/469,Leena Axe of Goblins
+3,Guardian Sword,6,Athenian Robe,Rune of Saturn,50 percent,Gold,Black,Woodlander,Night Wolf,Shield of the Moon,470,11,https://portal.forgottenrunes.com/api/warriors/img/470,Teny Nullifier of Light
+4,East Side Pipe Wrench,5,Sakura Dress,Rune of Lime,80 percent,Crimson,Red,Oni Girl,Crimson Jaguar,,471,10,https://portal.forgottenrunes.com/api/warriors/img/471,Hana Jackhammer of Oni
+5,Blue Broadsword,6,Alchemist Armor,Rune of Sigma,83 percent,Blue Shift,Blue,Blue Knight Helm,Ultramarine Rhinoceros Beetle,Blue Kite,472,11,https://portal.forgottenrunes.com/api/warriors/img/472,Thomas Ruin of the Road
+3,Goblin Sword,6,Dominion Plate Armor,Rune of Saturn,50 percent,Blackness,Black,Darkling,Woodland Wolverine,Tanker Heater Shield,473,11,https://portal.forgottenrunes.com/api/warriors/img/473,Aramastus Cataclysm of the Ridge
+3,Hambone,5,Street Hoodlum,Rune of Neptune,60 percent,Muscle,Black,Sea Guard,Onyx Panther,,474,10,https://portal.forgottenrunes.com/api/warriors/img/474,Jarek of the Ditch
+3,Sai,4,Blue Boxing Shorts,,75 percent,MMMA,Red,Bruiser,Nastyass Honey Badger,,475,9,https://portal.forgottenrunes.com/api/warriors/img/475,Diesel Traveler for Freedom
+3,Scimitar,6,Classic Gold Barbarian Bikini,Rune of Saturn,50 percent,Desert,Black,Nubian,Field Hound,White Kite,476,11,https://portal.forgottenrunes.com/api/warriors/img/476,Kesi Carver of the Rock
+3,Brown Longsword,6,Nord Armor,Rune of Pluto,50 percent,Guard,Blue,Archipelagian,Buffkin,Iron Buckler,477,11,https://portal.forgottenrunes.com/api/warriors/img/477,Moni Killer of Wizards
+4,Malachite Cleaver,6,Green Provocator Garb,Rune of Mars,66 percent,Heavy,Green,Strongman,Robo Dog,Shield of the Sun,478,11,https://portal.forgottenrunes.com/api/warriors/img/478,Gunnar Amputator of the Valley
+3,Blue Longsword,6,Yellow Amazonian Jumpsuit,Rune of Water,50 percent,Amber,Blue,Dominatrix,Hamadryas Baboon,Shield of the Moon,479,11,https://portal.forgottenrunes.com/api/warriors/img/479,Nia Armageddon of the Range
+4,Blue Longsword,6,Glory Knight,Rune of Steel,66 percent,Knight,Green,Strongman,Field Hound,Shield of the Moon,480,11,https://portal.forgottenrunes.com/api/warriors/img/480,Harvey Executor of Dragons
+3,West Side Pipe Wrench,6,Woodland Armor,Rune of Lime,50 percent,Olive,Red,Lady Barbarian,Mutant Snapping Turtle,Gold Herald Shield,481,11,https://portal.forgottenrunes.com/api/warriors/img/481,Pari Nailer of the North
+2,Bottle of Rune Beer,5,Yellow One Piece,,40 percent,Orange,Green,Red Horn Lady Buff,Spectacled Falcon,Red Herald Shield,482,10,https://portal.forgottenrunes.com/api/warriors/img/482,Tori of the South
+3,Wooden Hammer,6,Banded Armor of the Forest,Rune of Air,50 percent,Armor,Black,Purple Viking Helm,Hamadryas Baboon,Green Buckler,483,11,https://portal.forgottenrunes.com/api/warriors/img/483,Frazzon Cruncher of the Trail
+3,Gilded Dragon Pike,5,Street Punk with Red Camo,Rune of Venus,60 percent,Muscle,Red,Hood of Torment,Mutant Snapping Turtle,,484,10,https://portal.forgottenrunes.com/api/warriors/img/484,Narfi Blade of Goblin Town
+2,,3,Glory Knight,,66 percent,Rugged,Blue,Brownlander,,Shield of Down Only,485,8,https://portal.forgottenrunes.com/api/warriors/img/485,Cassius Death of the East
+4,Brown Longsword,5,Traveller's Cloak Yellow,Rune of Uranus,80 percent,Forest,Black,Cool Guy,,Butterfly Shield,486,10,https://portal.forgottenrunes.com/api/warriors/img/486,Quinton Calamity of the Sun
+4,Dane Axe,5,Red One Piece,,80 percent,Brownish,Black,Woodlander,Rattlesnake,Shield of the Skull,487,10,https://portal.forgottenrunes.com/api/warriors/img/487,Eon Dicer of Glory
+4,Estoc,4,Gladiator's Cloak with Purple Briefs,,100 percent,Armor,Blue,Contender Helm,,Iron Buckler,488,9,https://portal.forgottenrunes.com/api/warriors/img/488,Orobas Ranger of the Coliseum
+2,Sabre,6,Sapphire Paladin Gear,Rune of Water,33 percent,Sea,Blue,Shaolin,Northern Lynx,Shield of the Moon,489,11,https://portal.forgottenrunes.com/api/warriors/img/489,Faust Slicer of Glory
+3,Rogue Falchion,5,Surd Armor,,60 percent,Wild,Red,Forgotten Lady,Rattlesnake,Shield of the Sun,490,10,https://portal.forgottenrunes.com/api/warriors/img/490,Sandy Marauder of Riffraff
+4,Shortbow,6,Green Road Spandex,Rune of Protection,66 percent,Verdant,Green,Onna-Musha,Greater Cassowary,Green Kite,491,11,https://portal.forgottenrunes.com/api/warriors/img/491,Kasumi Guardian of the Duck Alliance
+5,Blue Broadsword,6,Blue Medieval Livery,Rune of Saturn,83 percent,Blue Shift,Blue,Bruiser,Ultramarine Rhinoceros Beetle,Water Elemental Shield,492,11,https://portal.forgottenrunes.com/api/warriors/img/492,Werner Dispatcher of the Tower
+3,,3,Gallus Gear,,100 percent,Gold,Black,Stunt Man,,Gold Holy Shield,493,8,https://portal.forgottenrunes.com/api/warriors/img/493,Willy Doom of the Cockatrice
+3,Spiked Ball and Chain,5,Gladiator's Cloak with Green Briefs,,60 percent,Gladiator,Green,Metabot,Woodland Wolverine,Yellow Kite,494,10,https://portal.forgottenrunes.com/api/warriors/img/494,Angel Debilitator of the Rock
+4,Wooden Club,6,Yellow Road Spandex,Rune of Neptune,66 percent,Wild,Black,Daughter of the Brine,Woodland Wolverine,Green Aspis,495,11,https://portal.forgottenrunes.com/api/warriors/img/495,Sherry Crumbler of the Underground
+3,Gladius,5,White One Piece,Rune of Brimstone,60 percent,Gladiator,Blue,Forgotten Lady,,Wooden Buckler,496,10,https://portal.forgottenrunes.com/api/warriors/img/496,Akinyi Dispatcher of the Coliseum
+4,Green Longsword,6,Green Provocator Garb,Rune of Saturn,66 percent,Muscle,Green,Jungle Commando,Nastyass Honey Badger,Tomb Shield,497,11,https://portal.forgottenrunes.com/api/warriors/img/497,Tim Executor of the Arena
+2,Goblin Axe,4,Battle Sari,,50 percent,Teal,Black,Moorish Girl,,White Kite,498,9,https://portal.forgottenrunes.com/api/warriors/img/498,Sharon Cleaver of the Lotus
+3,Goblin Sword,5,Commando Fatigues,Rune of Omega,60 percent,Darkness,Red,Rocket Helm,Golden Jaguar,,499,10,https://portal.forgottenrunes.com/api/warriors/img/499,Denali Bifurcator of the Battlefront
+4,Red Longsword,6,Red One Piece,Rune of Down,66 percent,Crimson,Red,Spring Warrior,Hyena,Red Aspis,500,11,https://portal.forgottenrunes.com/api/warriors/img/500,Devon Sword of the Ridge
+3,Ishtar Sword,5,Green Road Spandex,Rune of Earth,60 percent,Gladiator,Red,Lady of the Oasis,Night Wolf,,501,10,https://portal.forgottenrunes.com/api/warriors/img/501,Maya Annihilator of Imps
+3,Bottle of Goblin Beer,6,Green Hedge Knight Armor,Rune of Mercury,50 percent,Rugged,Black,Forgotten Man,Wild Eagle,Shield of the Moon,502,11,https://portal.forgottenrunes.com/api/warriors/img/502,Hendrix of the Wood
+4,East Side Pipe Wrench,6,Red Knight,Rune of Protection,66 percent,Crimson,Red,Flower of the Wheel,Old World Mandrill,Eternal Love Shield,503,11,https://portal.forgottenrunes.com/api/warriors/img/503,Saumya Beater of Beasts
+4,Stratiotai Spear,6,Prism Armor,Rune of Fire,66 percent,Knight,Black,Action Man,Onyx Panther,Air Elemental Shield,504,11,https://portal.forgottenrunes.com/api/warriors/img/504,Diesel Paragon of Runes
+3,Mace,5,Pirate Garb,Rune of Air,60 percent,Armor,Black,Lady of the Mountain,,Shield of Down Only,505,10,https://portal.forgottenrunes.com/api/warriors/img/505,Agnes Belligerent of the Atoll
+3,Chakram,6,South Woodland Cloak,Rune of Brimstone,50 percent,Darkness,Green,Corsair,Spectacled Falcon,Shield of the Sun,506,11,https://portal.forgottenrunes.com/api/warriors/img/506,Sherry Ranger of the North
+3,Journeyman Falchion,6,Goblin Toga,Rune of Water,50 percent,Medieval,Black,Goblin,Wild Eagle,Guardian Shield,507,11,https://portal.forgottenrunes.com/api/warriors/img/507,Fredric Striker of the Horde
+3,Mace,4,Tower Plate Armor,,75 percent,Medieval,Blue,Macho Man,,Gold Herald Shield,508,9,https://portal.forgottenrunes.com/api/warriors/img/508,Charles Clobberer of Brigands
+5,Blue Longsword,6,Yellow Provocator Garb,Rune of Cinnabar,83 percent,Blue Shift,Blue,Shutter Knight,Attack Drone,Blue Buckler,509,11,https://portal.forgottenrunes.com/api/warriors/img/509,Largo Despoiler of the Obelisk
+2,Partisan,4,Surd Armor,,50 percent,Grey,Black,Bambam,,White Holy Shield,510,9,https://portal.forgottenrunes.com/api/warriors/img/510,Lucy Impaler of the Villa
+4,Partisan,5,Glory Knight,Rune of Air,80 percent,Rugged,Blue,Polar Man,,Might Shield,511,10,https://portal.forgottenrunes.com/api/warriors/img/511,Emerson Champion of all that is Evil
+3,Yellow Chainsaw,5,Superalloy Bot,Rune of Air,60 percent,Cyber,Blue,BucketHead: Atomic 26,Wild Eagle,,512,10,https://portal.forgottenrunes.com/api/warriors/img/512,Number 6 Horror of X
+5,Spiked Ball and Chain,6,Battle Bikini,Rune of Brass,83 percent,Armor,Black,Xanthe,Gigas Hornet,Air Elemental Shield,513,11,https://portal.forgottenrunes.com/api/warriors/img/513,Alyssia Flagellator of the Ridge
+5,Blue Broadsword,6,Guardian Zero,Rune of Lime,83 percent,Gladiator,Blue,Corsair,Field Hound,Water Elemental Shield,514,11,https://portal.forgottenrunes.com/api/warriors/img/514,Eon Cleaver of Robots
+4,Katana,6,Armor of Water,Rune of Uranus,66 percent,Armor,Blue,Jarl Raider,Rattlesnake,Brown Kite,515,11,https://portal.forgottenrunes.com/api/warriors/img/515,Shaw Wounder of Dragons
+3,Shortbow,6,Majestic Epic Gear,Rune of Cinnabar,50 percent,Verdant,Green,Green Knight Helm,Dirt Pig,Gold Holy Shield,516,11,https://portal.forgottenrunes.com/api/warriors/img/516,Ralph Champion of the Jungle
+4,Scimitar,4,Red Battle Bikini,,100 percent,Armor,Blue,Avalonian,,Snake Shield,517,9,https://portal.forgottenrunes.com/api/warriors/img/517,Shira Lacerator of the Sun
+3,Stratiotai Spear,6,Blue Hedge Knight Armor,Rune of Pluto,50 percent,Grey,Blue,Metabot,Robo Dog,Butterfly Shield,518,11,https://portal.forgottenrunes.com/api/warriors/img/518,Metron Protector of Goblins
+4,Lavender Double Blade,5,Purple Road Warrior,Rune of Sigma,80 percent,Purple Haze,Purple,Purple Viking Helm,Null Goat,,519,10,https://portal.forgottenrunes.com/api/warriors/img/519,Bonnard Calamity of the Back Alley
+3,Stratiotai Spear,4,Gold Belt Ruffian,Rune of Uranus,75 percent,Gold,Black,Happy Viking,,,520,9,https://portal.forgottenrunes.com/api/warriors/img/520,Boarhead Defeater of Imps
+4,Tuck,5,Classic Leather Barbarian Briefs,Rune of Air,80 percent,Gold,Green,Forgotten Man,,Shield of the Moon,521,10,https://portal.forgottenrunes.com/api/warriors/img/521,Tad Thief of the Pavillion
+4,Butcher Knife,6,Aura Knight with Blue Cloak,Rune of Saturn,66 percent,Blue Shift,Blue,Action Man,Ultramarine Rhinoceros Beetle,Water Elemental Shield,522,11,https://portal.forgottenrunes.com/api/warriors/img/522,Miles Maimer of the Rune Raiders
+4,Spiked Ball and Chain,5,Red Provocator Garb,Rune of Jupiter,80 percent,Heavy,Blue,Templar,,Green Aspis,523,10,https://portal.forgottenrunes.com/api/warriors/img/523,William Basher of the Coliseum
+4,Battle Axe,4,Tower Plate Armor,,100 percent,Armor,Blue,Cool Guy,,Wooden Buckler,524,9,https://portal.forgottenrunes.com/api/warriors/img/524,Alexander Eidolon of the Forest
+4,Butcher Knife,6,Yellow Provocator Garb,Rune of Brimstone,66 percent,Blue Shift,Blue,Mountain Warrior,Ultramarine Rhinoceros Beetle,Water Elemental Shield,525,11,https://portal.forgottenrunes.com/api/warriors/img/525,Archer Ass Kicker of the Desert
+4,Giant Cleaver,5,Nord Armor,,80 percent,Armor,Blue,Hibernian,Mutant Snapping Turtle,Shield of Up Only,526,10,https://portal.forgottenrunes.com/api/warriors/img/526,Millicent Armageddon of the Coliseum
+4,Spetum,6,Blue Tunic Armor,Rune of Pluto,66 percent,Armor,Blue,Jarl Raider,Mutant Snapping Turtle,Triple Triangle Shield,527,11,https://portal.forgottenrunes.com/api/warriors/img/527,Duke Eidolon of Rogues
+4,Silver Dragon Pike,5,Street Punk with Violet Camo,Rune of Protection,80 percent,Purple Haze,Purple,Psyche Warrior,Null Goat,,528,10,https://portal.forgottenrunes.com/api/warriors/img/528,Blake Ruin of the Road
+3,Battle Axe,4,Armor of Fire,,75 percent,Guard,Blue,Yellow Viking Helm,,Red Kite,529,9,https://portal.forgottenrunes.com/api/warriors/img/529,Tildor Cataclysm of Rats
+3,Master Claymore,4,Surd Armor,,75 percent,Guard,Black,Vedic Warrior,,Shield of Up Only,530,9,https://portal.forgottenrunes.com/api/warriors/img/530,Laasya Eliminator of the Trail
+2,Gladiator Sword,5,Purple Tunic Armor,Rune of Earth,40 percent,Desert,Black,Desert Warrior,,Shield of Balance,531,10,https://portal.forgottenrunes.com/api/warriors/img/531,Achmed Calamity of the Grass
+5,Trident,6,Divine Battle Garment,Rune of Up,83 percent,Crimson,Red,Flower of the Wheel,Crimson Jaguar,Red Herald Shield,532,11,https://portal.forgottenrunes.com/api/warriors/img/532,Misha Champion of Xanadu
+3,Chakram,4,Surd Armor,,75 percent,Guard,Black,Moorish Girl,,Mercenary Heater Shield,533,9,https://portal.forgottenrunes.com/api/warriors/img/533,Frankie Vengeance of Glory
+4,Wooden Hammer,5,Divine Battle Garment,Rune of Cinnabar,80 percent,Gold,Blue,Forgotten Lady,,Frog Shield,534,10,https://portal.forgottenrunes.com/api/warriors/img/534,Rufaro Demolisher of the Sun
+4,,5,Brown Hedge Knight Armor,Rune of Neptune,80 percent,Brownish,Green,Grizzly Man,Spectacled Falcon,Brown Kite,535,10,https://portal.forgottenrunes.com/api/warriors/img/535,Magnus Champion of the Grass
+4,Red Longsword,6,Blue Tunic Armor,Rune of Fire,66 percent,Blue Shift,Blue,Blue Knight Helm,Rattlesnake,Water Elemental Shield,536,11,https://portal.forgottenrunes.com/api/warriors/img/536,Romney Ruin or Scalawags
+2,,4,Commando Fatigues,Rune of Lime,50 percent,Rugged,Green,Polar Man,Field Hound,,537,9,https://portal.forgottenrunes.com/api/warriors/img/537,Vidal Killer of Lizards
+4,Sabre,6,North Woodland Cloak,Rune of Fire,66 percent,Brownish,Black,Bonnie Lass,Northern Lynx,Might Shield,538,11,https://portal.forgottenrunes.com/api/warriors/img/538,Shelia Hero of the Trees
+3,Katana,4,Street Punk with Brown Camo,Rune of Mercury,75 percent,Gold,Black,Desert Warrior,,,539,9,https://portal.forgottenrunes.com/api/warriors/img/539,Talal Sword of the Street
+3,Blue Broadsword,6,Northern Barbarian,Rune of Fire,50 percent,Rugged,Black,Summer Warrior,Hyena,Might Shield,540,11,https://portal.forgottenrunes.com/api/warriors/img/540,Valerie Shaver of the Berg
+3,Bo Staff,4,Red Hedge Knight Armor,,75 percent,Rugged,Black,Forgotten Man,,Purple Kite,541,9,https://portal.forgottenrunes.com/api/warriors/img/541,Enzo Vanquisher of Glory
+5,Trident,6,Armor of Water,Rune of Venus,83 percent,Crimson,Red,Jungle Commando,Crimson Jaguar,Red Aspis,542,11,https://portal.forgottenrunes.com/api/warriors/img/542,Draco Paragon of the Wild
+3,Titan Cleaver,6,Divine Battle Garment,Rune of Brimstone,50 percent,Crimson,Red,Summer Warrior,Hamadryas Baboon,Eternal Love Shield,543,11,https://portal.forgottenrunes.com/api/warriors/img/543,Cassia Nullifier of Tigers
+2,,3,Yellow Road Spandex,,66 percent,Feminine,Black,Styxian,,Magic Shield,544,8,https://portal.forgottenrunes.com/api/warriors/img/544,Zula Piercer of the Citadel
+3,Bottle of Goblin Beer,5,Orange Road Warrior,Rune of Neptune,60 percent,Wild,Blue,Weirdling,Hyena,,545,10,https://portal.forgottenrunes.com/api/warriors/img/545,Rockford of the Road
+3,Stratiotai Spear,4,Gallus Gear,,75 percent,Gladiator,Black,Macho Man,,Iron Buckler,546,9,https://portal.forgottenrunes.com/api/warriors/img/546,Ryder Champion of the Pavillion
+4,Estoc,6,Green Provocator Garb,Rune of Brass,66 percent,Armor,Green,Contender Helm,Dirt Pig,Red Aspis,547,11,https://portal.forgottenrunes.com/api/warriors/img/547,Radna Wanderer of the Cockatrice
+2,,3,Brown Tunic Armor,,66 percent,Medieval,Blue,Shaolin,,Tanker Heater Shield,548,8,https://portal.forgottenrunes.com/api/warriors/img/548,Max Bifurcator of Dragons
+3,Blue Longsword,6,Traveller's Cloak Blue,Rune of Venus,50 percent,Blue Shift,Blue,Legionnaire Helmet,Hyena,Blue Buckler,549,11,https://portal.forgottenrunes.com/api/warriors/img/549,Lars Carver of the Riverlands
+4,Green Longsword,6,Gallus Gear,Rune of Power,66 percent,Rugged,Green,Jungle Commando,Wild Eagle,Green Kite,550,11,https://portal.forgottenrunes.com/api/warriors/img/550,Clubber Stabber of the Obelisk
+3,,3,Gladiator's Cloak with Purple Briefs,,100 percent,Armor,Black,Mountain Warrior,,Red Herald Shield,551,8,https://portal.forgottenrunes.com/api/warriors/img/551,Grimmold Blade of Mount Titan
+4,Longbow,6,Banded Armor of the Ether,Rune of Earth,66 percent,Rugged,Black,Highlander,Woodland Wolverine,Shield of the Black Goat,552,11,https://portal.forgottenrunes.com/api/warriors/img/552,Rockford Robber of the Valley
+3,Jade Sword,5,Street Punk with Violet Camo,Rune of Pluto,60 percent,Wild,Black,Hibernian,Northern Lynx,,553,10,https://portal.forgottenrunes.com/api/warriors/img/553,Casey Eradicator of the Back Alley
+4,Spiked Ball bat,5,Yellow Wrestling Singlet,Rune of Steel,80 percent,Muscle,Blue,Jungle Commando,Field Hound,,554,10,https://portal.forgottenrunes.com/api/warriors/img/554,Sylvester Crusher of Concrete
+4,Malachite Cleaver,5,Yellow Wrestling Singlet,Rune of Venus,80 percent,Muscle,Green,Mescaline Warrior,Wild Eagle,,555,10,https://portal.forgottenrunes.com/api/warriors/img/555,Nick Assailant of the Ring
+5,Guardian Sword,6,Armor of Water,Rune of Mars,83 percent,Armor,Red,Praetorian,Woodland Wolverine,Red Herald Shield,556,11,https://portal.forgottenrunes.com/api/warriors/img/556,Romulus Dicer of the Trail
+4,Longbow,6,Green Hedge Knight Armor,Rune of Brimstone,66 percent,Jungle,Black,Forgotten Man,Dirt Pig,Green Buckler,557,11,https://portal.forgottenrunes.com/api/warriors/img/557,Asper Scalawag of the Mountain
+3,Rapier,6,Gold Lamellar,Rune of Air,50 percent,Knight,Black,Stunt Man,Rattlesnake,Brown Kite,558,11,https://portal.forgottenrunes.com/api/warriors/img/558,Donley Villain of Bugbears
+3,White Longsword,6,Desert Wear,Rune of Earth,50 percent,Medieval,Blue,Mandinka,Golden Jaguar,Yellow Buckler,559,11,https://portal.forgottenrunes.com/api/warriors/img/559,Cannon Annihilator of the Sun
+4,Jungle Boomerang,6,Alchemist Armor,Rune of Water,66 percent,Blue Shift,Blue,Dream Knight,Battle Penguin,Blue Kite,560,11,https://portal.forgottenrunes.com/api/warriors/img/560,Dain Rascal of Glory
+3,Purple Longsword,5,Street Punk with Brown Camo,Rune of Earth,60 percent,Rugged,Black,Basic Bro,Wild Eagle,,561,10,https://portal.forgottenrunes.com/api/warriors/img/561,Bane Hellraiser of the Road
+4,Jungle Boomerang,5,Blue Boxing Shorts,Rune of Brass,80 percent,Blue Shift,Blue,Blue Knight Helm,Man o' War,,562,10,https://portal.forgottenrunes.com/api/warriors/img/562,Roddrick Rascal of Concrete
+4,Lazurite Dragon Sword,6,Yellow Provocator Garb,Rune of Down,66 percent,Brute,Black,Grappler Giant,Onyx Panther,Shield of Up Only,563,11,https://portal.forgottenrunes.com/api/warriors/img/563,Benedict Ruin of the Cockatrice
+3,Red Shortsword,4,Classic Leather Barbarian Bikini,,75 percent,Feminine,Blue,Kelt,,Iron Buckler,564,9,https://portal.forgottenrunes.com/api/warriors/img/564,Adele Cutter of the Sun
+4,Brown Longsword,5,Purple Tunic Armor,Rune of Fire,80 percent,Knight,Blue,Cool Guy,,Mercenary Heater Shield,565,10,https://portal.forgottenrunes.com/api/warriors/img/565,Matthew Savior of Titans
+4,Red Shortsword,6,Purple Knight,Rune of Venus,66 percent,Feminine,Blue,Divanae,Gigas Hornet,Bolt Shield,566,11,https://portal.forgottenrunes.com/api/warriors/img/566,Zora Killer of the Mountain
+4,Red Shortsword,6,Brown Tunic Armor,Rune of Brass,66 percent,Armor,Black,Basic Bro,Wild Eagle,Triple Triangle Shield,567,11,https://portal.forgottenrunes.com/api/warriors/img/567,Jett Despoiler of Wizards
+4,Longbow,6,Red Amazonian Jumpsuit,Rune of Venus,66 percent,Jungle,Purple,Daughter of the Brine,Greater Cassowary,Tanker Heater Shield,568,11,https://portal.forgottenrunes.com/api/warriors/img/568,Maud Stalker of the Grass
+4,Giant Cleaver,4,Auric Spike Armor,,100 percent,Heavy,Black,Praetorian,,Tomb Shield,569,9,https://portal.forgottenrunes.com/api/warriors/img/569,Cossus Antagonist of Atlantis
+4,Iron Hammer,6,Surd Armor,Rune of Steel,66 percent,Armor,Black,Vedic Warrior,Field Hound,Tate Shield,570,11,https://portal.forgottenrunes.com/api/warriors/img/570,Zara Basher of the Sun
+5,Giant Cleaver,5,Traveller's Cloak Yellow,,100 percent,Purple Haze,Purple,Bruiser,Orchid Rhinoceros Beetle,Yellow Kite,571,10,https://portal.forgottenrunes.com/api/warriors/img/571,Donley Render of Worlds
+4,Scimitar,5,Red Macho Pants,Rune of Brass,80 percent,Armor,Blue,Forgotten Man,,Wooden Buckler,572,10,https://portal.forgottenrunes.com/api/warriors/img/572,Lorcan Cleaver of the Valley
+4,Jade Sword,5,Armor of Earth,,80 percent,Verdant,Green,Marsh Girl,Attack Drone,Green Kite,573,10,https://portal.forgottenrunes.com/api/warriors/img/573,Luisa Chopper of Rats
+5,Firebrand,6,Red Battle Bikini,Rune of Sun,83 percent,Crimson,Red,Spring Warrior,Scarlet Swine,Tanker Heater Shield,574,11,https://portal.forgottenrunes.com/api/warriors/img/574,Camilla Antagonist of Rats
+5,Ishtar Sword,5,Aura Knight with Red Cloak,,100 percent,Crimson,Red,Stratiotai,Gigas Hornet,Red Herald Shield,575,10,https://portal.forgottenrunes.com/api/warriors/img/575,Tariq Assaulter of the Arena
+3,Aurelian Double Blade,5,North Island MMA Pants,Rune of Water,60 percent,White Magic,Black,Mountain Warrior,Wild Eagle,,576,10,https://portal.forgottenrunes.com/api/warriors/img/576,Farol Champion of the Arena
+4,Red Shortsword,6,Blue Valkyrie Armor,Rune of Sun,66 percent,Armor,Blue,Hibernian,Woodland Wolverine,Shield of Down Only,577,11,https://portal.forgottenrunes.com/api/warriors/img/577,Marci Eidolon of Honor Mountain
+4,Malachite Dragon Pike,6,Terrapin Armor,Rune of Earth,66 percent,Medieval,Green,Summer Warrior,Golden Jaguar,Air Elemental Shield,578,11,https://portal.forgottenrunes.com/api/warriors/img/578,Alyssia Champion of Turtles
+3,Pantheon Spear,5,Street Punk with Brown Camo,Rune of Earth,60 percent,Rugged,Green,Action Hero,Gigas Hornet,,579,10,https://portal.forgottenrunes.com/api/warriors/img/579,Nigel Impaler of the Road
+3,Gladius,4,Fur Barbarian,,75 percent,Brute,Blue,Macho Man,,Iron Buckler,580,9,https://portal.forgottenrunes.com/api/warriors/img/580,Butch Razer of the Rock
+3,Aurelian Double Blade,4,Argyropoeia Bot,Rune of Mercury,75 percent,Gold,Blue,Metabot,,,581,9,https://portal.forgottenrunes.com/api/warriors/img/581,Dyna Dicer of Machines
+3,Sabre,6,Classic Gold Barbarian Briefs,Rune of Jupiter,50 percent,Brownish,Black,Chad Bro,Hyena,Red Aspis,582,11,https://portal.forgottenrunes.com/api/warriors/img/582,Umberto Dissector of the Rock
+2,Tuck,3,Red Suit,,66 percent,Armor,Black,Brownlander,,,583,8,https://portal.forgottenrunes.com/api/warriors/img/583,Magnus Protector of the Berg
+5,Jungle Boomerang,6,West Woodland Cloak,Rune of Neptune,83 percent,Forest,Black,Forgotten Lady,Dirt Pig,Wooden Shield,584,11,https://portal.forgottenrunes.com/api/warriors/img/584,Ria Lightbearer of Flowers
+3,Longbow,5,Xanthous Paladin Gear,Rune of Earth,60 percent,Amber,Black,Imperial Helmet,,Bolt Shield,585,10,https://portal.forgottenrunes.com/api/warriors/img/585,Remus Rogue of Brigands
+3,Blue Broadsword,5,Superalloy Bot,Rune of Lime,60 percent,Blue Shift,Blue,BucketHead: Atomic 26,Northern Lynx,,586,10,https://portal.forgottenrunes.com/api/warriors/img/586,Quant Sword of Robots
+3,Malachite Dragon Pike,5,Cyborg Body,Rune of Fire,60 percent,Verdant,Green,Gold Dwarven Helm,Scarlet Swine,,587,10,https://portal.forgottenrunes.com/api/warriors/img/587,Glorf Blade of Robots
+3,Gladiator Sword,6,Gallus Gear,Rune of Cinnabar,50 percent,Darkness,Black,Mandinka,Wild Eagle,Red Kite,588,11,https://portal.forgottenrunes.com/api/warriors/img/588,Dexter Belligerent of the Obelisk
+4,Jungle Boomerang,6,Terrapin Armor,Rune of Uranus,66 percent,Rugged,Green,Jungle Commando,Gigas Hornet,Might Shield,589,11,https://portal.forgottenrunes.com/api/warriors/img/589,Thorne Rogue of Turtles
+5,Purple Longsword,6,Yellow Road Spandex,Rune of Earth,83 percent,Purple Haze,Purple,Corsair,Null Goat,Purple Kite,590,11,https://portal.forgottenrunes.com/api/warriors/img/590,Myla Death of Wizards
+2,Longbow,4,North Island MMA Pants,Rune of Mercury,50 percent,Darkness,Black,Frankish Helm,,,591,9,https://portal.forgottenrunes.com/api/warriors/img/591,Neil Hero of the Fist
+3,Aurelian Double Blade,5,Red Boxing Shorts,Rune of Pluto,60 percent,Darkness,Blue,Meriotic Warrior,Northern Lynx,,592,10,https://portal.forgottenrunes.com/api/warriors/img/592,Dakarai Protector of Tigers
+4,Master Claymore,6,Sapphire Paladin Gear,Rune of Sun,66 percent,Medieval,Blue,Forgotten Man,Wild Eagle,Frog Shield,593,11,https://portal.forgottenrunes.com/api/warriors/img/593,Murdock Armageddon of all that is Holy
+3,Red Shortsword,5,Yellow Road Spandex,Rune of Earth,60 percent,Feminine,Black,Xanthe,,White Holy Shield,594,10,https://portal.forgottenrunes.com/api/warriors/img/594,Adele Menace of the Road
+4,Jungle Boomerang,6,Goblin Toga,Rune of Cinnabar,66 percent,Rugged,Green,Capped Goblin,Sand Cobra,White Kite,595,11,https://portal.forgottenrunes.com/api/warriors/img/595,Shurgz Paragon of Goblin Town
+4,Agapanthus Fey Sword,6,Aura Knight with Blue Cloak,Rune of Down,66 percent,Blue Shift,Blue,Olympian,Ultramarine Rhinoceros Beetle,Blue Kite,596,11,https://portal.forgottenrunes.com/api/warriors/img/596,Stormand Terror of Destiny
+3,Battle Axe,5,Auric Spike Armor,Rune of Earth,60 percent,Gladiator,Black,Red Bearded Berserker,,Frog Shield,597,10,https://portal.forgottenrunes.com/api/warriors/img/597,Urmgurn Ruin of the Baobabs
+3,Estoc,5,Battle Sari,Rune of Water,60 percent,Feminine,Blue,Vedic Warrior,,Tanker Heater Shield,598,10,https://portal.forgottenrunes.com/api/warriors/img/598,Zoya Eidolon of the Sun
+4,Golden Sword,5,Street Punk with Brown Camo,Rune of Air,80 percent,Muscle,Black,Wrestler Giant,Onyx Panther,,599,10,https://portal.forgottenrunes.com/api/warriors/img/599,Ragnar Armageddon of the Duck Alliance
+3,Shortbow,6,Green Provocator Garb,Rune of Water,50 percent,Verdant,Green,Jungle Commando,Attack Drone,Tanker Heater Shield,600,11,https://portal.forgottenrunes.com/api/warriors/img/600,Willy Eradicator of the Valley
+3,Journeyman Falchion,5,Red Amazonian Jumpsuit,Rune of Saturn,60 percent,Armor,Blue,Lady of the Mountain,,Magic Shield,601,10,https://portal.forgottenrunes.com/api/warriors/img/601,Agnes Cleaver of the Trail
+3,Master Claymore,4,Gladiator's Cloak with Olive Briefs,,75 percent,Muscle,Blue,Basic Bro,,Bolt Shield,602,9,https://portal.forgottenrunes.com/api/warriors/img/602,Nova Calamity of the Arena
+3,Rapier,4,Battle Bikini,,75 percent,Feminine,Blue,Divanae,,Green Aspis,603,9,https://portal.forgottenrunes.com/api/warriors/img/603,Ayana Menace of Flowers
+3,Malachite Cleaver,6,Green Road Spandex,Rune of Fire,50 percent,Medieval,Green,Bambam,Wild Eagle,Wolf Shield,604,11,https://portal.forgottenrunes.com/api/warriors/img/604,Sherry Stormer of the Citadel
+3,Battle Axe,5,Classic Gold Barbarian Bikini,Rune of Earth,60 percent,Armor,Black,Xanthe,,Fire Shield,605,10,https://portal.forgottenrunes.com/api/warriors/img/605,Alex Wounder of the Sun
+5,Blood Sword,6,Dominion Plate Armor,Rune of Uranus,83 percent,Darkness,Black,Blood Horn Helm,Grey Wolf,Red Kite,606,11,https://portal.forgottenrunes.com/api/warriors/img/606,Typhon Annihilator of Ruffians
+3,Plains Boomerang,5,Cyborg Body,Rune of Earth,60 percent,Rugged,Purple,Bruiser,Battle Penguin,,607,10,https://portal.forgottenrunes.com/api/warriors/img/607,Chuck Shark of Runes
+3,Journeyman Falchion,4,Brown Knight,,75 percent,Guard,Blue,Abyssinian,,White Kite,608,9,https://portal.forgottenrunes.com/api/warriors/img/608,Sekai Razer of Nothing
+4,Malachite Cleaver,6,Banded Armor of the Forest,Rune of Neptune,66 percent,Rugged,Green,Zimbala,Wild Eagle,Wooden Shield,609,11,https://portal.forgottenrunes.com/api/warriors/img/609,Winchester Executor of Flowers
+4,Skull Spear,6,Athenian Robe,Rune of Neptune,66 percent,Gladiator,Black,Spring Warrior,Onyx Panther,Shield of Up Only,610,11,https://portal.forgottenrunes.com/api/warriors/img/610,Wilda Protector of Light
+3,Silver Poleaxe,5,Street Punk with Green Camo,Rune of Brass,60 percent,Armor,Blue,Jarl Raider,Rattlesnake,,611,10,https://portal.forgottenrunes.com/api/warriors/img/611,Ryder Guardian of Wizards
+3,Green Longsword,6,Iron Knight of the Hills,Rune of Lime,50 percent,Verdant,Green,Jungle Commando,Rattlesnake,Mercenary Heater Shield,612,11,https://portal.forgottenrunes.com/api/warriors/img/612,Kojak Trimmer of Thunder Mountain
+3,Lavender Double Blade,6,Goblin Toga,Rune of Venus,50 percent,Rugged,Green,Goblin,Rattlesnake,Mercenary Heater Shield,613,11,https://portal.forgottenrunes.com/api/warriors/img/613,Orga Dispatcher of Nasty Town
+3,Shortbow,6,Green Provocator Garb,Rune of Earth,50 percent,Verdant,Green,Strongman,Spectacled Falcon,Shield of the Skull,614,11,https://portal.forgottenrunes.com/api/warriors/img/614,Rockford Mischief Maker of the Savannah
+3,Goblin Sword,6,Omega Plate Armor,Rune of Earth,50 percent,Medieval,Red,Fungus,Buffkin,Water Elemental Shield,615,11,https://portal.forgottenrunes.com/api/warriors/img/615,Hedgie Marauder of Liches
+3,Blue Shortsword,5,Alabaster Paladin Gear,Rune of Brimstone,60 percent,Knight,Black,Stratiotai,,Green Buckler,616,10,https://portal.forgottenrunes.com/api/warriors/img/616,Urash Cleaver of Snakes
+5,Wratchet,6,Green Road Spandex,Rune of Mars,83 percent,Machine,Green,Forgotten Lady,Robo Dog,Guardian Shield,617,11,https://portal.forgottenrunes.com/api/warriors/img/617,Agnes Liquidator of the Street
+4,Katana,6,Yellow One Piece,Rune of Steel,66 percent,Armor,Green,Marsh Girl,Rattlesnake,Shield of Down Only,618,11,https://portal.forgottenrunes.com/api/warriors/img/618,Juno Chisler of the Wild
+2,Bo Staff,4,Fur Barbarian,,50 percent,Grey,Black,Contender Helm,,Butterfly Shield,619,9,https://portal.forgottenrunes.com/api/warriors/img/619,Eligor Crumbler of the Snow
+3,Ranseur,6,Kobold Grunt Gear,Rune of Mercury,50 percent,Blackness,Black,Kobold Captain,Night Wolf,Shield of the Moon,620,11,https://portal.forgottenrunes.com/api/warriors/img/620,Dingus Guardian of the Capital
+3,,3,Yellow Tunic Armor,,100 percent,Amber,Black,Forgotten Man,,Mercenary Heater Shield,621,8,https://portal.forgottenrunes.com/api/warriors/img/621,Wolfe Apocalypse of Honor
+4,Silver Poleaxe,6,Desert Wear,Rune of Sun,66 percent,Blue Shift,Blue,Bruiser,Woodland Wolverine,Water Elemental Shield,622,11,https://portal.forgottenrunes.com/api/warriors/img/622,Harley Paragon of the Valley
+3,Ishtar Sword,6,Purple Hedge Knight Armor,Rune of Saturn,50 percent,Medieval,Red,Meriotic Warrior,Spectacled Falcon,Tanker Heater Shield,623,11,https://portal.forgottenrunes.com/api/warriors/img/623,Keyon Attacker of Mount Titan
+4,Sword of Babylon,6,Banded Armor of Earth,Rune of Mercury,66 percent,Rugged,Blue,Highlander,Hamadryas Baboon,Yellow Kite,624,11,https://portal.forgottenrunes.com/api/warriors/img/624,Homer Bifurcator of Light
+4,Gladius,6,Yellow Knight,Rune of Fire,66 percent,Armor,Black,Autumn Warrior,Spectacled Falcon,Brown Kite,625,11,https://portal.forgottenrunes.com/api/warriors/img/625,Judy Doom of the Road
+3,Shortbow,5,Armor of Earth,Rune of Jupiter,60 percent,Verdant,Green,Mescaline Warrior,,Fire Shield,626,10,https://portal.forgottenrunes.com/api/warriors/img/626,Ethan Dispatcher of Monsters
+4,Brown Longsword,5,Fur Barbarian,Rune of Venus,80 percent,Muscle,Blue,Scout,,Brown Kite,627,10,https://portal.forgottenrunes.com/api/warriors/img/627,Roddrick Calamity of the Rock
+4,Red Bomb,5,Dark Assassin Tunic,Rune of Jupiter,80 percent,Darkness,Black,Forgotten Man,,Shield of the Black Goat,628,10,https://portal.forgottenrunes.com/api/warriors/img/628,Marcus Razer of Blood
+3,Bo Staff,5,Northern Barbarian,Rune of Steel,60 percent,Wild,Black,Forgotten Lady,,Brown Kite,629,10,https://portal.forgottenrunes.com/api/warriors/img/629,Alex Eliminator of the Duck Alliance
+2,Battle Axe,4,South Island MMA Pants,Rune of Fire,50 percent,MMMA,Black,Shaolin,,,630,9,https://portal.forgottenrunes.com/api/warriors/img/630,Falcon Slasher of the Street
+3,Brown Longsword,5,Fur Barbarian,Rune of Cinnabar,60 percent,Brownish,Blue,Spiked Helm,,Brown Kite,631,10,https://portal.forgottenrunes.com/api/warriors/img/631,Orusula Razer of the Pavillion
+3,Gladius,4,Purple Hedge Knight Armor,,75 percent,White Magic,Black,Polar Man,,White Kite,632,9,https://portal.forgottenrunes.com/api/warriors/img/632,Liam Slaughterer of the Hall
+2,Lavender Double Blade,6,Northern Barbarian,Rune of Neptune,33 percent,Fur,Blue,Vedic Warrior,Northern Lynx,Red Aspis,633,11,https://portal.forgottenrunes.com/api/warriors/img/633,Jaya Despoiler of Atlantis
+4,Gladius,4,Tower Plate Armor,,100 percent,Armor,Blue,Tigris,,Gold Herald Shield,634,9,https://portal.forgottenrunes.com/api/warriors/img/634,Phoenix Piercer of Muscle Mountain
+4,Wooden Club,6,Green Knight,Rune of Mercury,66 percent,Armor,Green,Valkyrie,Buffkin,Wooden Buckler,635,11,https://portal.forgottenrunes.com/api/warriors/img/635,Drusilla Debilitator of Snakes
+2,Estoc,3,Purple Road Warrior,,66 percent,Spike,Blue,Thrall Ruffian,,,636,8,https://portal.forgottenrunes.com/api/warriors/img/636,Dillon Lightbearer of Imps
+2,Blue Shortsword,5,Megasuit,Rune of Uranus,40 percent,Cyber,Blue,BucketHead: Atomic 26,Rattlesnake,,637,10,https://portal.forgottenrunes.com/api/warriors/img/637,Mercury Chopper of Machines
+4,Battle Axe,6,Gold Lamellar,Rune of Saturn,66 percent,Gladiator,Black,Cool Guy,Wild Eagle,Iron Buckler,638,11,https://portal.forgottenrunes.com/api/warriors/img/638,Dean Lopper of the Valley
+3,Katana,6,Purple Knight,Rune of Pluto,50 percent,Darkness,Blue,Abyssinian,Hyena,Bolt Shield,639,11,https://portal.forgottenrunes.com/api/warriors/img/639,Barika Assaulter of the West
+3,Malachite Cleaver,6,Goblin Toga,Rune of Steel,50 percent,Rugged,Green,Capped Goblin,Hamadryas Baboon,Purple Kite,640,11,https://portal.forgottenrunes.com/api/warriors/img/640,Mogglin Stabber of Nightmare Paradise
+3,Master Claymore,5,White Tunic Armor,Rune of Lime,60 percent,Armor,Blue,Grizzly Man,,Iron Buckler,641,10,https://portal.forgottenrunes.com/api/warriors/img/641,Duke Nullifier of Runes
+3,Kanabo,6,West Woodland Cloak,Rune of Fire,50 percent,Wild,Black,She Wolf,Field Hound,Frog Shield,642,11,https://portal.forgottenrunes.com/api/warriors/img/642,Pippa Slaughterer of Leaves
+4,Malachite Cleaver,6,Green Amazonian Jumpsuit,Rune of Down,66 percent,Verdant,Green,Kempo,Aurelian Rhinoceros Beetle,Green Kite,643,11,https://portal.forgottenrunes.com/api/warriors/img/643,Kai Obliterator of Scoundrels
+3,Stratiotai Spear,4,Yellow Tunic Armor,,75 percent,Medieval,Black,Red Bearded Berserker,,Might Shield,644,9,https://portal.forgottenrunes.com/api/warriors/img/644,Cannon Poker of Brigands
+3,Chakram,4,Red Tunic Armor,,75 percent,Gold,Black,Cool Guy,,Shield of the Moon,645,9,https://portal.forgottenrunes.com/api/warriors/img/645,Lyam Protector of Monsters
+5,Iron Hammer,6,Purple Hedge Knight Armor,Rune of Earth,83 percent,Rugged,Blue,Mountain Warrior,Spectacled Falcon,Shield of Up Only,646,11,https://portal.forgottenrunes.com/api/warriors/img/646,Thorne Flagellator of the Forest
+3,Brown Longsword,5,Fur Barbarian,Rune of Earth,60 percent,Sword,Black,Akkadian,,Gold Holy Shield,647,10,https://portal.forgottenrunes.com/api/warriors/img/647,Uli Dismantler of the Rune Raiders
+2,Estoc,5,Street Hoodlum,Rune of Uranus,40 percent,Amber,Blue,Scout,Golden Jaguar,,648,10,https://portal.forgottenrunes.com/api/warriors/img/648,Henry Romantic of the Docks
+4,Spiked Ball and Chain,6,Iron Knight of the Hills,Rune of Cinnabar,66 percent,Brute,Black,Forgotten Man,Field Hound,Shield of the Sun,649,11,https://portal.forgottenrunes.com/api/warriors/img/649,Diesel Opponent of the Tower
+4,Malachite Dragon Pike,6,Blue Hedge Knight Armor,Rune of Jupiter,66 percent,Blue Shift,Blue,Blue Dwarven Helm,Royal Razorback,Water Elemental Shield,650,11,https://portal.forgottenrunes.com/api/warriors/img/650,Dunklin Hero of Light
+3,Bottle of Goblin Beer,6,Armor of Air,Rune of Neptune,50 percent,Blackness,Black,South Sider,Woodland Wolverine,Gold Holy Shield,651,11,https://portal.forgottenrunes.com/api/warriors/img/651,Andrei of the Trail
+4,Rogue Falchion,5,Street Punk with Red Camo,Rune of Mercury,80 percent,Crimson,Red,Blue Dwarven Helm,Attack Drone,,652,10,https://portal.forgottenrunes.com/api/warriors/img/652,Urmgurn Killer of the Citadel
+4,Tyrfing,4,North Island MMA Pants,,100 percent,Purple Haze,Purple,Wild Furgnome,Sable Cobra,,653,9,https://portal.forgottenrunes.com/api/warriors/img/653,Beetle Wounder of the Dojo
+3,Master Claymore,5,Brown Hedge Knight Armor,Rune of Air,60 percent,Armor,Blue,Horror Mask,,Red Aspis,654,10,https://portal.forgottenrunes.com/api/warriors/img/654,Addanc Contaminator of the Forest
+3,Longbow,6,Red One Piece,Rune of Earth,50 percent,Wild,Black,Archipelagian,Woodland Wolverine,Tate Shield,655,11,https://portal.forgottenrunes.com/api/warriors/img/655,Vega Violator of all that is Holy
+4,Tuck,5,Auric Spike Armor,Rune of Mercury,80 percent,Gold,Black,Akkadian,,Green Aspis,656,10,https://portal.forgottenrunes.com/api/warriors/img/656,Alam Guardian of the Desert
+4,Brown Longsword,6,Banded Armor of Earth,Rune of Earth,66 percent,Rugged,Black,Tigris,Northern Lynx,Mushroom Shield,657,11,https://portal.forgottenrunes.com/api/warriors/img/657,Kody Amputator of Shadows
+2,Bo Staff,6,Sovereign Epic Gear,Rune of Brimstone,33 percent,Brownish,Green,Medieval Skull,Northern Lynx,Mercenary Heater Shield,658,11,https://portal.forgottenrunes.com/api/warriors/img/658,Forneus Pounder of Muscle Mountain
+4,Sword of Babylon,6,Green One Piece,Rune of Steel,66 percent,Gold,Green,Summer Warrior,Wild Eagle,Shield of the Moon,659,11,https://portal.forgottenrunes.com/api/warriors/img/659,Eon Shaver of Runes
+4,Katana,5,North Woodland Cloak,Rune of Brimstone,80 percent,Armor,Black,Autumn Warrior,,Might Shield,660,10,https://portal.forgottenrunes.com/api/warriors/img/660,Agnes Marauder of the North
+3,Chakram,5,Alabaster Paladin Gear,Rune of Sun,60 percent,Desert,Blue,Indigo Mendicant,,Shield of the Sun,661,10,https://portal.forgottenrunes.com/api/warriors/img/661, Shark of the North
+2,Scimitar,3,South Island MMA Pants,,66 percent,Armor,Blue,Happy Viking,,,662,8,https://portal.forgottenrunes.com/api/warriors/img/662,Bruno Conqueror of Mount Titan
+5,Katana,5,White Tunic Armor,Rune of Steel,100 percent,Armor,Green,Praetorian,,Shield of Up Only,663,10,https://portal.forgottenrunes.com/api/warriors/img/663,Numerius Armageddon of Runes
+4,Spetum,5,Traveller's Cloak Blue,Rune of Water,80 percent,Blue Shift,Blue,Bruiser,,Blue Kite,664,10,https://portal.forgottenrunes.com/api/warriors/img/664,Charles Protector of Warlocks
+3,Gladiator Sword,5,Gladiator's Cloak with Green Briefs,,60 percent,Brownish,Black,Spiked Helm,Woodland Wolverine,Magic Shield,665,10,https://portal.forgottenrunes.com/api/warriors/img/665,Malacoda Striker of the Pavillion
+3,Mace,5,White Knight,Rune of Mercury,60 percent,Knight,Blue,Valkyrie,,Butterfly Shield,666,10,https://portal.forgottenrunes.com/api/warriors/img/666,Nervilla Demolisher of Runes
+4,Bush Spear,6,Green One Piece,Rune of Water,66 percent,Verdant,Green,Summer Warrior,Nastyass Honey Badger,Green Kite,667,11,https://portal.forgottenrunes.com/api/warriors/img/667,Eon Paragon of the Tower
+3,Bone Club,6,Skylord Plate Armor,Rune of Mars,50 percent,Heavy,Blue,Praetorian,Hyena,Bolt Shield,668,11,https://portal.forgottenrunes.com/api/warriors/img/668,Maximus Shatterer of Runes
+4,Battle Axe,5,Armor of Fire,Rune of Mercury,80 percent,Armor,Blue,Lycan Warrior,,Triple Triangle Shield,669,10,https://portal.forgottenrunes.com/api/warriors/img/669,Oliver Dispatcher of Scoundrels
+2,Gladius,4,Highlander's Tartan,,50 percent,Brownish,Black,Desert Warrior,,Might Shield,670,9,https://portal.forgottenrunes.com/api/warriors/img/670,Armak Armageddon of Sheep
+4,Sol Sword,5,Cyborg Body,Rune of Venus,80 percent,Gold,Blue,Shutter Knight,Harpy Eagle,,671,10,https://portal.forgottenrunes.com/api/warriors/img/671,Bokur Raider of Machines
+5,Titan Cleaver,6,Yellow Provocator Garb,Rune of Earth,83 percent,Rugged,Blue,Bruiser,Hyena,Blue Kite,672,11,https://portal.forgottenrunes.com/api/warriors/img/672,Rocky Shaver of the Ruins
+3,Whip,6,Green One Piece,Rune of Omega,50 percent,Wild,Black,Moorish Girl,Robo Dog,Brown Kite,673,11,https://portal.forgottenrunes.com/api/warriors/img/673,Dree Lasher of the Lost City
+2,Red Shortsword,4,Purple Road Warrior,Rune of Uranus,50 percent,Medieval,Black,Scout,,,674,9,https://portal.forgottenrunes.com/api/warriors/img/674,Lance Assailant of Goblin Town
+3,Ishtar Sword,6,Nude,Rune of Neptune,50 percent,Crimson,Red,Contender Helm,Crimson Jaguar,Tate Shield,675,11,https://portal.forgottenrunes.com/api/warriors/img/675,Damien Exterminator of the Riviera
+3,Scimitar,5,Red Knight,Rune of Uranus,60 percent,Guard,Blue,Vedic Warrior,,Brown Kite,676,10,https://portal.forgottenrunes.com/api/warriors/img/676,Alani Cataclysm of Thieves
+5,Stratiotai Spear,5,White Hedge Knight Armor,Rune of Steel,100 percent,Armor,Black,Scout,,Mercenary Heater Shield,677,10,https://portal.forgottenrunes.com/api/warriors/img/677,Peter Champion of Kobolds
+3,Tuck,6,Purple Provocator Garb,Rune of Brass,50 percent,Gold,Black,Contender Helm,Buffkin,Shield of the Moon,678,11,https://portal.forgottenrunes.com/api/warriors/img/678,Hacan Villain of Muscle Mountain
+3,,3,Purple Hedge Knight Armor,,100 percent,Armor,Black,Lycan Warrior,,Iron Buckler,679,8,https://portal.forgottenrunes.com/api/warriors/img/679,Raiden Danger of Liches
+4,Apollo's Bow,6,Goblin Footsoldier,Rune of Up,66 percent,Purple Haze,Purple,Capped Goblin,Orchid Rhinoceros Beetle,Peace Shield,680,11,https://portal.forgottenrunes.com/api/warriors/img/680,Shookle Dispatcher of Nasty Town
+3,Gladius,6,Tower Plate Armor,Rune of Saturn,50 percent,Medieval,Black,Red Bearded Berserker,Golden Jaguar,Fire Shield,681,11,https://portal.forgottenrunes.com/api/warriors/img/681,Xander Eradicator of the South
+4,Mace,5,Armor of Air,Rune of Earth,80 percent,Medieval,Blue,Anuran Warrior,,Fire Shield,682,10,https://portal.forgottenrunes.com/api/warriors/img/682,Izzie Nailer of the Range
+3,Malachite Dragon Pike,6,Green One Piece,Rune of Up,50 percent,Verdant,Green,Summer Warrior,Woodland Wolverine,Blue Buckler,683,11,https://portal.forgottenrunes.com/api/warriors/img/683,Adele Razer of the Mountain
+3,Blue Shortsword,4,Purple Tunic Armor,,75 percent,Sword,Black,Cool Guy,,White Holy Shield,684,9,https://portal.forgottenrunes.com/api/warriors/img/684,Drogo Trimmer of Kobolds
+4,Guardian Sword,6,Chelonian Armor,Rune of Venus,66 percent,Armor,Black,Anuran Warrior,Mutant Snapping Turtle,Tate Shield,686,11,https://portal.forgottenrunes.com/api/warriors/img/686,Warble Chisler of Turtles
+3,Firebrand,5,Street Punk with Violet Camo,Rune of Saturn,60 percent,Knight,Black,Avalonian,Night Wolf,,687,10,https://portal.forgottenrunes.com/api/warriors/img/687,Blake Exterminator of Goblins
+2,Bo Staff,3,Red Boxing Shorts,,66 percent,Darkness,Black,Yellow Viking Helm,,,688,8,https://portal.forgottenrunes.com/api/warriors/img/688,Grunkol Flagellator of Tigers
+4,Red Shortsword,4,Yellow Tunic Armor,,100 percent,Knight,Blue,Forgotten Man,,Wooden Buckler,689,9,https://portal.forgottenrunes.com/api/warriors/img/689,Serge Chopper of the Range
+3,,3,Tower Plate Armor,,100 percent,Teal,Black,Komodi,,White Holy Shield,690,8,https://portal.forgottenrunes.com/api/warriors/img/690,Sly Cutter of Glory
+3,Bo Staff,4,Red Boxing Shorts,Rune of Pluto,75 percent,Darkness,Blue,Basic Bro,,,691,9,https://portal.forgottenrunes.com/api/warriors/img/691,Zod Peacemaker of Power
+3,Lavender Double Blade,5,Street Hoodlum,Rune of Earth,60 percent,Rugged,Blue,Kempo,Hyena,,692,10,https://portal.forgottenrunes.com/api/warriors/img/692,Pierce Bifurcator of the Keep
+4,Master Claymore,6,Gallus Gear,Rune of Pluto,66 percent,Gladiator,Red,Praetorian,Spectacled Falcon,Red Aspis,693,11,https://portal.forgottenrunes.com/api/warriors/img/693,Marcus Mincer of the Sun
+3,Iron Hammer,6,Sapphire Paladin Gear,Rune of Steel,50 percent,Knight,Blue,Highlander,Gigas Hornet,Butterfly Shield,694,11,https://portal.forgottenrunes.com/api/warriors/img/694,Talon Liquidator of Brigands
+2,Gladiator Sword,3,Argyropoeia Bot,,66 percent,Cyber,Blue,BucketHead: Atomic 79,,,695,8,https://portal.forgottenrunes.com/api/warriors/img/695,Metron Cutter of Robots
+3,Giant Cleaver,5,Chelonian Armor,Rune of Sun,60 percent,Guard,Blue,Bonnie Lass,,Yellow Kite,696,10,https://portal.forgottenrunes.com/api/warriors/img/696,Blake Vanquisher of the Slime Pits
+2,Gladius,4,Red Suit,Rune of Uranus,50 percent,Heavy,Blue,Praetorian,,,697,9,https://portal.forgottenrunes.com/api/warriors/img/697,Antonius Amputator of the Ice
+3,Purple Longsword,5,Street Punk with Brown Camo,Rune of Brass,60 percent,Muscle,Green,Lycan Warrior,Field Hound,,698,10,https://portal.forgottenrunes.com/api/warriors/img/698,Buster Obliterator of Goblins
+4,Malachite Dragon Pike,6,Green One Piece,Rune of Brass,66 percent,Armor,Green,Summer Warrior,Buffkin,Shield of Balance,699,11,https://portal.forgottenrunes.com/api/warriors/img/699,Margarita Killer of Glory
+3,,3,Battle Bikini,,100 percent,Amber,Black,Lady of the Mountain,,Green Buckler,700,8,https://portal.forgottenrunes.com/api/warriors/img/700,Incitata Apocalypse of the Rock
+3,Malachite Dragon Pike,6,Goblin Toga,Rune of Lime,50 percent,Wild,Green,Capped Goblin,Old World Mandrill,Red Aspis,701,11,https://portal.forgottenrunes.com/api/warriors/img/701,Al Blade of the Slime Pits
+4,Skull Sword,6,Chelonian Armor,Rune of Steel,66 percent,Armor,Black,Winter Warrior,Mutant Snapping Turtle,Yellow Kite,702,11,https://portal.forgottenrunes.com/api/warriors/img/702,Bernadette Scissor of Turtles
+3,Gladius,4,White Knight,,75 percent,Guard,Blue,Archipelagian,,Mercenary Heater Shield,703,9,https://portal.forgottenrunes.com/api/warriors/img/703,Nomusa Wounder of the Grass
+3,Malachite Dragon Pike,5,Commando Fatigues,Rune of Air,60 percent,Verdant,Green,Jungle Commando,Garuda's Griffin,,704,10,https://portal.forgottenrunes.com/api/warriors/img/704,Humphrey Trimmer of Snakes
+3,Ranseur,6,Murmillo Gear,Rune of Air,50 percent,Gold,Black,Motor Assassin,Dirt Pig,Bolt Shield,705,11,https://portal.forgottenrunes.com/api/warriors/img/705,Jacob Guardian of the Lost City
+5,Jungle Boomerang,6,Iron Knight of the Heath,Rune of Neptune,83 percent,Blue Shift,Blue,Blue Dwarven Helm,Royal Razorback,Blue Buckler,706,11,https://portal.forgottenrunes.com/api/warriors/img/706,Rumbar Explorer of Monsters
+2,Black Bomb,6,Honor Guard of the North,Rune of Brimstone,33 percent,Forest,Black,Bonnie Lass,Spectacled Falcon,Guardian Shield,707,11,https://portal.forgottenrunes.com/api/warriors/img/707,Maya Flattener of Monsters
+3,Silver Poleaxe,6,Classic Leather Barbarian Briefs,Rune of Saturn,50 percent,Heavy,Blue,Blue Knight Helm,Buffkin,Shield of Down Only,708,11,https://portal.forgottenrunes.com/api/warriors/img/708,Edmund Paragon of the Coliseum
+4,Red Longsword,6,Iron Knight of the Heath,Rune of Earth,66 percent,Knight,Blue,Guardian Helm,Robo Dog,Bolt Shield,709,11,https://portal.forgottenrunes.com/api/warriors/img/709,Drogo Assailant of Honor
+3,Malachite Cleaver,6,Xanthous Paladin Gear,Rune of Jupiter,50 percent,Verdant,Green,Jungle Commando,Gigas Hornet,Green Aspis,710,11,https://portal.forgottenrunes.com/api/warriors/img/710,Manuel Mercenary of Giants
+3,Iron Hammer,3,Megasuit,,100 percent,Muscle,Black,Jungle Commando,,,711,8,https://portal.forgottenrunes.com/api/warriors/img/711,Dexter Belligerent of Machines
+5,Blue Shortsword,6,Gladiator's Cloak with Leather Briefs,Rune of Steel,83 percent,Armor,Black,Red Ronin,Robo Dog,Infinity Shield,712,11,https://portal.forgottenrunes.com/api/warriors/img/712,Felix Combatant of the Desert
+2,,2,Gold Belt Ruffian,,100 percent,Blackness,Black,Kempo,,,713,7,https://portal.forgottenrunes.com/api/warriors/img/713,Jarek Wounder of the Road
+3,Spetum,5,White Dominatrix Gear,Rune of Brimstone,60 percent,Darkness,Blue,Shutter Knight,Rattlesnake,,714,10,https://portal.forgottenrunes.com/api/warriors/img/714,Rungle Protector of the City
+2,Crowbar,5,Commando Fatigues,Rune of Saturn,40 percent,Machine,Green,Earth Guard,Woodland Wolverine,,715,10,https://portal.forgottenrunes.com/api/warriors/img/715,Harland Buster of Blood
+4,Gladiator Sword,6,Iron Knight of the Hills,Rune of Sun,66 percent,Desert,Green,Forgotten Man,Rattlesnake,Tanker Heater Shield,716,11,https://portal.forgottenrunes.com/api/warriors/img/716,Stone Stabber of the Mountain
+2,Red Broadsword,6,Honor Guard of the South,Rune of Jupiter,33 percent,Verdant,Green,Divanae,Ultramarine Rhinoceros Beetle,Sonic Shield,717,11,https://portal.forgottenrunes.com/api/warriors/img/717,Kuna Assaulter of Honor
+5,Blue Chainsaw,6,Gallus Gear,Rune of Lime,83 percent,Crimson,Red,Praetorian,Scarlet Swine,Fire Shield,718,11,https://portal.forgottenrunes.com/api/warriors/img/718,Tiberius Creeper of the Lost City
+3,Cheeseburger,5,Aura Knight with Blue Cloak,,60 percent,Armor,Black,Elder,Woodland Wolverine,Mercenary Heater Shield,719,10,https://portal.forgottenrunes.com/api/warriors/img/719,Chase of the Mountain
+3,Gladius,5,Gallus Gear,Rune of Sun,60 percent,Brute,Black,Action Hero,,White Holy Shield,720,10,https://portal.forgottenrunes.com/api/warriors/img/720,Ryker Terror of the Sun
+3,Journeyman Falchion,6,Gladiator's Cloak with Green Briefs,Rune of Cinnabar,50 percent,Gladiator,Blue,Foot Soldier Helm,Robo Dog,Purple Kite,721,11,https://portal.forgottenrunes.com/api/warriors/img/721,Waldo Calamity of the Duck Alliance
+2,Rapier,4,Murmillo Gear,,50 percent,Flesh,Black,Jungle Commando,,Shield of Down Only,722,9,https://portal.forgottenrunes.com/api/warriors/img/722,Rex Explorer of the Jungle
+4,Red Broadsword,5,Red Battle Bikini,,80 percent,Crimson,Red,Oni Girl,Rattlesnake,Eternal Love Shield,723,10,https://portal.forgottenrunes.com/api/warriors/img/723,Megumi Carver of Glory
+2,Longbow,4,Bone Warrior,,50 percent,Grey,Black,Lady Barbarian,,Red Herald Shield,724,9,https://portal.forgottenrunes.com/api/warriors/img/724,Mia Swindler of the Rock
+3,Malachite Dragon Pike,6,Majestic Epic Gear,Rune of Cinnabar,50 percent,Verdant,Green,Furgnome Marauder,Golden Jaguar,Red Aspis,725,11,https://portal.forgottenrunes.com/api/warriors/img/725,Louis Eidolon of the Rock
+3,Gladiator Sword,5,Yellow One Piece,Rune of Earth,60 percent,Feminine,Green,Kushite,,Fire Shield,726,10,https://portal.forgottenrunes.com/api/warriors/img/726,Sade Menace of Monsters
+4,Titan Cleaver,6,Gladiator's Cloak with Olive Briefs,Rune of Neptune,66 percent,Muscle,Black,Wrestler Giant,Onyx Panther,Red Herald Shield,727,11,https://portal.forgottenrunes.com/api/warriors/img/727,Einer Bifurcator of Bugbears
+5,Lazurite Dragon Sword,6,Red Hedge Knight Armor,Rune of Fire,83 percent,Crimson,Red,Praetorian,Crimson Jaguar,Tate Shield,728,11,https://portal.forgottenrunes.com/api/warriors/img/728,Velox Attacker of Devils
+4,Blue Broadsword,6,Blue Medieval Livery,Rune of Fire,66 percent,Blue Shift,Blue,Blue Dwarven Helm,Woodland Wolverine,Blue Kite,729,11,https://portal.forgottenrunes.com/api/warriors/img/729,Groundle Scissor of Warlocks
+3,Rapier,5,Yellow Knight,Rune of Earth,60 percent,Feminine,Blue,Cat Girl,,Bolt Shield,730,10,https://portal.forgottenrunes.com/api/warriors/img/730,Akiko Madcap of the West
+3,Iron Hammer,5,Commando Fatigues,Rune of Jupiter,60 percent,Heavy,Black,Templar,Woodland Wolverine,,731,10,https://portal.forgottenrunes.com/api/warriors/img/731,Reginald Belligerent of Komodi
+3,Master Claymore,4,Bone Warrior,,75 percent,Grey,Black,Bambam,,Gold Herald Shield,732,9,https://portal.forgottenrunes.com/api/warriors/img/732,Adira Slasher of the Tundra
+3,Master Claymore,6,Yellow Amazonian Jumpsuit,Rune of Fire,50 percent,Armor,Black,Psyche Warrior,Onyx Panther,Magic Shield,733,11,https://portal.forgottenrunes.com/api/warriors/img/733,Gertrude Menace of the Valley
+3,Bo Staff,6,Armor of Air,Rune of Sun,50 percent,Brownish,Green,Fungus,Buffkin,Fire Shield,734,11,https://portal.forgottenrunes.com/api/warriors/img/734,Funguy Basher of Thunder Mountain
+4,Butcher Knife,5,Street Hoodlum,Rune of Venus,80 percent,Blue Shift,Blue,Bruiser,Magpie,,735,10,https://portal.forgottenrunes.com/api/warriors/img/735,Dante Creeper of the Alley
+2,Hambone,6,Green Amazonian Jumpsuit,Rune of Sun,33 percent,Desert,Black,Nubian,Wild Eagle,Bolt Shield,736,11,https://portal.forgottenrunes.com/api/warriors/img/736,Amara of the Tower
+3,Hambone,5,Auric Spike Armor,Rune of Brimstone,60 percent,Darkness,Blue,Praetorian,,Red Herald Shield,737,10,https://portal.forgottenrunes.com/api/warriors/img/737,Vinicius of the Arena
+4,Shortbow,6,Green One Piece,Rune of Earth,66 percent,Verdant,Green,Summer Warrior,Mutant Snapping Turtle,Snake Shield,738,11,https://portal.forgottenrunes.com/api/warriors/img/738,Isane Barrager of the Plains
+4,Lazurite Dragon Sword,5,Street Hoodlum,Rune of Mars,80 percent,Blue Shift,Blue,Bruiser,Harpy Eagle,,739,10,https://portal.forgottenrunes.com/api/warriors/img/739,Mace Ruin of Kobolds
+3,Scimitar,5,Purple Wrestling Singlet,Rune of Water,60 percent,Wild,Black,Grizzly Man,Field Hound,,740,10,https://portal.forgottenrunes.com/api/warriors/img/740,Sid Wounder of Tigers
+3,Mug of Ale,6,Iron Knight of the Hills,Rune of Lime,50 percent,Heavy,Green,Barbarian,Woodland Wolverine,Butterfly Shield,741,11,https://portal.forgottenrunes.com/api/warriors/img/741,Therman of the Trail
+2,Bo Staff,4,Yellow Tunic Armor,,50 percent,Brownish,Black,Action Hero,,Wooden Buckler,742,9,https://portal.forgottenrunes.com/api/warriors/img/742,Shaw Crumbler of Warlocks
+4,Blue Chainsaw,5,Capital City Keikogi,Rune of Saturn,80 percent,Crimson,Red,Purple Viking Helm,Crimson Jaguar,,743,10,https://portal.forgottenrunes.com/api/warriors/img/743,Grogan Horror of Lions
+4,Titan Cleaver,6,Red Tunic Armor,Rune of Uranus,66 percent,Amber,Red,Red Ronin,Golden Jaguar,Shield of the Sun,744,11,https://portal.forgottenrunes.com/api/warriors/img/744,Maxim Exterminator of the Citadel
+4,Blue Shortsword,4,Armor of Fire,,100 percent,Medieval,Blue,Autumn Warrior,,Tanker Heater Shield,745,9,https://portal.forgottenrunes.com/api/warriors/img/745,Eon Contender of Brigands
+5,Apollo's Bow,6,Alabaster Paladin Gear,Rune of Mercury,83 percent,Pantheon,Purple,Forgotten Man,Garuda's Griffin,Gold Holy Shield,746,11,https://portal.forgottenrunes.com/api/warriors/img/746,Samson Killer of Monsters
+2,,3,Glory Knight,,66 percent,Rugged,Black,Dune Man,,Purple Kite,747,8,https://portal.forgottenrunes.com/api/warriors/img/747,Jerry Hero of Glory
+4,Blue Shortsword,4,Honor Guard of the North,,100 percent,Armor,Blue,Lady Barbarian,,Shield of Down Only,748,9,https://portal.forgottenrunes.com/api/warriors/img/748,Arlene Mincer of Brigands
+5,Bottle of Rune Beer,6,Purple Knight,Rune of Sun,83 percent,Purple Haze,Purple,Corsair,Null Goat,White Holy Shield,749,11,https://portal.forgottenrunes.com/api/warriors/img/749,Tracy of the Realm
+3,Sol Sword,5,Street Punk with Rose Camo,Rune of Uranus,60 percent,Blue Shift,Blue,Winter Warrior,Ultramarine Rhinoceros Beetle,,750,10,https://portal.forgottenrunes.com/api/warriors/img/750,Frankie Defeater of Goblin Town
+4,Green Longsword,6,Aura Knight with Yellow Cloak,Rune of Jupiter,66 percent,Verdant,Green,Furgnome Mercenary,Harpy Eagle,Green Kite,751,11,https://portal.forgottenrunes.com/api/warriors/img/751,Mungo Ravager of the Road
+3,Purple Longsword,6,Murmillo Gear,Rune of Fire,50 percent,Heavy,Black,Contender Helm,Mutant Snapping Turtle,Bolt Shield,752,11,https://portal.forgottenrunes.com/api/warriors/img/752,Orion Disintegrator of the Desert
+3,Stratiotai Spear,4,Pirate Garb,,75 percent,Crimson,Blue,Forgotten Man,,Red Herald Shield,753,9,https://portal.forgottenrunes.com/api/warriors/img/753,Gage Champion of the Waves
+4,Skull Spear,6,Prism Armor,Rune of Brimstone,66 percent,Darkness,Black,Darkling,Night Wolf,Butterfly Shield,754,11,https://portal.forgottenrunes.com/api/warriors/img/754,Ubel Champion of the Chimera
+4,Sabre,6,Blue Tunic Armor,Rune of Mars,66 percent,Amber,Blue,Legionnaire Helmet,Golden Jaguar,Triple Triangle Shield,755,11,https://portal.forgottenrunes.com/api/warriors/img/755,Pontius Eliminator of the Villa
+4,Silver Poleaxe,6,Traveller's Cloak Blue,Rune of Cinnabar,66 percent,Blue Shift,Blue,Bruiser,Hamadryas Baboon,Blue Kite,756,11,https://portal.forgottenrunes.com/api/warriors/img/756,Enzo Protector or Scalawags
+4,Gladius,4,Purple Tunic Armor,,100 percent,Heavy,Blue,Frankish Helm,,Tomb Shield,757,9,https://portal.forgottenrunes.com/api/warriors/img/757,Maurice Dismantler of the Ridge
+3,Katana,6,West Woodland Cloak,Rune of Water,50 percent,Rugged,Black,She Wolf,Hyena,Pony Shield,758,11,https://portal.forgottenrunes.com/api/warriors/img/758,Arlene Annihilator of Bees
+1,Gladius,4,Red Suit,Rune of Cinnabar,25 percent,Cinnabar,Black,Meriotic Warrior,,,759,9,https://portal.forgottenrunes.com/api/warriors/img/759,Baako Death of Titans
+3,Goblin Axe,6,Banded Armor of the Forest,Rune of Water,50 percent,Verdant,Green,Green Knight Helm,Mutant Snapping Turtle,Green Aspis,760,11,https://portal.forgottenrunes.com/api/warriors/img/760,Ralph Eradicator of Nothing
+4,Malachite Dragon Pike,6,Green Amazonian Jumpsuit,Rune of Power,66 percent,Verdant,Green,Kempo,Greater Cassowary,Green Kite,761,11,https://portal.forgottenrunes.com/api/warriors/img/761,Xiulin Armageddon of the Moon
+3,Master Claymore,4,Brown Knight,,75 percent,Guard,Blue,Kushite,,Tanker Heater Shield,762,9,https://portal.forgottenrunes.com/api/warriors/img/762,Amaka Beheader of the Hall
+4,Bo Staff,6,Classic Leather Barbarian Bikini,Rune of Neptune,66 percent,Wild,Black,Lady of the Oasis,Woodland Wolverine,Gold Herald Shield,763,11,https://portal.forgottenrunes.com/api/warriors/img/763,Wilda Crusher of the Sun
+3,Morningstar,6,Goblin Toga,Rune of Cinnabar,50 percent,Brownish,Blue,Goblin Chieftain,Buffkin,White Kite,764,11,https://portal.forgottenrunes.com/api/warriors/img/764,Robbert Shatterer of Nightmare Paradise
+3,Katana,5,Commando Fatigues,Rune of Saturn,60 percent,Muscle,Green,Basic Bro,Field Hound,,765,10,https://portal.forgottenrunes.com/api/warriors/img/765,Roman Contender of Komodi
+3,Brown Longsword,5,Commando Fatigues,Rune of Steel,60 percent,Rugged,Green,Templar,Spectacled Falcon,,766,10,https://portal.forgottenrunes.com/api/warriors/img/766,William Despoiler of the Ditch
+3,Lavender Double Blade,5,Street Punk with Green Camo,Rune of Cinnabar,60 percent,Rugged,Black,Forgotten Man,Gigas Hornet,,767,10,https://portal.forgottenrunes.com/api/warriors/img/767,Edwin Battler of the Back Alley
+3,Iron Hammer,4,Purple Knight,,75 percent,Gold,Blue,Abyssinian,,Gold Holy Shield,768,9,https://portal.forgottenrunes.com/api/warriors/img/768,Onyeka Ravager of the Grass
+3,Silver Poleaxe,5,Superalloy Bot,Rune of Uranus,60 percent,Cyber,Blue,BucketHead: Atomic 26,Robo Dog,,769,10,https://portal.forgottenrunes.com/api/warriors/img/769,Dyna Impaler of Area 71
+5,Silver Dragon Pike,6,Red Macho Pants,Rune of Brimstone,83 percent,Purple Haze,Purple,Bruiser,Null Goat,White Holy Shield,770,11,https://portal.forgottenrunes.com/api/warriors/img/770,Thorne Carver of Atlantis
+4,Purple Longsword,6,Goblin Footsoldier,Rune of Mars,66 percent,Rugged,Black,Capped Goblin,Hyena,Snake Shield,771,11,https://portal.forgottenrunes.com/api/warriors/img/771,Rebyx Lopper of the Pile
+4,Master Claymore,6,Yellow Knight,Rune of Cinnabar,66 percent,Armor,Black,Lady of the Mountain,Northern Lynx,Red Aspis,772,11,https://portal.forgottenrunes.com/api/warriors/img/772,Decima Sword of Beasts
+5,Green Longsword,6,Guardian Zero,Rune of Steel,83 percent,Armor,Green,Earth Guard,Night Wolf,Green Aspis,773,11,https://portal.forgottenrunes.com/api/warriors/img/773,Faris Combatant of Robots
+3,Iron Hammer,5,Red Provocator Garb,Rune of Cinnabar,60 percent,Medieval,Blue,Shaolin,,White Kite,774,10,https://portal.forgottenrunes.com/api/warriors/img/774,Emerson Leveler of the Duck Alliance
+5,Lavender Double Blade,6,Red Macho Pants,Rune of Water,83 percent,Purple Haze,Purple,Grappler Giant,Styxian Boar,Illuminatus Shield,775,11,https://portal.forgottenrunes.com/api/warriors/img/775,Justice Combatant of the Desert
+2,,3,Gallus Gear,,66 percent,Darkness,Black,Dune Man,,Mercenary Heater Shield,776,8,https://portal.forgottenrunes.com/api/warriors/img/776,Riggs Scissor of the Obelisk
+3,Green Longsword,6,Fur Barbarian,Rune of Mercury,50 percent,Gladiator,Green,Motor Assassin,Greater Cassowary,Green Kite,777,11,https://portal.forgottenrunes.com/api/warriors/img/777,Edge Eradicator of Muscle Mountain
+3,Blue Longsword,5,Superalloy Bot,Rune of Steel,60 percent,Cyber,Blue,BucketHead: Atomic 26,Robo Dog,,778,10,https://portal.forgottenrunes.com/api/warriors/img/778,Boop Amputator of Robots
+4,Spetum,6,Blue Valkyrie Armor,Rune of Water,66 percent,Blue Shift,Blue,Corsair,Robo Dog,Blue Kite,779,11,https://portal.forgottenrunes.com/api/warriors/img/779,Nikitia Impaler of Avalon
+3,Amber Dragon Sword,6,Black One Piece,Rune of Saturn,50 percent,Blackness,Black,Onna-Musha,Night Wolf,Snake Shield,780,11,https://portal.forgottenrunes.com/api/warriors/img/780,Michi Hacker of the Ridge
+4,Sol Sword,6,Blue Tunic Armor,Rune of Water,66 percent,Blue Shift,Blue,Sea Guard,Golden Jaguar,Blue Kite,781,11,https://portal.forgottenrunes.com/api/warriors/img/781,Gage Obliterator of the Coliseum
+3,Spetum,6,Yellow Amazonian Jumpsuit,Rune of Lime,50 percent,Blue Shift,Blue,Bonnie Lass,Hamadryas Baboon,Blue Kite,782,11,https://portal.forgottenrunes.com/api/warriors/img/782,Isane Guardian of the Ruins
+3,Iron Hammer,6,Xanthous Paladin Gear,Rune of Mars,50 percent,Guard,Green,Jungle Commando,Dirt Pig,Red Aspis,783,11,https://portal.forgottenrunes.com/api/warriors/img/783,Rex Debilitator of the Moon
+2,Goblin Axe,4,Red Hedge Knight Armor,,50 percent,Amber,Blue,Thrall Ruffian,,Bolt Shield,784,9,https://portal.forgottenrunes.com/api/warriors/img/784,Bargo Lopper of the Range
+4,Red Shortsword,5,Classic Gold Barbarian Bikini,Rune of Venus,80 percent,Feminine,Blue,Xanthe,,Shield of the Moon,785,10,https://portal.forgottenrunes.com/api/warriors/img/785,Alex Defeater of the Jungle
+4,Bottle of Rune Beer,6,Goblin Footsoldier,Rune of Cinnabar,66 percent,Purple Haze,Purple,Goblin Chieftain,Null Goat,Yellow Kite,786,11,https://portal.forgottenrunes.com/api/warriors/img/786,Rebyx of Wizards
+4,Silver Dragon Pike,5,Street Punk with Rose Camo,Rune of Pluto,80 percent,Darkness,Black,Archipelagian,Night Wolf,,787,10,https://portal.forgottenrunes.com/api/warriors/img/787,Sauda Death of the Citadel
+4,Tuck,6,Dark Assassin Tunic,Rune of Mars,66 percent,Armor,Black,Imp Warrior,Field Hound,Shield of Down Only,788,11,https://portal.forgottenrunes.com/api/warriors/img/788,Hukko Crook of the Tower
+5,Blue Longsword,6,Purple Hedge Knight Armor,Rune of Cinnabar,83 percent,Rugged,Green,Grizzly Man,Gigas Hornet,Kraken Shield,789,11,https://portal.forgottenrunes.com/api/warriors/img/789,Barret Ruin of the Moon
+3,Iron Hammer,5,White Knight,Rune of Pluto,60 percent,Guard,Black,Nubian,,Shield of Up Only,790,10,https://portal.forgottenrunes.com/api/warriors/img/790,Omolara Buster of the Wood
+2,Titan Cleaver,5,Equatorial Keikogi,Rune of Fire,40 percent,Verdant,Green,Green Knight Helm,Northern Lynx,,791,10,https://portal.forgottenrunes.com/api/warriors/img/791,Edwin Sword of the Dojo
+3,Malachite Cleaver,6,Armor of Earth,Rune of Lime,50 percent,Medieval,Green,Metabot,Attack Drone,Wooden Buckler,792,11,https://portal.forgottenrunes.com/api/warriors/img/792,Achilles Dissector of the Plains
+3,Blue Broadsword,6,Desert Wear,Rune of Earth,50 percent,Blue Shift,Blue,Jarl Raider,Spectacled Falcon,Wooden Buckler,793,11,https://portal.forgottenrunes.com/api/warriors/img/793,Herbert Cleaver of the Sun
+3,Chakram,4,Zuli Suit,,75 percent,Darkness,Black,Xanthe,,Shield of the Moon,794,9,https://portal.forgottenrunes.com/api/warriors/img/794,Frida Daredevil of the Desert
+4,Sword of Rainbows,6,Alabaster Paladin Gear,Rune of Mars,66 percent,Holy,Black,Cool Guy,Garuda's Griffin,Red Herald Shield,795,11,https://portal.forgottenrunes.com/api/warriors/img/795,Valentino Annihilator of the Flame
+3,,5,Blue Medieval Livery,Rune of Sun,60 percent,Gold,Blue,Metabot,Hyena,Shield of Up Only,796,10,https://portal.forgottenrunes.com/api/warriors/img/796,Mata Assailant of Monsters
+5,Stratiotai Spear,6,Battle Bikini,Rune of Mars,83 percent,Armor,Black,Xanthe,Hyena,Iron Buckler,797,11,https://portal.forgottenrunes.com/api/warriors/img/797,Margaret Impaler of Dragons
+4,Jungle Boomerang,6,Blue Hedge Knight Armor,Rune of Sun,66 percent,Blue Shift,Blue,Bruiser,Sand Cobra,Water Elemental Shield,798,11,https://portal.forgottenrunes.com/api/warriors/img/798,Jordan Explorer of Destiny
+3,Nunchaku,6,Yellow Amazonian Jumpsuit,Rune of Earth,50 percent,Blue Shift,Blue,Hibernian,Old World Mandrill,Blue Kite,799,11,https://portal.forgottenrunes.com/api/warriors/img/799,Amelia Pulverizer of the East
+2,Goblin Axe,6,Green Provocator Garb,Rune of Sun,33 percent,Axe,Black,Executioner,Night Wolf,Tate Shield,800,11,https://portal.forgottenrunes.com/api/warriors/img/800,Krull Killer of the Sun
+4,Goblin Sword,6,Red Ronin Armor,Rune of Earth,66 percent,Crimson,Red,Blonde Bearded Berserker,Buffkin,Tate Shield,801,11,https://portal.forgottenrunes.com/api/warriors/img/801,Dwyrik Nullifier of Imps
+2,Bo Staff,4,Glory Knight,,50 percent,Holy,Black,Templar,,Gold Holy Shield,802,9,https://portal.forgottenrunes.com/api/warriors/img/802,Gilbert Buster of the South
+3,Goblin Axe,5,Street Punk with Rose Camo,Rune of Cinnabar,60 percent,Wild,Black,Divanae,Old World Mandrill,,803,10,https://portal.forgottenrunes.com/api/warriors/img/803,Kesi Stabber of the Alley
+4,Blue Longsword,5,Sakura Dress,Rune of Sun,80 percent,Gold,Blue,Corsair,Wild Eagle,,804,10,https://portal.forgottenrunes.com/api/warriors/img/804,Charlie Punisher of the Kitsune
+3,,5,Blue Tunic Armor,Rune of Air,60 percent,Medieval,Blue,Elder,Buffkin,Snake Shield,805,10,https://portal.forgottenrunes.com/api/warriors/img/805,Dralin Nullifier of the Plains
+4,Jade Sword,6,Green Provocator Garb,Rune of Lime,66 percent,Verdant,Green,Strongman,Cerulean Ceratopsian,Green Kite,806,11,https://portal.forgottenrunes.com/api/warriors/img/806,Elbrus Menace of the Lost City
+2,Gladius,3,Gold Belt Ruffian,,66 percent,White Magic,Blue,Visor Knight,,,807,8,https://portal.forgottenrunes.com/api/warriors/img/807,Boron Sword of the Alley
+3,Iron Hammer,5,Armor of Fire,Rune of Uranus,60 percent,Guard,Blue,Archipelagian,,Green Buckler,808,10,https://portal.forgottenrunes.com/api/warriors/img/808,Koffi Peacemaker of the Dawn
+3,Crowbar,6,Blue Tunic Armor,Rune of Neptune,50 percent,Armor,Blue,Komodi,Buffkin,Magic Shield,809,11,https://portal.forgottenrunes.com/api/warriors/img/809,Wyrm Shatterer of the Tower
+2,Sol Sword,5,Blue Boxing Shorts,Rune of Brimstone,40 percent,White Magic,Blue,Kempo,Hyena,,810,10,https://portal.forgottenrunes.com/api/warriors/img/810,Sergio Stabber for Freedom
+3,Blue Shortsword,3,Purple Wrestling Singlet,,100 percent,Desert,Black,Forgotten Man,,,811,8,https://portal.forgottenrunes.com/api/warriors/img/811,Ernest Doom of the Dojo
+3,Goblin Axe,6,Blue Tunic Armor,Rune of Neptune,50 percent,Axe,Blue,Forgotten Man,Rattlesnake,Green Aspis,812,11,https://portal.forgottenrunes.com/api/warriors/img/812,Dex Protector of the Forest
+3,Shortbow,6,Guardian Zero,Rune of Air,50 percent,Verdant,Green,Zimbala,Golden Jaguar,Mercenary Heater Shield,813,11,https://portal.forgottenrunes.com/api/warriors/img/813,Parker Guardian of Magic
+4,Aurelian Double Blade,6,Green Hedge Knight Armor,Rune of Lime,66 percent,Rugged,Black,Action Man,Gigas Hornet,Magic Shield,814,11,https://portal.forgottenrunes.com/api/warriors/img/814,Manuel Armageddon of the Realm
+3,Stratiotai Spear,5,Red Provocator Garb,Rune of Uranus,60 percent,Brownish,Black,Grizzly Man,,Might Shield,815,10,https://portal.forgottenrunes.com/api/warriors/img/815,Holt Savior of the Coliseum
+2,,3,White One Piece,,66 percent,Guard,Black,Moorish Girl,,Fire Shield,816,8,https://portal.forgottenrunes.com/api/warriors/img/816,Teny Attacker of Devils
+2,,4,South Island MMA Pants,Rune of Neptune,50 percent,Spike,Black,Spiked Helm,Dirt Pig,,817,9,https://portal.forgottenrunes.com/api/warriors/img/817,Ubel Contaminator of the Ring
+4,Sword of Babylon,6,Blue Medieval Livery,Rune of Jupiter,66 percent,Gladiator,Blue,Frankish Helm,Field Hound,Wolf Shield,818,11,https://portal.forgottenrunes.com/api/warriors/img/818,Roger Lopper of the Forest
+3,Green Longsword,5,Commando Fatigues,Rune of Steel,60 percent,Verdant,Green,Furgnome Mercenary,Attack Drone,,819,10,https://portal.forgottenrunes.com/api/warriors/img/819,Kalo Death of the Battlefront
+4,Amber Dragon Sword,5,Orange Road Warrior,Rune of Power,80 percent,Purple Haze,Purple,Meriotic Warrior,Null Goat,,820,10,https://portal.forgottenrunes.com/api/warriors/img/820,Imari Despoiler of Goblin Town
+4,Spiked Ball and Chain,5,Yellow Hedge Knight Armor,Rune of Uranus,80 percent,Medieval,Blue,Frankish Helm,,Red Kite,821,10,https://portal.forgottenrunes.com/api/warriors/img/821,Frank Chaos Agent of Flowers
+2,Chakram,4,Classic Leather Barbarian Bikini,,50 percent,Desert,Black,Dominatrix,,White Holy Shield,822,9,https://portal.forgottenrunes.com/api/warriors/img/822,Riley Defender of the Rock
+2,,3,Yellow Tunic Armor,,66 percent,Amber,Black,Polar Man,,Bolt Shield,823,8,https://portal.forgottenrunes.com/api/warriors/img/823,Arnie Attacker of the Coliseum
+4,Sol Sword,6,Traveller's Cloak Blue,Rune of Lime,66 percent,Blue Shift,Blue,Bruiser,Northern Lynx,Blue Kite,824,11,https://portal.forgottenrunes.com/api/warriors/img/824,Valentino Paragon of the Arena
+2,Crowbar,5,Sakura Dress,Rune of Lime,40 percent,Blue Shift,Blue,Hibernian,Spectacled Falcon,,825,10,https://portal.forgottenrunes.com/api/warriors/img/825,Maya Crusher of the Kitsune
+3,Yellow Chainsaw,5,Superalloy Bot,Rune of Saturn,60 percent,Cyber,Black,Visor Knight,Field Hound,,826,10,https://portal.forgottenrunes.com/api/warriors/img/826,Buck Bloodbath of X
+3,Tuck,6,Iron Knight of the Heath,Rune of Sun,50 percent,Guard,Blue,Praetorian,Hyena,Green Buckler,827,11,https://portal.forgottenrunes.com/api/warriors/img/827,Octavius Guardian of the Mountain
+3,Jungle Boomerang,5,Street Punk with Green Camo,Rune of Neptune,60 percent,Verdant,Green,Green Knight Helm,Harpy Eagle,,828,10,https://portal.forgottenrunes.com/api/warriors/img/828,Lance Defender of the Keep
+2,Brown Longsword,5,Capital City Keikogi,Rune of Brimstone,40 percent,Viking,Red,Purple Viking Helm,Hyena,,829,10,https://portal.forgottenrunes.com/api/warriors/img/829,Imu Armageddon of the Ring
+4,Bush Spear,6,Traveller's Cloak Red,Rune of Fire,66 percent,Crimson,Red,Blue Knight Helm,Rattlesnake,Shield of the Sun,830,11,https://portal.forgottenrunes.com/api/warriors/img/830,John Paragon of the Hall
+2,Hambone,6,Omega Plate Armor,Rune of Mercury,33 percent,Mace,Blue,Akkadian,Dirt Pig,Green Buckler,831,11,https://portal.forgottenrunes.com/api/warriors/img/831,Gungunu of Titans
+3,Tuck,5,Brown Tunic Armor,Rune of Water,60 percent,Medieval,Blue,Warrior Monk,,Shield of Down Only,832,10,https://portal.forgottenrunes.com/api/warriors/img/832,Kofi Hero of the Citadel
+3,Jungle Boomerang,6,Iron Knight of the Hills,Rune of Mercury,50 percent,Verdant,Green,Strongman,Sand Cobra,Brown Kite,833,11,https://portal.forgottenrunes.com/api/warriors/img/833,Zod Rogue of the Wild
+4,Journeyman Falchion,6,Green One Piece,Rune of Sun,66 percent,Desert,Black,Forgotten Lady,Gigas Hornet,Shield of Balance,834,11,https://portal.forgottenrunes.com/api/warriors/img/834,Subira Contaminator of the Range
+4,Firebrand,6,Armor of Air,Rune of Uranus,66 percent,Crimson,Red,Oni Girl,Black Goat,Pony Shield,835,11,https://portal.forgottenrunes.com/api/warriors/img/835,Mayumi Ruin of the Hall
+4,Stratiotai Spear,4,Purple Tunic Armor,,100 percent,Medieval,Black,Leo,,Snake Shield,836,9,https://portal.forgottenrunes.com/api/warriors/img/836,Maximus Defeater of Cataclysm
+4,Goblin Sword,6,Red Macho Pants,Rune of Jupiter,66 percent,Crimson,Red,Meriotic Warrior,Dirt Pig,Red Aspis,837,11,https://portal.forgottenrunes.com/api/warriors/img/837,Jojo Attacker of Muscle Mountain
+3,Bo Staff,6,Purple Provocator Garb,Rune of Mars,50 percent,Heavy,Black,Polar Man,Wild Eagle,Green Buckler,838,11,https://portal.forgottenrunes.com/api/warriors/img/838,William Bruiser of the Obelisk
+5,Blue Broadsword,6,Nord Armor,Rune of Steel,83 percent,Blue Shift,Blue,Hibernian,Royal Razorback,Water Elemental Shield,839,11,https://portal.forgottenrunes.com/api/warriors/img/839,Aida Menace of Rats
+3,Gladiator Sword,5,Pirate Garb,Rune of Brimstone,60 percent,Sea,Blue,Lady of the Oasis,,Yellow Kite,840,10,https://portal.forgottenrunes.com/api/warriors/img/840,Amelia Disintegrator of the Duck Alliance
+3,Brown Longsword,6,Kobold Grunt Gear,Rune of Lime,50 percent,Gladiator,Black,Blue Dwarven Helm,Onyx Panther,Toxin Shield,841,11,https://portal.forgottenrunes.com/api/warriors/img/841,Kona Wounder of the Forest
+3,Gladiator Sword,4,Traveller's Cloak Yellow,,75 percent,Desert,Blue,Olive Mendicant,,Magic Shield,842,9,https://portal.forgottenrunes.com/api/warriors/img/842,Adil Shaver of Thunder Mountain
+6,Estoc,6,Dark Assassin Tunic,Rune of Pluto,100 percent,Darkness,Black,Horror Mask,Night Wolf,Shield of the Moon,843,11,https://portal.forgottenrunes.com/api/warriors/img/843,Auberon Villain of Domination
+4,Stratiotai Spear,4,Armor of Fire,,100 percent,Knight,Black,Avalonian,,Butterfly Shield,844,9,https://portal.forgottenrunes.com/api/warriors/img/844,Pari Impaler of the Mountain
+3,Estoc,6,Goblin Toga,Rune of Sun,50 percent,Rugged,Green,Capped Goblin,Hyena,Shield of the Sun,845,11,https://portal.forgottenrunes.com/api/warriors/img/845,Oolog Explorer of the Horde
+2,Partisan,4,Battle Sari,,50 percent,Teal,Black,Lady of the Oasis,,Green Buckler,846,9,https://portal.forgottenrunes.com/api/warriors/img/846,Margarita Poker of the Wheel
+3,West Side Pipe Wrench,6,South Woodland Cloak,Rune of Sigma,50 percent,Machine,Red,Divanae,Robo Dog,Guardian Shield,847,11,https://portal.forgottenrunes.com/api/warriors/img/847,Akinyi Hammer of the Wild
+4,Green Longsword,6,Green Road Spandex,Rune of Venus,66 percent,Muscle,Green,Forgotten Lady,Hamadryas Baboon,Triple Triangle Shield,848,11,https://portal.forgottenrunes.com/api/warriors/img/848,Aurelia Piercer of Thieves
+4,Blue Broadsword,6,Honor Guard of the North,Rune of Uranus,66 percent,Blue Shift,Blue,Hibernian,Ultramarine Rhinoceros Beetle,Blue Kite,849,11,https://portal.forgottenrunes.com/api/warriors/img/849,Sandy Wounder of the Coliseum
+2,Spiked Ball and Chain,5,Argyropoeia Bot,Rune of Saturn,40 percent,Cyber,Blue,Visor Knight,Spectacled Falcon,,850,10,https://portal.forgottenrunes.com/api/warriors/img/850,Bronn Crusher of Machines
+5,Lazurite Dragon Sword,6,Red One Piece,Rune of Air,83 percent,Crimson,Red,Autumn Warrior,Scarlet Macaw,Yellow Buckler,851,11,https://portal.forgottenrunes.com/api/warriors/img/851,Agnes Guillotiner of Rogues
+4,Giant Cleaver,6,Red Battle Bikini,Rune of Saturn,66 percent,Armor,Red,Lady Barbarian,Dirt Pig,Yellow Buckler,852,11,https://portal.forgottenrunes.com/api/warriors/img/852,Tracy Carver of the Ridge
+4,Goblin Sword,6,Traveller's Cloak Red,Rune of Lime,66 percent,Crimson,Red,Stratiotai,Buffkin,Pony Shield,853,11,https://portal.forgottenrunes.com/api/warriors/img/853,Hazim Ravager of the North
+5,Ishtar Sword,6,Banded Armor of the Ether,Rune of Steel,83 percent,Purple Haze,Purple,Ether Horn Helm,Sable Cobra,Prism Shield,854,11,https://portal.forgottenrunes.com/api/warriors/img/854,Soran Cleaver of the Trail
+4,Journeyman Falchion,6,Majestic Epic Gear,Rune of Air,66 percent,Gold,Green,Green Knight Helm,Spectacled Falcon,Gold Holy Shield,855,11,https://portal.forgottenrunes.com/api/warriors/img/855,Ralph Contaminator of the Ruins
+3,Journeyman Falchion,6,White Tunic Armor,Rune of Neptune,50 percent,Medieval,Blue,Macho Man,Northern Lynx,Purple Kite,856,11,https://portal.forgottenrunes.com/api/warriors/img/856,Arnie Guardian of the Riverlands
+5,Blue Broadsword,6,Blue Hedge Knight Armor,Rune of Brimstone,83 percent,Blue Shift,Blue,Colloidal Silver Man,Ultramarine Rhinoceros Beetle,Water Elemental Shield,857,11,https://portal.forgottenrunes.com/api/warriors/img/857,Valen Armageddon of Snakes
+2,Longbow,5,Nude,Rune of Steel,40 percent,Gladiator,Green,Purple Viking Helm,,Wolf Shield,858,10,https://portal.forgottenrunes.com/api/warriors/img/858,Wildin Danger in a Birthday Suit
+3,Bush Spear,5,Equatorial Keikogi,Rune of Omega,60 percent,Verdant,Green,Green Knight Helm,Crimson Jaguar,,859,10,https://portal.forgottenrunes.com/api/warriors/img/859,Humphrey Defeater of the Sunrise
+2,Goblin Axe,4,North Woodland Cloak,,50 percent,Forest,Blue,Archipelagian,,Red Herald Shield,860,9,https://portal.forgottenrunes.com/api/warriors/img/860,Sanaa Assaulter of the East
+2,Aurelian Double Blade,5,North Island MMA Pants,Rune of Steel,40 percent,White Magic,Black,Meriotic Warrior,Rattlesnake,,861,10,https://portal.forgottenrunes.com/api/warriors/img/861,Zuberi Piercer of the Dojo
+3,Apollo's Bow,6,Dominion Plate Armor,Rune of Earth,50 percent,Blackness,Black,Executioner,Night Wolf,Bolt Shield,862,11,https://portal.forgottenrunes.com/api/warriors/img/862,Rothschild Mischief Maker of the Guild
+4,Flame Thrower,6,Kobold Road Warrior,Rune of Jupiter,66 percent,Blackness,Black,Kobold Grunt,Black Goat,Mercenary Heater Shield,863,11,https://portal.forgottenrunes.com/api/warriors/img/863,Blarf Burner of Brown Wizards
+3,Master Claymore,4,Fur Barbarian,,75 percent,Heavy,Black,Scout,,Fire Shield,864,9,https://portal.forgottenrunes.com/api/warriors/img/864,Lance Contaminator of Atlantis
+3,Bo Staff,4,Gold Lamellar,,75 percent,Gladiator,Black,Stratiotai,,Fire Shield,865,9,https://portal.forgottenrunes.com/api/warriors/img/865,Zimah Striker of the Valley
+3,Purple Longsword,5,Murmillo Gear,Rune of Fire,60 percent,Heavy,Black,East Sider,,Red Kite,866,10,https://portal.forgottenrunes.com/api/warriors/img/866,Reid Scissor of the Cockatrice
+4,Sol Sword,6,Blue Valkyrie Armor,Rune of Venus,66 percent,Blue Shift,Blue,Hibernian,Northern Lynx,Blue Buckler,867,11,https://portal.forgottenrunes.com/api/warriors/img/867,Devon Attacker of the Jungle
+3,Stratiotai Spear,5,Purple Valkyrie Armor,Rune of Lime,60 percent,Armor,Blue,Red Horn Lady Buff,,Shield of Down Only,868,10,https://portal.forgottenrunes.com/api/warriors/img/868,Millicent Eidolon of Mount Titan
+3,Bush Spear,5,Yellow Wrestling Singlet,Rune of Neptune,60 percent,Verdant,Green,Mescaline Warrior,Garuda's Griffin,,869,10,https://portal.forgottenrunes.com/api/warriors/img/869,Finn Vanquisher for Freedom
+4,Spiked Ball and Chain,5,Yellow Tunic Armor,Rune of Mars,80 percent,Gladiator,Blue,Akkadian,,Wooden Buckler,870,10,https://portal.forgottenrunes.com/api/warriors/img/870,Urmah Grinder of the Citadel
+3,Battle Axe,6,Purple Provocator Garb,Rune of Air,50 percent,Medieval,Black,East Sider,Dirt Pig,Air Elemental Shield,871,11,https://portal.forgottenrunes.com/api/warriors/img/871,Ward Amputator of the Rock
+4,Whip,6,Terrapin Armor,Rune of Steel,66 percent,Armor,Green,Praetorian,Mutant Snapping Turtle,Tanker Heater Shield,872,11,https://portal.forgottenrunes.com/api/warriors/img/872,Valentinus Castigater of the Slime Pits
+3,Estoc,4,Yellow Tunic Armor,,75 percent,Knight,Black,Brigand,,Might Shield,873,9,https://portal.forgottenrunes.com/api/warriors/img/873,Kaz Madcap of the Dawn
+3,Red Chainsaw,6,Murmillo Gear,Rune of Air,50 percent,Brownish,Blue,Jarl Raider,Buffkin,Purple Kite,874,11,https://portal.forgottenrunes.com/api/warriors/img/874,Zenon Creeper of the Obelisk
+2,Longbow,5,Purple Belt Ruffian,Rune of Venus,40 percent,Blackness,Black,Basic Bro,Woodland Wolverine,,875,10,https://portal.forgottenrunes.com/api/warriors/img/875,Jordan Barrager of the Road
+3,Hambone,5,Traveller's Cloak Yellow,Rune of Pluto,60 percent,Brownish,Black,Imperial Helmet,,Might Shield,876,10,https://portal.forgottenrunes.com/api/warriors/img/876,Octavius of the Mountain
+4,Dane Axe,6,Gladiator's Cloak with Green Briefs,Rune of Mars,66 percent,Grey,Green,Contender Helm,Spectacled Falcon,Iron Buckler,877,11,https://portal.forgottenrunes.com/api/warriors/img/877,Hacan Dispatcher of the Arena
+2,Sabre,5,Megasuit,Rune of Mercury,40 percent,Desert,Black,Kempo,Dirt Pig,,878,10,https://portal.forgottenrunes.com/api/warriors/img/878,Corbin Obliterator of Area 71
+4,Green Longsword,5,Equatorial Keikogi,Rune of Brimstone,80 percent,Darkness,Green,Earth Guard,Sable Cobra,,879,10,https://portal.forgottenrunes.com/api/warriors/img/879,Falcon Dismantler of Concrete
+3,Master Claymore,4,Purple Knight,,75 percent,Armor,Black,Xanthe,,Bolt Shield,880,9,https://portal.forgottenrunes.com/api/warriors/img/880,Gabriela Punisher of the West
+4,Katana,6,Armor of Air,Rune of Mars,66 percent,Gold,Black,Valkyrie,Wild Eagle,White Holy Shield,881,11,https://portal.forgottenrunes.com/api/warriors/img/881,Leila Dismantler of the Storm
+3,Gladius,5,Red Battle Bikini,Rune of Uranus,60 percent,Armor,Blue,Bambam,,Green Aspis,882,10,https://portal.forgottenrunes.com/api/warriors/img/882,Kat Annihilator of Thieves
+3,Blue Shortsword,5,Street Punk with Teal Camo,Rune of Mercury,60 percent,Feminine,Black,Moorish Girl,Night Wolf,,883,10,https://portal.forgottenrunes.com/api/warriors/img/883,Bambam Slasher of Kobolds
+5,Bush Spear,6,Red Amazonian Jumpsuit,Rune of Jupiter,83 percent,Crimson,Red,Peacock Warrior,Crimson Jaguar,Shield of Blood Skull,884,11,https://portal.forgottenrunes.com/api/warriors/img/884,Omolara Impaler of the Tower
+3,Crowbar,5,Street Punk with Brown Camo,Rune of Uranus,60 percent,Brownish,Green,Gladiator Helmet,Spectacled Falcon,,885,10,https://portal.forgottenrunes.com/api/warriors/img/885,Flamma Basher of Goblins
+4,Whip,5,Orange Road Warrior,Rune of Earth,80 percent,Wild,Blue,Stunt Man,Woodland Wolverine,,886,10,https://portal.forgottenrunes.com/api/warriors/img/886,Sylvester Castigater of the Docks
+3,Sabre,5,Tower Plate Armor,Rune of Uranus,60 percent,Medieval,Black,Legionnaire Helmet,,Fire Shield,887,10,https://portal.forgottenrunes.com/api/warriors/img/887,Crixus Marauder of all that is Holy
+2,Blue Shortsword,4,Red Boxing Shorts,Rune of Brass,50 percent,Darkness,Black,Yellow Viking Helm,,,888,9,https://portal.forgottenrunes.com/api/warriors/img/888,Frazzon Dissector of the Duck Alliance
+4,Estoc,5,Red Tunic Armor,Rune of Cinnabar,80 percent,Armor,Black,Brownlander,,Tanker Heater Shield,889,10,https://portal.forgottenrunes.com/api/warriors/img/889,Dean Protector of Muscle Mountain
+5,Bottle of Rune Beer,6,Purple Valkyrie Armor,Rune of Air,83 percent,Purple Haze,Purple,Styxian,Null Goat,Yellow Kite,890,11,https://portal.forgottenrunes.com/api/warriors/img/890,Ashanti of Avalon
+2,Bone Club,5,Red Tunic Armor,Rune of Pluto,40 percent,Axe,Black,Barbarian,,Shield of Down Only,891,10,https://portal.forgottenrunes.com/api/warriors/img/891,Titus Liquidator of Light
+4,Bush Spear,6,Green Knight,Rune of Jupiter,66 percent,Verdant,Green,Onna-Musha,Greater Cassowary,Green Kite,892,11,https://portal.forgottenrunes.com/api/warriors/img/892,Chiyo Eidolon of Knights
+3,Malachite Cleaver,6,Green Amazonian Jumpsuit,Rune of Venus,50 percent,Jungle,Green,Marsh Girl,Hyena,Shield of the Black Goat,893,11,https://portal.forgottenrunes.com/api/warriors/img/893,Alicia Slasher of Monsters
+3,Master Claymore,5,Brown Knight,Rune of Mercury,60 percent,Guard,Blue,Styxian,,Snake Shield,894,10,https://portal.forgottenrunes.com/api/warriors/img/894,Nuru Razer of Rats
+4,Sword of Babylon,5,Iron Knight of the Hills,,80 percent,Muscle,Green,Blonde Bearded Berserker,Hamadryas Baboon,Purple Kite,895,10,https://portal.forgottenrunes.com/api/warriors/img/895,Rumbar Chisler of Thieves
+3,Yellow Chainsaw,5,Street Punk with Teal Camo,Rune of Pluto,60 percent,Blackness,Black,Flower of the Wheel,Silver Goat,,896,10,https://portal.forgottenrunes.com/api/warriors/img/896,Navi Render of the Citadel
+4,Estoc,6,Yellow Hedge Knight Armor,Rune of Venus,66 percent,Rugged,Black,Furgnome Marauder,Silver Goat,Blue Buckler,897,11,https://portal.forgottenrunes.com/api/warriors/img/897,Otto Impaler of Thieves
+3,East Side Pipe Wrench,5,Business Suit,Rune of Mars,60 percent,Crimson,Red,Gold Knight Helm,Demon Hound,,898,10,https://portal.forgottenrunes.com/api/warriors/img/898,William Shatterer of Implings
+3,,3,White Tunic Armor,,100 percent,Knight,Black,Forgotten Man,,Yellow Buckler,899,8,https://portal.forgottenrunes.com/api/warriors/img/899,Brutus Antagonist of the South
+3,Longbow,6,Kobold Road Warrior,Rune of Saturn,50 percent,Blackness,Black,Kobold Grunt,Silver Goat,Shield of Up Only,900,11,https://portal.forgottenrunes.com/api/warriors/img/900,Rando Robber of Bandits
+3,Silver Poleaxe,6,Alchemist Armor,Rune of Air,50 percent,Blue Shift,Blue,Basic Bro,Hyena,Water Elemental Shield,901,11,https://portal.forgottenrunes.com/api/warriors/img/901,Chase Savior of the Sacred Pillars
+3,Battle Axe,6,Green Knight,Rune of Earth,50 percent,Armor,Green,Lady of the Oasis,Hyena,Shield of the Moon,902,11,https://portal.forgottenrunes.com/api/warriors/img/902,Margaret Hellraiser of the Realm
+4,Titan Cleaver,6,Blue Medieval Livery,Rune of Brass,66 percent,Crimson,Red,Meriotic Warrior,Sand Cobra,Shield of the Sun,903,11,https://portal.forgottenrunes.com/api/warriors/img/903,Akon Antagonist of Beasts
+3,Master Claymore,6,Yellow One Piece,Rune of Venus,50 percent,Amber,Green,Red Horn Lady Buff,Northern Lynx,Green Buckler,904,11,https://portal.forgottenrunes.com/api/warriors/img/904,Sharla Obliterator of Honor
+4,Sabre,6,Brown Hedge Knight Armor,Rune of Air,66 percent,Brownish,Black,Shaolin,Wild Eagle,Purple Kite,905,11,https://portal.forgottenrunes.com/api/warriors/img/905,Wharton Razer of Dragons
+3,Yellow Chainsaw,6,Armor of Earth,Rune of Water,50 percent,Brownish,Green,Fungus,Buffkin,Mercenary Heater Shield,906,11,https://portal.forgottenrunes.com/api/warriors/img/906,Truffkin Antihero of the Sun
+3,Whip,6,West Woodland Cloak,Rune of Saturn,50 percent,Wild,Black,Moorish Girl,Onyx Panther,Red Herald Shield,907,11,https://portal.forgottenrunes.com/api/warriors/img/907,Lucy Lasher of the Wild
+2,Iron Hammer,3,Purple Belt Ruffian,,66 percent,Grey,Blue,Forgotten Man,,,908,8,https://portal.forgottenrunes.com/api/warriors/img/908,Tad Masher of Kobolds
+5,Silver Poleaxe,6,Alchemist Armor,Rune of Brass,83 percent,Armor,Blue,Imp Warrior,Golden Jaguar,Tate Shield,909,11,https://portal.forgottenrunes.com/api/warriors/img/909,Dell Savior of Wizards
+4,Partisan,6,Murmillo Gear,Rune of Mars,66 percent,Rugged,Blue,Elder,Spectacled Falcon,Snake Shield,910,11,https://portal.forgottenrunes.com/api/warriors/img/910,Fangir Impaler of the Desert
+4,Giant Cleaver,6,Red Macho Pants,Rune of Up,66 percent,Purple Haze,Purple,Purple Dwarven Helm,Robo Dog,Yellow Kite,911,11,https://portal.forgottenrunes.com/api/warriors/img/911,Dando Hacker of the Duck Alliance
+5,Lazurite Dragon Sword,6,Blue Medieval Livery,Rune of Protection,83 percent,Blue Shift,Blue,Guardian Helm,Harpy Eagle,Blue Kite,912,11,https://portal.forgottenrunes.com/api/warriors/img/912,Arthur Paragon of Light
+4,Goblin Sword,6,Green Road Spandex,Rune of Lime,66 percent,Crimson,Red,Autumn Warrior,Dirt Pig,Tanker Heater Shield,913,11,https://portal.forgottenrunes.com/api/warriors/img/913,Millicent Ruin of Goblin Town
+4,Malachite Cleaver,6,Banded Armor of the Forest,Rune of Fire,66 percent,Rugged,Green,Cyber Marauder,Nastyass Honey Badger,Green Kite,914,11,https://portal.forgottenrunes.com/api/warriors/img/914,Asmodeus Ruin of Shadows
+3,Longbow,6,Prism Armor,Rune of Water,50 percent,Blackness,Black,Wrestler Giant,Onyx Panther,Snake Shield,915,11,https://portal.forgottenrunes.com/api/warriors/img/915,Tim Defender of Crystals
+3,Longbow,6,South Woodland Cloak,Rune of Lime,50 percent,Wild,Green,Marsh Girl,Northern Lynx,Gold Holy Shield,916,11,https://portal.forgottenrunes.com/api/warriors/img/916,Leah Menace of the Elysian Fields
+5,Ishtar Sword,6,Dark Ronin Armor,Rune of Uranus,83 percent,Purple Haze,Purple,Purple Viking Helm,Null Goat,Shield of the Moon,917,11,https://portal.forgottenrunes.com/api/warriors/img/917,Krafili Lacerator of the Lost City
+4,Bone Club,5,Street Punk with Brown Camo,Rune of Cinnabar,80 percent,Wild,Green,Forgotten Man,Rattlesnake,,918,10,https://portal.forgottenrunes.com/api/warriors/img/918,Spike Fragmenter of the Street
+3,Tuck,4,Classic Leather Barbarian Bikini,,75 percent,Feminine,Black,Lady of the Oasis,,Iron Buckler,919,9,https://portal.forgottenrunes.com/api/warriors/img/919,Keren Ruffian of the Arena
+4,Blue Broadsword,5,Street Hoodlum,Rune of Venus,80 percent,Blue Shift,Blue,Blue Dwarven Helm,Ultramarine Rhinoceros Beetle,,920,10,https://portal.forgottenrunes.com/api/warriors/img/920,Dando Shaver of Imps
+4,Wooden Club,6,Nord Armor,Rune of Air,66 percent,Armor,Red,Forgotten Lady,Woodland Wolverine,Yellow Kite,921,11,https://portal.forgottenrunes.com/api/warriors/img/921,Sal Shatterer of Worlds
+3,Blue Shortsword,6,Purple Macho Pants,Rune of Uranus,50 percent,Blackness,Black,Wrestler Giant,Night Wolf,Infinity Shield,922,11,https://portal.forgottenrunes.com/api/warriors/img/922,Mondo Wrecker of the Coliseum
+2,Rapier,3,Purple Wrestling Singlet,,66 percent,Armor,Blue,Lycan Warrior,,,923,8,https://portal.forgottenrunes.com/api/warriors/img/923,Pierce Paragon of Mount Titan
+3,Brown Longsword,3,Yellow Wrestling Singlet,,100 percent,Heavy,Black,Contender Helm,,,924,8,https://portal.forgottenrunes.com/api/warriors/img/924,Rothschild Sword of Mount Titan
+3,Spiked Ball and Chain,6,Green Tunic Armor,Rune of Venus,50 percent,Medieval,Black,Shaolin,Robo Dog,Horseshoe Shield,925,11,https://portal.forgottenrunes.com/api/warriors/img/925,Rogue Crusher of the Mountain
+3,Scimitar,4,Purple Valkyrie Armor,,75 percent,Feminine,Blue,Daughter of the Brine,,Shield of Up Only,926,9,https://portal.forgottenrunes.com/api/warriors/img/926,Leah Stabber of Shadows
+3,Golden Sword,6,Kobold Grunt Gear,Rune of Sigma,50 percent,Crimson,Black,Blue Dwarven Helm,Night Wolf,Tate Shield,927,11,https://portal.forgottenrunes.com/api/warriors/img/927,Ian Contaminator of Chickens
+2,Trident,5,Street Punk with Violet Camo,Rune of Up,40 percent,Sea,Black,Kelt,Onyx Panther,,928,10,https://portal.forgottenrunes.com/api/warriors/img/928,Arvid Protector of Goblin Town
+4,Master Claymore,6,Green Tunic Armor,Rune of Neptune,66 percent,Armor,Green,Olympian,Gigas Hornet,Air Elemental Shield,929,11,https://portal.forgottenrunes.com/api/warriors/img/929,Zolan Calamity of Dragons
+2,Scimitar,5,Yellow Wrestling Singlet,Rune of Earth,40 percent,Desert,Green,Ether Horn Helm,Woodland Wolverine,,930,10,https://portal.forgottenrunes.com/api/warriors/img/930,Naberius Punisher of the Ring
+4,Estoc,6,Green Hedge Knight Armor,Rune of Cinnabar,66 percent,Armor,Green,Cool Guy,Northern Lynx,Triple Triangle Shield,931,11,https://portal.forgottenrunes.com/api/warriors/img/931,Nicolas Shark of the Trail
+3,Aurelian Double Blade,5,Traveller's Cloak Yellow,Rune of Brimstone,60 percent,Rugged,Blue,Macho Man,,Might Shield,932,10,https://portal.forgottenrunes.com/api/warriors/img/932,Farrell Wounder of the Coliseum
+3,Malachite Dragon Pike,6,Terrapin Armor,Rune of Saturn,50 percent,Verdant,Green,Zimbala,Ultramarine Rhinoceros Beetle,Pony Shield,933,11,https://portal.forgottenrunes.com/api/warriors/img/933,Dusty Hacker of the Slime
+3,Cheeseburger,6,Gallus Gear,Rune of Neptune,50 percent,Brute,Black,Action Man,Night Wolf,Shield of Balance,934,11,https://portal.forgottenrunes.com/api/warriors/img/934,Rockford of the Sun
+3,Butcher Knife,5,Purple Knight,,60 percent,Blue Shift,Blue,Winter Warrior,Robo Dog,Water Elemental Shield,935,10,https://portal.forgottenrunes.com/api/warriors/img/935,Devon Mutilater of Dragons
+3,Journeyman Falchion,4,Armor of Fire,,75 percent,Guard,Black,Moorish Girl,,Shield of the Sun,936,9,https://portal.forgottenrunes.com/api/warriors/img/936,Judy Cutter of the Hall
+5,Bo Staff,6,Brown Hedge Knight Armor,Rune of Venus,83 percent,Brownish,Green,Gladiator Helmet,Wild Eagle,Brown Kite,937,11,https://portal.forgottenrunes.com/api/warriors/img/937,Cornelius Basher of the Arena
+4,Estoc,5,Yellow Knight,Rune of Fire,80 percent,Armor,Blue,Kelt,,Air Elemental Shield,938,10,https://portal.forgottenrunes.com/api/warriors/img/938,Alicia Thief of Dragons
+4,Jungle Boomerang,6,Xanthous Paladin Gear,Rune of Neptune,66 percent,Verdant,Green,Mescaline Warrior,Aurelian Rhinoceros Beetle,Green Kite,939,11,https://portal.forgottenrunes.com/api/warriors/img/939,Asim Ranger of the Moon
+5,Partisan,6,Aura Knight with Red Cloak,Rune of Fire,83 percent,Rugged,Purple,Forgotten Man,Null Goat,Green Kite,940,11,https://portal.forgottenrunes.com/api/warriors/img/940,Cossus Defeater of the Road
+5,Jungle Boomerang,6,Blue Hedge Knight Armor,Rune of Mars,83 percent,Blue Shift,Blue,Shutter Knight,Harpy Eagle,Blue Kite,941,11,https://portal.forgottenrunes.com/api/warriors/img/941,Thombim Champion of the Rune Raiders
+3,Blood Sword,5,Black Dominatrix Gear,Rune of Pluto,60 percent,Blackness,Black,Cloud Champion,Demon Hound,,942,10,https://portal.forgottenrunes.com/api/warriors/img/942,Camilla Slayer of Pain
+3,Shortbow,6,Armor of Earth,Rune of Jupiter,50 percent,Brownish,Green,Contender Helm,Hyena,Water Elemental Shield,943,11,https://portal.forgottenrunes.com/api/warriors/img/943,Zagan Protector of the Mountain
+4,Silver Poleaxe,5,Capital City Keikogi,Rune of Fire,80 percent,Blue Shift,Blue,Sea Guard,Royal Razorback,,944,10,https://portal.forgottenrunes.com/api/warriors/img/944,Callahan Champion of the Dojo
+4,Ishtar Sword,6,Purple Knight,Rune of Air,66 percent,Purple Haze,Purple,Kushite,Null Goat,Frog Shield,945,11,https://portal.forgottenrunes.com/api/warriors/img/945,Zora Champion of the Valley
+4,Red Broadsword,6,Dark Assassin Tunic,Rune of Mars,66 percent,Crimson,Red,Red Ronin,Hamadryas Baboon,Red Herald Shield,946,11,https://portal.forgottenrunes.com/api/warriors/img/946,Rockford Mincer of the City
+3,Chakram,6,Dark Assassin Tunic,Rune of Lime,50 percent,Rugged,Blue,Jungle Commando,Rattlesnake,Snake Shield,947,11,https://portal.forgottenrunes.com/api/warriors/img/947,Mace Vanquisher of the Penthouse
+3,Bo Staff,5,Gladiator's Cloak with Leather Briefs,Rune of Cinnabar,60 percent,Gladiator,Black,Akkadian,,Air Elemental Shield,948,10,https://portal.forgottenrunes.com/api/warriors/img/948,Hurin Crumbler of the Rock
+3,Red Shortsword,5,Zuli Suit,Rune of Jupiter,60 percent,Feminine,Blue,Kushite,,Shield of Down Only,949,10,https://portal.forgottenrunes.com/api/warriors/img/949,Nyarai Savior of the Lost City
+3,Bush Spear,5,Banded Armor of the Forest,Rune of Neptune,60 percent,Verdant,Green,Furgnome Marauder,,Iron Buckler,950,10,https://portal.forgottenrunes.com/api/warriors/img/950,Goober Protector of Shadows
+3,Bo Staff,6,Purple Provocator Garb,Rune of Sun,50 percent,Gladiator,Blue,Praetorian,Woodland Wolverine,Mercenary Heater Shield,951,11,https://portal.forgottenrunes.com/api/warriors/img/951,Volantius Basher of the Rock
+5,Spetum,5,Sapphire Paladin Gear,,100 percent,Blue Shift,Blue,Colloidal Silver Man,Royal Razorback,Blue Kite,952,10,https://portal.forgottenrunes.com/api/warriors/img/952,Drake Impaler of the Duck Alliance
+2,Yellow Chainsaw,6,Blue Hedge Knight Armor,Rune of Jupiter,33 percent,Cyber,Blue,Olive Mendicant,Wild Eagle,White Holy Shield,953,11,https://portal.forgottenrunes.com/api/warriors/img/953,Azim Mangler of the Grass
+2,Bo Staff,5,Glory Knight,Rune of Cinnabar,40 percent,Monk,Black,Cool Guy,,Green Aspis,954,10,https://portal.forgottenrunes.com/api/warriors/img/954,Colt Defeater of Rats
+4,Green Longsword,6,Armor of Earth,Rune of Uranus,66 percent,Heavy,Green,Mescaline Warrior,Hamadryas Baboon,Tomb Shield,955,11,https://portal.forgottenrunes.com/api/warriors/img/955,Chuck Piercer of Glory
+3,Goblin Sword,6,Honor Guard of the South,Rune of Fire,50 percent,Darkness,Green,Divanae,Sand Cobra,Toxin Shield,956,11,https://portal.forgottenrunes.com/api/warriors/img/956,Zula Assaulter of Beasts
+4,Malachite Cleaver,6,Majestic Epic Gear,Rune of Omega,66 percent,Verdant,Green,Zimbala,Scarlet Macaw,Green Kite,957,11,https://portal.forgottenrunes.com/api/warriors/img/957,Manuel Sword of the Duck Alliance
+5,Red Longsword,6,Gallus Gear,Rune of Brimstone,83 percent,Crimson,Red,Blue Dwarven Helm,Gigas Hornet,Shield of the Sun,958,11,https://portal.forgottenrunes.com/api/warriors/img/958,Karnak Mercenary of the Coliseum
+4,Silver Poleaxe,6,Skylord Plate Armor,Rune of Saturn,66 percent,Blue Shift,Blue,Shutter Knight,Sand Cobra,Blue Kite,959,11,https://portal.forgottenrunes.com/api/warriors/img/959,Drulek Impaler of the Hall
+4,Estoc,5,West Woodland Cloak,Rune of Brimstone,80 percent,Darkness,Blue,Moorish Girl,,Shield of the Moon,960,10,https://portal.forgottenrunes.com/api/warriors/img/960,Diana Impaler of the North
+3,Battle Axe,4,Red Provocator Garb,,75 percent,Brownish,Black,Purple Viking Helm,,Red Aspis,961,9,https://portal.forgottenrunes.com/api/warriors/img/961,Korlim Nullifier of the Arena
+3,Mug of Ale,6,Yellow Knight,Rune of Uranus,50 percent,Knight,Black,Dominatrix,Field Hound,White Kite,962,11,https://portal.forgottenrunes.com/api/warriors/img/962,Andrea of Scoundrels
+3,Partisan,5,Street Punk Goblin,Rune of Steel,60 percent,Olive,Black,Goblin,,Red Aspis,963,10,https://portal.forgottenrunes.com/api/warriors/img/963,Kroberg Protector of Nasty Town
+4,Stratiotai Spear,5,Fur Barbarian,Rune of Steel,80 percent,Armor,Black,Spiked Helm,,Brown Kite,964,10,https://portal.forgottenrunes.com/api/warriors/img/964,Abigor Protector of Mount Titan
+5,Lazurite Dragon Sword,6,Alchemist Armor,Rune of Brass,83 percent,Armor,Blue,Xanthe,Royal Razorback,Blue Buckler,965,11,https://portal.forgottenrunes.com/api/warriors/img/965,Bellatrix Vanquisher of Scoundrels
+3,Mace,5,Commando Fatigues,Rune of Pluto,60 percent,Darkness,Green,Green Knight Helm,Wild Eagle,,966,10,https://portal.forgottenrunes.com/api/warriors/img/966,Hugh Clubber of Komodi
+4,Green Longsword,6,Green Knight,Rune of Brimstone,66 percent,Verdant,Green,Kempo,Attack Drone,Green Kite,967,11,https://portal.forgottenrunes.com/api/warriors/img/967,LiMei Attacker of Muscle Mountain
+3,Blood Sword,5,Black Dominatrix Gear,Rune of Omega,60 percent,Blackness,Black,Peahen Warrior,Silver Goat,,968,10,https://portal.forgottenrunes.com/api/warriors/img/968,Tisa Slasher of Torment Manor
+3,Amaryllis Fey Sword,5,Purple Macho Pants,,60 percent,Blackness,Black,Blood Horn Helm,Black Goat,Kraken Shield,969,10,https://portal.forgottenrunes.com/api/warriors/img/969,Asmodeus Ruin of the Duck Alliance
+3,Hambone,6,Green Provocator Garb,Rune of Uranus,50 percent,Brownish,Black,Contender Helm,Hyena,Wolf Shield,970,11,https://portal.forgottenrunes.com/api/warriors/img/970,Arioch of the Cockatrice
+4,Silver Poleaxe,6,Blue Knight,Rune of Lime,66 percent,Blue Shift,Blue,Onna-Musha,Ultramarine Rhinoceros Beetle,Water Elemental Shield,971,11,https://portal.forgottenrunes.com/api/warriors/img/971,Kazuko Poker of the Mountain
+4,Bo Staff,6,Highlander's Tartan,Rune of Mercury,66 percent,Wild,Black,Cool Guy,Northern Lynx,Gold Herald Shield,972,11,https://portal.forgottenrunes.com/api/warriors/img/972,Willy Neutralizer for Freedom
+2,,4,Red Boxing Shorts,Rune of Brass,50 percent,Darkness,Black,Praetorian,Hyena,,973,9,https://portal.forgottenrunes.com/api/warriors/img/973,Tetraites Hero of Komodi
+3,Sabre,6,Purple Macho Pants,Rune of Mercury,50 percent,Blackness,Black,Executioner,Black Goat,White Holy Shield,974,11,https://portal.forgottenrunes.com/api/warriors/img/974,Naberius Disintegrator of the Valley
+4,Rapier,6,Skylord Plate Armor,Rune of Brimstone,66 percent,Blue Shift,Blue,Guardian Helm,Ultramarine Rhinoceros Beetle,Blue Buckler,975,11,https://portal.forgottenrunes.com/api/warriors/img/975,Lance Ranger of the Dawn
+3,Morningstar,6,Banded Armor of Earth,Rune of Lime,50 percent,Brute,Blue,Blonde Bearded Berserker,Northern Lynx,Yellow Buckler,976,11,https://portal.forgottenrunes.com/api/warriors/img/976,Jasper Basher of the West
+3,Chakram,6,Banded Armor of Earth,Rune of Brimstone,50 percent,Brownish,Blue,Cool Guy,Northern Lynx,Red Aspis,977,11,https://portal.forgottenrunes.com/api/warriors/img/977,Caesar Grifter of the Villa
+2,Sai,5,Street Punk with Brown Camo,Rune of Mercury,40 percent,MMMA,Green,Contender Helm,Northern Lynx,,978,10,https://portal.forgottenrunes.com/api/warriors/img/978,Grumel Savior of Thieves
+3,Lavender Double Blade,5,Street Hoodlum,Rune of Neptune,60 percent,Heavy,Black,Brigand,Hyena,,979,10,https://portal.forgottenrunes.com/api/warriors/img/979,Werner Waster of the Underground
+3,Nunchaku,6,Fur Barbarian,Rune of Saturn,50 percent,Brownish,Black,Highlander,Buffkin,Tomb Shield,980,11,https://portal.forgottenrunes.com/api/warriors/img/980,Thorne Flagellator of the Jungle
+3,Malachite Dragon Pike,5,Cyborg Body,Rune of Brass,60 percent,Verdant,Green,Furgnome Mercenary,Scarlet Macaw,,981,10,https://portal.forgottenrunes.com/api/warriors/img/981,Helix Assaulter of Robots
+5,Plains Boomerang,6,Woodland Armor,Rune of Mercury,83 percent,Forest,Red,Woodlander,Dirt Pig,Wooden Shield,982,11,https://portal.forgottenrunes.com/api/warriors/img/982,Devon Explorer of the Shadows
+4,Malachite Dragon Pike,6,Dominion Plate Armor,Rune of Sigma,66 percent,Brute,Black,Motor Assassin,Night Wolf,Air Elemental Shield,983,11,https://portal.forgottenrunes.com/api/warriors/img/983,Rocky Armageddon of the Realm
+4,Cyber Axe,5,Purple Belt Ruffian,Rune of Sun,80 percent,Purple Haze,Purple,Ether Horn Helm,Null Goat,,984,10,https://portal.forgottenrunes.com/api/warriors/img/984,Typhon Battler of the Disco
+4,Plains Boomerang,5,Purple Belt Ruffian,Rune of Brimstone,80 percent,Purple Haze,Purple,Yellow Viking Helm,Null Goat,,985,10,https://portal.forgottenrunes.com/api/warriors/img/985,Kobeat Vengeance of Thieves
+2,Partisan,5,Northern Barbarian,,40 percent,Fur,Black,Vedic Warrior,Northern Lynx,Shield of Up Only,986,10,https://portal.forgottenrunes.com/api/warriors/img/986,Maya Paragon of the Sun
+5,Giant Cleaver,6,Purple Hedge Knight Armor,Rune of Air,83 percent,Purple Haze,Purple,Stunt Man,Null Goat,White Holy Shield,987,11,https://portal.forgottenrunes.com/api/warriors/img/987,Cane Ruin of the Tower
+3,Chakram,5,Red Provocator Garb,Rune of Water,60 percent,Gold,Black,Visor Knight,,Shield of the Moon,988,10,https://portal.forgottenrunes.com/api/warriors/img/988,Neo Monk of the Duck Alliance
+4,Pantheon Spear,6,Kobold Grunt Gear,Rune of Steel,66 percent,Armor,Black,Wild Kobold,Silver Goat,Guardian Shield,989,11,https://portal.forgottenrunes.com/api/warriors/img/989,Wambe Eidolon of Brown Wizards
+3,Partisan,5,Street Hoodlum,Rune of Brimstone,60 percent,Olive,Blue,Indigo Mendicant,Mutant Snapping Turtle,,990,10,https://portal.forgottenrunes.com/api/warriors/img/990, Impaler of the Alley
+3,,3,Yellow Hedge Knight Armor,,100 percent,Gold,Blue,Forgotten Man,,Shield of the Moon,991,8,https://portal.forgottenrunes.com/api/warriors/img/991,Ajax Disintegrator of the Arena
+4,Red Bomb,6,Dominion Plate Armor,Rune of Brass,66 percent,Crimson,Black,Executioner,Scarlet Macaw,Red Herald Shield,992,11,https://portal.forgottenrunes.com/api/warriors/img/992,Grumel Kablooey of Snakes
+4,Rogue Falchion,6,Dark Assassin Tunic,Rune of Uranus,66 percent,Crimson,Red,Rocket Helm,Northern Lynx,Tanker Heater Shield,993,11,https://portal.forgottenrunes.com/api/warriors/img/993,Kane Wounder of the Nightmare Dominion
+4,Agapanthus Fey Sword,6,Tower Plate Armor,Rune of Air,66 percent,Blue Shift,Blue,Blue Knight Helm,Harpy Eagle,Blue Kite,994,11,https://portal.forgottenrunes.com/api/warriors/img/994,William Slasher of the Realm
+3,Pantheon Spear,5,Cyborg Body,Rune of Mars,60 percent,Gold,Red,Imperial Helmet,Wild Eagle,,995,10,https://portal.forgottenrunes.com/api/warriors/img/995,Velox Paragon of Robots
+3,Partisan,6,Classic Leather Barbarian Bikini,Rune of Sun,50 percent,Desert,Black,Archipelagian,Dirt Pig,Horseshoe Shield,996,11,https://portal.forgottenrunes.com/api/warriors/img/996,Joan Savior of the Sun
+4,Spetum,6,Nord Armor,Rune of Air,66 percent,Blue Shift,Blue,Winter Warrior,Buffkin,Water Elemental Shield,997,11,https://portal.forgottenrunes.com/api/warriors/img/997,Helen Protector of Glory
+4,Spiked Ball and Chain,6,Banded Armor of Earth,Rune of Fire,66 percent,Brute,Black,South Sider,Field Hound,Wooden Buckler,998,11,https://portal.forgottenrunes.com/api/warriors/img/998,Logan Crusher of the South
+3,Partisan,5,Green Medieval Livery,Rune of Mercury,60 percent,Medieval,Black,Action Hero,,Wooden Buckler,999,10,https://portal.forgottenrunes.com/api/warriors/img/999,Rockford Vanquisher of the Trail
