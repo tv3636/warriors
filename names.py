@@ -80,4 +80,4 @@ with open('stats.json', 'w') as f:
 	json.dump(final, f)
 
 with open('warriors.json', 'w') as f:
-    json.dump(names, f)
+	json.dump(names, f)
